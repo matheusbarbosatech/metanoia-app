@@ -29,3 +29,9 @@ desktop.ini
 
 # Caches de testes
 .pytest_cache/
+
+# Segredos e Tokens
+.env
+.env.*
+assets/videos_fundo/
+

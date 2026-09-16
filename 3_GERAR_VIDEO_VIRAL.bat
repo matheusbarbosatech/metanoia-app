@@ -6,16 +6,16 @@ echo =====================================================================
 echo    ⚔️  GERADOR AUTOMÁTICO DE VÍDEOS VIRAIS COM IA // METANOIA ⚔️
 echo =====================================================================
 echo.
-echo Este script gera vídeos verticais (1080x1920) 100%% prontos para:
+echo Este pipeline cinematográfico gera vídeos verticais (1080x1920):
 echo  - TikTok
 echo  - Instagram Reels
 echo  - YouTube Shorts
 echo.
-echo Recursos inclusos:
-echo  * Locução neural masculina grave (pt-BR-AntonioNeural) - 100%% Grátis
-echo  * Legendas dinâmicas amarelas sincronizadas na tela
+echo Recursos integrados:
+echo  * Banco de Vídeos Cinemáticos: Pexels API + Pixabay API integrados (.env)
+echo  * Vozes Neurais Naturais: Antonio (PT-BR), Francisca (PT-BR), Duarte (PT-PT)
+echo  * Legendas dinâmicas amarelas sincronizadas com contorno preto
 echo  * Header oficial METANOIA // FORJA DE 90 DIAS
-echo  * Fundo Dark Obsidian ou seus vídeos da pasta 'assets\videos_fundo'
 echo.
 echo =====================================================================
 echo.
