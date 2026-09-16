@@ -1,0 +1,3162 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a0ab71-4cb4-7de0-9e34-4ebb2a54a500",
+    "sha256": "a66406098dec30fdcc92b73a091b5565f96ae782c386b3c641ee5d59641ea829",
+    "created": "2026-09-16T18:18:46.394Z",
+    "duration": 481.032,
+    "channels": 1,
+    "models": [
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5"
+    ],
+    "model_info": {
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5": {
+        "name": "2-general-nova",
+        "version": "2023-09-20.3885",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Rel relaxamento profundo. Para começar, procure 1 posição confortável, sentado ou deitado, mas atento. Comece respirando profundamente algumas vezes. Inspirando pelo nariz e expirando pela boca. Coloque esse à meta de querer relaxar o corpo e a mente. Silencia a tua fala, silencia a tua conversa interior, desacelere o fluxo dos pensamentos. Libere as preocupações e medos sobre o passado e o futuro. Permita que a sua mente, descanse neste momento presente. A cada expiração, relaxe. Solte. Solte o controle sobre o seu corpo e seus pensamentos. Libere as tensões. Permita que seu corpo e a sua mente descansem em seu estado natural. A cada expiração, solte toda e qualquer tensão. Solte os músculos da testa, Como se estivessem derretendo. Os olhos, o nariz, a boca, toda a extensão da mandíbula, a língua, o queixo, as orelhas, toda a face. Inspire e solte. Toda a musculatura do pescoço, os ombros, a nuca. Entregue seu corpo a este relaxamento. Percorra agora, o braço direito. O cotovelo, o antebraço. A mão. Os dedos, as pontas dos dedos. Agora, o braço esquerdo, cotovelo, antebraço, mão, dedos, ponta dos dedos. Sinta esse momento. A cada expiração, você solta ainda mais. Esqueça todo o controle. Simplesmente relaxe e se entregue. Perceba que você está relaxando. Solte a região do peito, da barriga, solte toda a musculatura do tronco. Agora as costas, cada vértebra da coluna, de cima pra baixo. Preste atenção na parte das costas que está mais tensa, e solte, relaxe cada vértebra, cada costela, e agora o quadril, a perna direita, a coxa, o joelho, a canela, a panturrilha, o tornozelo, o pé, a solo do pé, os dedos do pé. Agora a perna esquerda. A coxa, o joelho, a canela, a panturrilha, o tornozelo, o pé, a sola do pé, os dedos do pé. Sinta agora da cabeça aos pés tudo totalmente relaxado solte a mais mínima tensão que ainda resta respire calmamente Desfrute deste momento de relaxamento. Sinta o peso do corpo descontraído, a experiência de bemestar, de descontração, de consciência de que tudo vai bem. O que importa é o agora. Observe as sensações na superfície do corpo. Se ainda houver alguma tensão no peito, simplesmente solte, e deixe ir. Ir. Você está no presente, solto e tudo está bem. Você está cuidando de si. Sinta alegria. Aos poucos vá despertando dessa sessão, se movimentando com calma. Lembra se de que agora tudo está bem",
+            "confidence": 0.99560547,
+            "words": [
+              {
+                "word": "rel",
+                "start": 3.52,
+                "end": 4.02,
+                "confidence": 0.7368164,
+                "punctuated_word": "Rel"
+              },
+              {
+                "word": "relaxamento",
+                "start": 4.3199997,
+                "end": 4.48,
+                "confidence": 0.7163086,
+                "punctuated_word": "relaxamento"
+              },
+              {
+                "word": "profundo",
+                "start": 4.48,
+                "end": 4.98,
+                "confidence": 0.99853516,
+                "punctuated_word": "profundo."
+              },
+              {
+                "word": "para",
+                "start": 7.44,
+                "end": 7.8399997,
+                "confidence": 0.98828125,
+                "punctuated_word": "Para"
+              },
+              {
+                "word": "começar",
+                "start": 7.8399997,
+                "end": 8.34,
+                "confidence": 0.9550781,
+                "punctuated_word": "começar,"
+              },
+              {
+                "word": "procure",
+                "start": 8.88,
+                "end": 9.28,
+                "confidence": 0.9970703,
+                "punctuated_word": "procure"
+              },
+              {
+                "word": "1",
+                "start": 9.28,
+                "end": 9.44,
+                "confidence": 0.9980469,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "posição",
+                "start": 9.44,
+                "end": 9.94,
+                "confidence": 1.0,
+                "punctuated_word": "posição"
+              },
+              {
+                "word": "confortável",
+                "start": 10.16,
+                "end": 10.66,
+                "confidence": 0.982666,
+                "punctuated_word": "confortável,"
+              },
+              {
+                "word": "sentado",
+                "start": 11.12,
+                "end": 11.62,
+                "confidence": 0.9970703,
+                "punctuated_word": "sentado"
+              },
+              {
+                "word": "ou",
+                "start": 11.759999,
+                "end": 12.259999,
+                "confidence": 0.9921875,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "deitado",
+                "start": 12.559999,
+                "end": 13.059999,
+                "confidence": 0.9658203,
+                "punctuated_word": "deitado,"
+              },
+              {
+                "word": "mas",
+                "start": 13.28,
+                "end": 13.759999,
+                "confidence": 0.9536133,
+                "punctuated_word": "mas"
+              },
+              {
+                "word": "atento",
+                "start": 13.759999,
+                "end": 14.259999,
+                "confidence": 0.9543457,
+                "punctuated_word": "atento."
+              },
+              {
+                "word": "comece",
+                "start": 16.185,
+                "end": 16.585001,
+                "confidence": 1.0,
+                "punctuated_word": "Comece"
+              },
+              {
+                "word": "respirando",
+                "start": 16.585001,
+                "end": 17.085001,
+                "confidence": 0.9980469,
+                "punctuated_word": "respirando"
+              },
+              {
+                "word": "profundamente",
+                "start": 17.865,
+                "end": 18.365,
+                "confidence": 1.0,
+                "punctuated_word": "profundamente"
+              },
+              {
+                "word": "algumas",
+                "start": 18.745,
+                "end": 19.065,
+                "confidence": 0.99902344,
+                "punctuated_word": "algumas"
+              },
+              {
+                "word": "vezes",
+                "start": 19.065,
+                "end": 19.565,
+                "confidence": 0.7758789,
+                "punctuated_word": "vezes."
+              },
+              {
+                "word": "inspirando",
+                "start": 21.785,
+                "end": 22.285,
+                "confidence": 0.9980469,
+                "punctuated_word": "Inspirando"
+              },
+              {
+                "word": "pelo",
+                "start": 22.425,
+                "end": 22.665,
+                "confidence": 0.99902344,
+                "punctuated_word": "pelo"
+              },
+              {
+                "word": "nariz",
+                "start": 22.665,
+                "end": 23.165,
+                "confidence": 1.0,
+                "punctuated_word": "nariz"
+              },
+              {
+                "word": "e",
+                "start": 23.225,
+                "end": 23.465,
+                "confidence": 0.9892578,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "expirando",
+                "start": 23.465,
+                "end": 23.965,
+                "confidence": 0.9213867,
+                "punctuated_word": "expirando"
+              },
+              {
+                "word": "pela",
+                "start": 24.105,
+                "end": 24.425,
+                "confidence": 0.98828125,
+                "punctuated_word": "pela"
+              },
+              {
+                "word": "boca",
+                "start": 24.425,
+                "end": 24.925,
+                "confidence": 0.99902344,
+                "punctuated_word": "boca."
+              },
+              {
+                "word": "coloque",
+                "start": 26.505001,
+                "end": 26.904999,
+                "confidence": 0.5209961,
+                "punctuated_word": "Coloque"
+              },
+              {
+                "word": "esse",
+                "start": 26.904999,
+                "end": 27.145,
+                "confidence": 0.37963867,
+                "punctuated_word": "esse"
+              },
+              {
+                "word": "à",
+                "start": 27.145,
+                "end": 27.305,
+                "confidence": 0.5854492,
+                "punctuated_word": "à"
+              },
+              {
+                "word": "meta",
+                "start": 27.305,
+                "end": 27.805,
+                "confidence": 0.99902344,
+                "punctuated_word": "meta"
+              },
+              {
+                "word": "de",
+                "start": 28.21,
+                "end": 28.449999,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "querer",
+                "start": 28.449999,
+                "end": 28.929998,
+                "confidence": 1.0,
+                "punctuated_word": "querer"
+              },
+              {
+                "word": "relaxar",
+                "start": 28.929998,
+                "end": 29.41,
+                "confidence": 0.99902344,
+                "punctuated_word": "relaxar"
+              },
+              {
+                "word": "o",
+                "start": 29.41,
+                "end": 29.65,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "corpo",
+                "start": 29.65,
+                "end": 29.89,
+                "confidence": 1.0,
+                "punctuated_word": "corpo"
+              },
+              {
+                "word": "e",
+                "start": 29.89,
+                "end": 30.13,
+                "confidence": 0.98095703,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "a",
+                "start": 30.13,
+                "end": 30.369999,
+                "confidence": 0.99609375,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "mente",
+                "start": 30.369999,
+                "end": 30.869999,
+                "confidence": 0.9543457,
+                "punctuated_word": "mente."
+              },
+              {
+                "word": "silencia",
+                "start": 32.21,
+                "end": 32.71,
+                "confidence": 0.99365234,
+                "punctuated_word": "Silencia"
+              },
+              {
+                "word": "a",
+                "start": 33.649998,
+                "end": 33.809998,
+                "confidence": 0.8540039,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "tua",
+                "start": 33.809998,
+                "end": 34.129997,
+                "confidence": 0.9921875,
+                "punctuated_word": "tua"
+              },
+              {
+                "word": "fala",
+                "start": 34.129997,
+                "end": 34.629997,
+                "confidence": 0.84228516,
+                "punctuated_word": "fala,"
+              },
+              {
+                "word": "silencia",
+                "start": 36.29,
+                "end": 36.79,
+                "confidence": 0.9946289,
+                "punctuated_word": "silencia"
+              },
+              {
+                "word": "a",
+                "start": 36.85,
+                "end": 36.93,
+                "confidence": 0.89453125,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "tua",
+                "start": 36.93,
+                "end": 37.32,
+                "confidence": 0.9951172,
+                "punctuated_word": "tua"
+              },
+              {
+                "word": "conversa",
+                "start": 37.32,
+                "end": 37.57,
+                "confidence": 1.0,
+                "punctuated_word": "conversa"
+              },
+              {
+                "word": "interior",
+                "start": 37.57,
+                "end": 38.07,
+                "confidence": 0.80566406,
+                "punctuated_word": "interior,"
+              },
+              {
+                "word": "desacelere",
+                "start": 40.61,
+                "end": 41.11,
+                "confidence": 0.98828125,
+                "punctuated_word": "desacelere"
+              },
+              {
+                "word": "o",
+                "start": 41.685,
+                "end": 42.085003,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "fluxo",
+                "start": 42.085003,
+                "end": 42.485,
+                "confidence": 1.0,
+                "punctuated_word": "fluxo"
+              },
+              {
+                "word": "dos",
+                "start": 42.485,
+                "end": 42.885002,
+                "confidence": 0.99902344,
+                "punctuated_word": "dos"
+              },
+              {
+                "word": "pensamentos",
+                "start": 42.885002,
+                "end": 43.385002,
+                "confidence": 0.86694336,
+                "punctuated_word": "pensamentos."
+              },
+              {
+                "word": "libere",
+                "start": 45.285,
+                "end": 45.725,
+                "confidence": 0.99609375,
+                "punctuated_word": "Libere"
+              },
+              {
+                "word": "as",
+                "start": 45.725,
+                "end": 46.165,
+                "confidence": 0.99902344,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "preocupações",
+                "start": 46.165,
+                "end": 46.665,
+                "confidence": 1.0,
+                "punctuated_word": "preocupações"
+              },
+              {
+                "word": "e",
+                "start": 47.765,
+                "end": 47.925003,
+                "confidence": 1.0,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "medos",
+                "start": 47.925003,
+                "end": 48.425003,
+                "confidence": 1.0,
+                "punctuated_word": "medos"
+              },
+              {
+                "word": "sobre",
+                "start": 49.125,
+                "end": 49.605,
+                "confidence": 0.8989258,
+                "punctuated_word": "sobre"
+              },
+              {
+                "word": "o",
+                "start": 49.605,
+                "end": 49.845,
+                "confidence": 0.9951172,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "passado",
+                "start": 49.845,
+                "end": 50.345,
+                "confidence": 1.0,
+                "punctuated_word": "passado"
+              },
+              {
+                "word": "e",
+                "start": 50.725002,
+                "end": 50.885002,
+                "confidence": 0.99609375,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "o",
+                "start": 50.885002,
+                "end": 51.045002,
+                "confidence": 0.9980469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "futuro",
+                "start": 51.045002,
+                "end": 51.545002,
+                "confidence": 0.9995117,
+                "punctuated_word": "futuro."
+              },
+              {
+                "word": "permita",
+                "start": 55.91,
+                "end": 56.39,
+                "confidence": 0.9758301,
+                "punctuated_word": "Permita"
+              },
+              {
+                "word": "que",
+                "start": 56.39,
+                "end": 56.55,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "a",
+                "start": 56.55,
+                "end": 56.71,
+                "confidence": 0.99121094,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "sua",
+                "start": 56.71,
+                "end": 56.95,
+                "confidence": 0.99902344,
+                "punctuated_word": "sua"
+              },
+              {
+                "word": "mente",
+                "start": 56.95,
+                "end": 57.45,
+                "confidence": 0.9890137,
+                "punctuated_word": "mente,"
+              },
+              {
+                "word": "descanse",
+                "start": 59.75,
+                "end": 60.25,
+                "confidence": 0.95410156,
+                "punctuated_word": "descanse"
+              },
+              {
+                "word": "neste",
+                "start": 60.79,
+                "end": 61.11,
+                "confidence": 0.97802734,
+                "punctuated_word": "neste"
+              },
+              {
+                "word": "momento",
+                "start": 61.11,
+                "end": 61.51,
+                "confidence": 1.0,
+                "punctuated_word": "momento"
+              },
+              {
+                "word": "presente",
+                "start": 61.51,
+                "end": 62.01,
+                "confidence": 0.9760742,
+                "punctuated_word": "presente."
+              },
+              {
+                "word": "a",
+                "start": 65.43,
+                "end": 65.59,
+                "confidence": 0.9873047,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "cada",
+                "start": 65.59,
+                "end": 65.99,
+                "confidence": 1.0,
+                "punctuated_word": "cada"
+              },
+              {
+                "word": "expiração",
+                "start": 65.99,
+                "end": 66.49,
+                "confidence": 0.9088542,
+                "punctuated_word": "expiração,"
+              },
+              {
+                "word": "relaxe",
+                "start": 75.675,
+                "end": 76.175,
+                "confidence": 0.87353516,
+                "punctuated_word": "relaxe."
+              },
+              {
+                "word": "solte",
+                "start": 76.955,
+                "end": 77.455,
+                "confidence": 0.97591144,
+                "punctuated_word": "Solte."
+              },
+              {
+                "word": "solte",
+                "start": 80.659996,
+                "end": 81.14,
+                "confidence": 0.99902344,
+                "punctuated_word": "Solte"
+              },
+              {
+                "word": "o",
+                "start": 81.14,
+                "end": 81.53999,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "controle",
+                "start": 81.53999,
+                "end": 81.939995,
+                "confidence": 1.0,
+                "punctuated_word": "controle"
+              },
+              {
+                "word": "sobre",
+                "start": 81.939995,
+                "end": 82.259995,
+                "confidence": 0.99902344,
+                "punctuated_word": "sobre"
+              },
+              {
+                "word": "o",
+                "start": 82.259995,
+                "end": 82.34,
+                "confidence": 0.8730469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "seu",
+                "start": 82.34,
+                "end": 82.659996,
+                "confidence": 0.99902344,
+                "punctuated_word": "seu"
+              },
+              {
+                "word": "corpo",
+                "start": 82.659996,
+                "end": 83.159996,
+                "confidence": 1.0,
+                "punctuated_word": "corpo"
+              },
+              {
+                "word": "e",
+                "start": 83.22,
+                "end": 83.5,
+                "confidence": 0.9921875,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "seus",
+                "start": 83.5,
+                "end": 83.78,
+                "confidence": 0.9970703,
+                "punctuated_word": "seus"
+              },
+              {
+                "word": "pensamentos",
+                "start": 83.78,
+                "end": 84.28,
+                "confidence": 0.9921875,
+                "punctuated_word": "pensamentos."
+              },
+              {
+                "word": "libere",
+                "start": 88.09,
+                "end": 88.34,
+                "confidence": 0.9975586,
+                "punctuated_word": "Libere"
+              },
+              {
+                "word": "as",
+                "start": 88.34,
+                "end": 88.5,
+                "confidence": 0.99902344,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "tensões",
+                "start": 88.5,
+                "end": 89.0,
+                "confidence": 0.9975586,
+                "punctuated_word": "tensões."
+              },
+              {
+                "word": "permita",
+                "start": 97.745,
+                "end": 98.065,
+                "confidence": 0.8708496,
+                "punctuated_word": "Permita"
+              },
+              {
+                "word": "que",
+                "start": 98.065,
+                "end": 98.305,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "seu",
+                "start": 98.305,
+                "end": 98.705,
+                "confidence": 0.9838867,
+                "punctuated_word": "seu"
+              },
+              {
+                "word": "corpo",
+                "start": 98.705,
+                "end": 99.105,
+                "confidence": 1.0,
+                "punctuated_word": "corpo"
+              },
+              {
+                "word": "e",
+                "start": 99.105,
+                "end": 99.265,
+                "confidence": 1.0,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "a",
+                "start": 99.265,
+                "end": 99.345,
+                "confidence": 0.8989258,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "sua",
+                "start": 99.345,
+                "end": 99.585,
+                "confidence": 0.99902344,
+                "punctuated_word": "sua"
+              },
+              {
+                "word": "mente",
+                "start": 99.585,
+                "end": 100.085,
+                "confidence": 1.0,
+                "punctuated_word": "mente"
+              },
+              {
+                "word": "descansem",
+                "start": 101.665,
+                "end": 102.165,
+                "confidence": 0.9802246,
+                "punctuated_word": "descansem"
+              },
+              {
+                "word": "em",
+                "start": 102.305,
+                "end": 102.805,
+                "confidence": 0.99902344,
+                "punctuated_word": "em"
+              },
+              {
+                "word": "seu",
+                "start": 103.345,
+                "end": 103.665,
+                "confidence": 0.96533203,
+                "punctuated_word": "seu"
+              },
+              {
+                "word": "estado",
+                "start": 103.665,
+                "end": 104.165,
+                "confidence": 0.9970703,
+                "punctuated_word": "estado"
+              },
+              {
+                "word": "natural",
+                "start": 104.385,
+                "end": 104.885,
+                "confidence": 0.9995117,
+                "punctuated_word": "natural."
+              },
+              {
+                "word": "a",
+                "start": 111.05,
+                "end": 111.29,
+                "confidence": 0.77441406,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "cada",
+                "start": 111.29,
+                "end": 111.61,
+                "confidence": 0.9970703,
+                "punctuated_word": "cada"
+              },
+              {
+                "word": "expiração",
+                "start": 111.61,
+                "end": 112.11,
+                "confidence": 0.89404297,
+                "punctuated_word": "expiração,"
+              },
+              {
+                "word": "solte",
+                "start": 113.69,
+                "end": 114.19,
+                "confidence": 1.0,
+                "punctuated_word": "solte"
+              },
+              {
+                "word": "toda",
+                "start": 114.65,
+                "end": 115.15,
+                "confidence": 0.99902344,
+                "punctuated_word": "toda"
+              },
+              {
+                "word": "e",
+                "start": 115.53,
+                "end": 115.85,
+                "confidence": 0.9873047,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "qualquer",
+                "start": 115.85,
+                "end": 116.33,
+                "confidence": 1.0,
+                "punctuated_word": "qualquer"
+              },
+              {
+                "word": "tensão",
+                "start": 116.33,
+                "end": 116.83,
+                "confidence": 0.9885254,
+                "punctuated_word": "tensão."
+              },
+              {
+                "word": "solte",
+                "start": 120.89,
+                "end": 121.13,
+                "confidence": 0.9904785,
+                "punctuated_word": "Solte"
+              },
+              {
+                "word": "os",
+                "start": 121.13,
+                "end": 121.53,
+                "confidence": 1.0,
+                "punctuated_word": "os"
+              },
+              {
+                "word": "músculos",
+                "start": 121.53,
+                "end": 122.01,
+                "confidence": 1.0,
+                "punctuated_word": "músculos"
+              },
+              {
+                "word": "da",
+                "start": 122.01,
+                "end": 122.33,
+                "confidence": 0.9921875,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "testa",
+                "start": 122.33,
+                "end": 122.83,
+                "confidence": 0.7687988,
+                "punctuated_word": "testa,"
+              },
+              {
+                "word": "como",
+                "start": 125.555,
+                "end": 125.875,
+                "confidence": 0.99902344,
+                "punctuated_word": "Como"
+              },
+              {
+                "word": "se",
+                "start": 125.875,
+                "end": 126.375,
+                "confidence": 1.0,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "estivessem",
+                "start": 126.755005,
+                "end": 126.995,
+                "confidence": 0.9970703,
+                "punctuated_word": "estivessem"
+              },
+              {
+                "word": "derretendo",
+                "start": 126.995,
+                "end": 127.495,
+                "confidence": 0.99853516,
+                "punctuated_word": "derretendo."
+              },
+              {
+                "word": "os",
+                "start": 129.075,
+                "end": 129.575,
+                "confidence": 0.99316406,
+                "punctuated_word": "Os"
+              },
+              {
+                "word": "olhos",
+                "start": 131.155,
+                "end": 131.655,
+                "confidence": 0.98706055,
+                "punctuated_word": "olhos,"
+              },
+              {
+                "word": "o",
+                "start": 132.35501,
+                "end": 132.515,
+                "confidence": 0.9980469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "nariz",
+                "start": 132.515,
+                "end": 133.015,
+                "confidence": 0.99853516,
+                "punctuated_word": "nariz,"
+              },
+              {
+                "word": "a",
+                "start": 134.035,
+                "end": 134.27501,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "boca",
+                "start": 134.27501,
+                "end": 134.77501,
+                "confidence": 0.9260254,
+                "punctuated_word": "boca,"
+              },
+              {
+                "word": "toda",
+                "start": 136.195,
+                "end": 136.435,
+                "confidence": 0.99609375,
+                "punctuated_word": "toda"
+              },
+              {
+                "word": "a",
+                "start": 136.435,
+                "end": 136.755,
+                "confidence": 0.9760742,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "extensão",
+                "start": 136.755,
+                "end": 136.99501,
+                "confidence": 1.0,
+                "punctuated_word": "extensão"
+              },
+              {
+                "word": "da",
+                "start": 136.99501,
+                "end": 137.235,
+                "confidence": 1.0,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "mandíbula",
+                "start": 137.235,
+                "end": 137.735,
+                "confidence": 0.9946289,
+                "punctuated_word": "mandíbula,"
+              },
+              {
+                "word": "a",
+                "start": 138.3,
+                "end": 138.8,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "língua",
+                "start": 140.06,
+                "end": 140.56,
+                "confidence": 0.9951172,
+                "punctuated_word": "língua,"
+              },
+              {
+                "word": "o",
+                "start": 141.5,
+                "end": 141.82,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "queixo",
+                "start": 141.82,
+                "end": 142.32,
+                "confidence": 0.99853516,
+                "punctuated_word": "queixo,"
+              },
+              {
+                "word": "as",
+                "start": 143.42,
+                "end": 143.58,
+                "confidence": 0.99902344,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "orelhas",
+                "start": 143.58,
+                "end": 144.08,
+                "confidence": 0.9951172,
+                "punctuated_word": "orelhas,"
+              },
+              {
+                "word": "toda",
+                "start": 144.70001,
+                "end": 145.20001,
+                "confidence": 0.99902344,
+                "punctuated_word": "toda"
+              },
+              {
+                "word": "a",
+                "start": 145.82,
+                "end": 145.98,
+                "confidence": 0.9716797,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "face",
+                "start": 145.98,
+                "end": 146.48,
+                "confidence": 0.9995117,
+                "punctuated_word": "face."
+              },
+              {
+                "word": "inspire",
+                "start": 149.18001,
+                "end": 149.68001,
+                "confidence": 0.99658203,
+                "punctuated_word": "Inspire"
+              },
+              {
+                "word": "e",
+                "start": 153.455,
+                "end": 153.855,
+                "confidence": 0.78515625,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "solte",
+                "start": 153.855,
+                "end": 154.355,
+                "confidence": 0.9748535,
+                "punctuated_word": "solte."
+              },
+              {
+                "word": "toda",
+                "start": 160.575,
+                "end": 160.895,
+                "confidence": 1.0,
+                "punctuated_word": "Toda"
+              },
+              {
+                "word": "a",
+                "start": 160.895,
+                "end": 160.975,
+                "confidence": 0.9970703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "musculatura",
+                "start": 160.975,
+                "end": 161.475,
+                "confidence": 1.0,
+                "punctuated_word": "musculatura"
+              },
+              {
+                "word": "do",
+                "start": 161.695,
+                "end": 162.015,
+                "confidence": 0.9980469,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "pescoço",
+                "start": 162.015,
+                "end": 162.515,
+                "confidence": 0.9975586,
+                "punctuated_word": "pescoço,"
+              },
+              {
+                "word": "os",
+                "start": 165.055,
+                "end": 165.375,
+                "confidence": 1.0,
+                "punctuated_word": "os"
+              },
+              {
+                "word": "ombros",
+                "start": 165.375,
+                "end": 165.875,
+                "confidence": 0.9995117,
+                "punctuated_word": "ombros,"
+              },
+              {
+                "word": "a",
+                "start": 167.72,
+                "end": 168.12001,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "nuca",
+                "start": 168.12001,
+                "end": 168.62001,
+                "confidence": 0.9506836,
+                "punctuated_word": "nuca."
+              },
+              {
+                "word": "entregue",
+                "start": 171.16,
+                "end": 171.66,
+                "confidence": 0.99316406,
+                "punctuated_word": "Entregue"
+              },
+              {
+                "word": "seu",
+                "start": 172.52,
+                "end": 173.0,
+                "confidence": 0.9951172,
+                "punctuated_word": "seu"
+              },
+              {
+                "word": "corpo",
+                "start": 173.0,
+                "end": 173.5,
+                "confidence": 1.0,
+                "punctuated_word": "corpo"
+              },
+              {
+                "word": "a",
+                "start": 173.72,
+                "end": 174.12001,
+                "confidence": 0.97265625,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "este",
+                "start": 174.12001,
+                "end": 174.36,
+                "confidence": 0.99902344,
+                "punctuated_word": "este"
+              },
+              {
+                "word": "relaxamento",
+                "start": 174.36,
+                "end": 174.86,
+                "confidence": 0.99316406,
+                "punctuated_word": "relaxamento."
+              },
+              {
+                "word": "percorra",
+                "start": 177.8,
+                "end": 178.3,
+                "confidence": 0.9355469,
+                "punctuated_word": "Percorra"
+              },
+              {
+                "word": "agora",
+                "start": 178.44,
+                "end": 178.94,
+                "confidence": 0.7907715,
+                "punctuated_word": "agora,"
+              },
+              {
+                "word": "o",
+                "start": 179.72,
+                "end": 180.04001,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "braço",
+                "start": 180.04001,
+                "end": 180.44,
+                "confidence": 1.0,
+                "punctuated_word": "braço"
+              },
+              {
+                "word": "direito",
+                "start": 180.44,
+                "end": 180.94,
+                "confidence": 0.810791,
+                "punctuated_word": "direito."
+              },
+              {
+                "word": "o",
+                "start": 184.735,
+                "end": 185.235,
+                "confidence": 0.99609375,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "cotovelo",
+                "start": 185.375,
+                "end": 185.875,
+                "confidence": 0.94799805,
+                "punctuated_word": "cotovelo,"
+              },
+              {
+                "word": "o",
+                "start": 186.375,
+                "end": 186.875,
+                "confidence": 0.9921875,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "antebraço",
+                "start": 187.375,
+                "end": 187.875,
+                "confidence": 0.767334,
+                "punctuated_word": "antebraço."
+              },
+              {
+                "word": "a",
+                "start": 191.535,
+                "end": 191.85501,
+                "confidence": 0.99902344,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "mão",
+                "start": 191.85501,
+                "end": 192.35501,
+                "confidence": 0.8466797,
+                "punctuated_word": "mão."
+              },
+              {
+                "word": "os",
+                "start": 195.83,
+                "end": 196.06999,
+                "confidence": 0.9873047,
+                "punctuated_word": "Os"
+              },
+              {
+                "word": "dedos",
+                "start": 196.06999,
+                "end": 196.56999,
+                "confidence": 0.90771484,
+                "punctuated_word": "dedos,"
+              },
+              {
+                "word": "as",
+                "start": 199.11,
+                "end": 199.43,
+                "confidence": 0.9941406,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "pontas",
+                "start": 199.43,
+                "end": 199.83,
+                "confidence": 0.99902344,
+                "punctuated_word": "pontas"
+              },
+              {
+                "word": "dos",
+                "start": 199.83,
+                "end": 200.33,
+                "confidence": 1.0,
+                "punctuated_word": "dos"
+              },
+              {
+                "word": "dedos",
+                "start": 206.63,
+                "end": 207.13,
+                "confidence": 0.97802734,
+                "punctuated_word": "dedos."
+              },
+              {
+                "word": "agora",
+                "start": 207.91,
+                "end": 208.31,
+                "confidence": 0.83984375,
+                "punctuated_word": "Agora,"
+              },
+              {
+                "word": "o",
+                "start": 208.31,
+                "end": 208.63,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "braço",
+                "start": 208.63,
+                "end": 209.13,
+                "confidence": 1.0,
+                "punctuated_word": "braço"
+              },
+              {
+                "word": "esquerdo",
+                "start": 209.19,
+                "end": 209.69,
+                "confidence": 0.9082031,
+                "punctuated_word": "esquerdo,"
+              },
+              {
+                "word": "cotovelo",
+                "start": 212.255,
+                "end": 212.755,
+                "confidence": 0.95458984,
+                "punctuated_word": "cotovelo,"
+              },
+              {
+                "word": "antebraço",
+                "start": 214.935,
+                "end": 215.435,
+                "confidence": 0.8952637,
+                "punctuated_word": "antebraço,"
+              },
+              {
+                "word": "mão",
+                "start": 217.615,
+                "end": 218.115,
+                "confidence": 0.9855957,
+                "punctuated_word": "mão,"
+              },
+              {
+                "word": "dedos",
+                "start": 219.05501,
+                "end": 219.55501,
+                "confidence": 0.9926758,
+                "punctuated_word": "dedos,"
+              },
+              {
+                "word": "ponta",
+                "start": 219.935,
+                "end": 220.175,
+                "confidence": 1.0,
+                "punctuated_word": "ponta"
+              },
+              {
+                "word": "dos",
+                "start": 220.175,
+                "end": 220.41501,
+                "confidence": 0.9980469,
+                "punctuated_word": "dos"
+              },
+              {
+                "word": "dedos",
+                "start": 220.41501,
+                "end": 220.91501,
+                "confidence": 0.92626953,
+                "punctuated_word": "dedos."
+              },
+              {
+                "word": "sinta",
+                "start": 223.21501,
+                "end": 223.455,
+                "confidence": 0.99902344,
+                "punctuated_word": "Sinta"
+              },
+              {
+                "word": "esse",
+                "start": 223.455,
+                "end": 223.77501,
+                "confidence": 0.9921875,
+                "punctuated_word": "esse"
+              },
+              {
+                "word": "momento",
+                "start": 223.77501,
+                "end": 224.27501,
+                "confidence": 0.97631836,
+                "punctuated_word": "momento."
+              },
+              {
+                "word": "a",
+                "start": 227.0,
+                "end": 227.32,
+                "confidence": 0.9873047,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "cada",
+                "start": 227.32,
+                "end": 227.64,
+                "confidence": 1.0,
+                "punctuated_word": "cada"
+              },
+              {
+                "word": "expiração",
+                "start": 227.64,
+                "end": 228.14,
+                "confidence": 0.8458659,
+                "punctuated_word": "expiração,"
+              },
+              {
+                "word": "você",
+                "start": 232.92,
+                "end": 233.24,
+                "confidence": 0.9536133,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "solta",
+                "start": 233.24,
+                "end": 233.74,
+                "confidence": 0.9980469,
+                "punctuated_word": "solta"
+              },
+              {
+                "word": "ainda",
+                "start": 233.88,
+                "end": 234.2,
+                "confidence": 1.0,
+                "punctuated_word": "ainda"
+              },
+              {
+                "word": "mais",
+                "start": 234.2,
+                "end": 234.7,
+                "confidence": 0.9736328,
+                "punctuated_word": "mais."
+              },
+              {
+                "word": "esqueça",
+                "start": 237.96,
+                "end": 238.46,
+                "confidence": 0.9980469,
+                "punctuated_word": "Esqueça"
+              },
+              {
+                "word": "todo",
+                "start": 238.91501,
+                "end": 239.155,
+                "confidence": 1.0,
+                "punctuated_word": "todo"
+              },
+              {
+                "word": "o",
+                "start": 239.155,
+                "end": 239.655,
+                "confidence": 0.9326172,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "controle",
+                "start": 239.955,
+                "end": 240.455,
+                "confidence": 0.923584,
+                "punctuated_word": "controle."
+              },
+              {
+                "word": "simplesmente",
+                "start": 241.475,
+                "end": 241.975,
+                "confidence": 0.9980469,
+                "punctuated_word": "Simplesmente"
+              },
+              {
+                "word": "relaxe",
+                "start": 242.595,
+                "end": 243.095,
+                "confidence": 0.6088867,
+                "punctuated_word": "relaxe"
+              },
+              {
+                "word": "e",
+                "start": 243.715,
+                "end": 244.215,
+                "confidence": 0.8569336,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "se",
+                "start": 244.835,
+                "end": 245.335,
+                "confidence": 0.984375,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "entregue",
+                "start": 245.955,
+                "end": 246.455,
+                "confidence": 0.9975586,
+                "punctuated_word": "entregue."
+              },
+              {
+                "word": "perceba",
+                "start": 250.035,
+                "end": 250.115,
+                "confidence": 1.0,
+                "punctuated_word": "Perceba"
+              },
+              {
+                "word": "que",
+                "start": 250.115,
+                "end": 250.435,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 250.435,
+                "end": 250.675,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "está",
+                "start": 250.675,
+                "end": 250.99501,
+                "confidence": 1.0,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "relaxando",
+                "start": 250.99501,
+                "end": 251.49501,
+                "confidence": 0.98339844,
+                "punctuated_word": "relaxando."
+              },
+              {
+                "word": "solte",
+                "start": 254.07,
+                "end": 254.55,
+                "confidence": 0.99316406,
+                "punctuated_word": "Solte"
+              },
+              {
+                "word": "a",
+                "start": 254.55,
+                "end": 254.79001,
+                "confidence": 0.9980469,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "região",
+                "start": 254.79001,
+                "end": 255.11,
+                "confidence": 1.0,
+                "punctuated_word": "região"
+              },
+              {
+                "word": "do",
+                "start": 255.11,
+                "end": 255.27,
+                "confidence": 0.99902344,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "peito",
+                "start": 255.27,
+                "end": 255.43001,
+                "confidence": 0.9121094,
+                "punctuated_word": "peito,"
+              },
+              {
+                "word": "da",
+                "start": 255.43001,
+                "end": 255.93001,
+                "confidence": 0.9970703,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "barriga",
+                "start": 256.39,
+                "end": 256.89,
+                "confidence": 0.9328613,
+                "punctuated_word": "barriga,"
+              },
+              {
+                "word": "solte",
+                "start": 257.91,
+                "end": 258.41,
+                "confidence": 0.9980469,
+                "punctuated_word": "solte"
+              },
+              {
+                "word": "toda",
+                "start": 258.47,
+                "end": 258.71,
+                "confidence": 0.9980469,
+                "punctuated_word": "toda"
+              },
+              {
+                "word": "a",
+                "start": 258.71,
+                "end": 258.87,
+                "confidence": 0.98291016,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "musculatura",
+                "start": 258.87,
+                "end": 259.37,
+                "confidence": 1.0,
+                "punctuated_word": "musculatura"
+              },
+              {
+                "word": "do",
+                "start": 259.59,
+                "end": 259.91,
+                "confidence": 0.99902344,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "tronco",
+                "start": 259.91,
+                "end": 260.41,
+                "confidence": 0.96118164,
+                "punctuated_word": "tronco."
+              },
+              {
+                "word": "agora",
+                "start": 263.11002,
+                "end": 263.61002,
+                "confidence": 0.96240234,
+                "punctuated_word": "Agora"
+              },
+              {
+                "word": "as",
+                "start": 263.75,
+                "end": 263.99,
+                "confidence": 0.7104492,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "costas",
+                "start": 263.99,
+                "end": 264.49,
+                "confidence": 0.89453125,
+                "punctuated_word": "costas,"
+              },
+              {
+                "word": "cada",
+                "start": 266.71,
+                "end": 267.19,
+                "confidence": 0.8339844,
+                "punctuated_word": "cada"
+              },
+              {
+                "word": "vértebra",
+                "start": 267.19,
+                "end": 267.69,
+                "confidence": 0.94018555,
+                "punctuated_word": "vértebra"
+              },
+              {
+                "word": "da",
+                "start": 267.83002,
+                "end": 267.99,
+                "confidence": 0.9951172,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "coluna",
+                "start": 267.99,
+                "end": 268.49,
+                "confidence": 0.91308594,
+                "punctuated_word": "coluna,"
+              },
+              {
+                "word": "de",
+                "start": 269.805,
+                "end": 270.305,
+                "confidence": 0.9790039,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "cima",
+                "start": 271.725,
+                "end": 272.04498,
+                "confidence": 1.0,
+                "punctuated_word": "cima"
+              },
+              {
+                "word": "pra",
+                "start": 272.04498,
+                "end": 272.365,
+                "confidence": 0.66845703,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "baixo",
+                "start": 272.365,
+                "end": 272.865,
+                "confidence": 0.97802734,
+                "punctuated_word": "baixo."
+              },
+              {
+                "word": "preste",
+                "start": 277.16498,
+                "end": 277.485,
+                "confidence": 0.99316406,
+                "punctuated_word": "Preste"
+              },
+              {
+                "word": "atenção",
+                "start": 277.485,
+                "end": 277.985,
+                "confidence": 1.0,
+                "punctuated_word": "atenção"
+              },
+              {
+                "word": "na",
+                "start": 279.085,
+                "end": 279.405,
+                "confidence": 0.95166016,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "parte",
+                "start": 279.405,
+                "end": 279.805,
+                "confidence": 1.0,
+                "punctuated_word": "parte"
+              },
+              {
+                "word": "das",
+                "start": 279.805,
+                "end": 280.04498,
+                "confidence": 1.0,
+                "punctuated_word": "das"
+              },
+              {
+                "word": "costas",
+                "start": 280.04498,
+                "end": 280.54498,
+                "confidence": 0.99902344,
+                "punctuated_word": "costas"
+              },
+              {
+                "word": "que",
+                "start": 280.60498,
+                "end": 280.845,
+                "confidence": 0.99316406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "está",
+                "start": 280.845,
+                "end": 281.16498,
+                "confidence": 0.99902344,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "mais",
+                "start": 281.16498,
+                "end": 281.565,
+                "confidence": 1.0,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "tensa",
+                "start": 281.565,
+                "end": 282.065,
+                "confidence": 0.7229004,
+                "punctuated_word": "tensa,"
+              },
+              {
+                "word": "e",
+                "start": 285.09003,
+                "end": 285.49002,
+                "confidence": 0.8613281,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "solte",
+                "start": 285.49002,
+                "end": 285.99002,
+                "confidence": 0.6875,
+                "punctuated_word": "solte,"
+              },
+              {
+                "word": "relaxe",
+                "start": 287.97,
+                "end": 288.47,
+                "confidence": 0.640625,
+                "punctuated_word": "relaxe"
+              },
+              {
+                "word": "cada",
+                "start": 288.61002,
+                "end": 288.93002,
+                "confidence": 0.97265625,
+                "punctuated_word": "cada"
+              },
+              {
+                "word": "vértebra",
+                "start": 288.93002,
+                "end": 289.43002,
+                "confidence": 0.9163411,
+                "punctuated_word": "vértebra,"
+              },
+              {
+                "word": "cada",
+                "start": 290.69,
+                "end": 291.09003,
+                "confidence": 0.9316406,
+                "punctuated_word": "cada"
+              },
+              {
+                "word": "costela",
+                "start": 291.09003,
+                "end": 291.59003,
+                "confidence": 0.71118164,
+                "punctuated_word": "costela,"
+              },
+              {
+                "word": "e",
+                "start": 294.61002,
+                "end": 294.69,
+                "confidence": 0.6220703,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "agora",
+                "start": 294.69,
+                "end": 295.01,
+                "confidence": 1.0,
+                "punctuated_word": "agora"
+              },
+              {
+                "word": "o",
+                "start": 295.01,
+                "end": 295.17,
+                "confidence": 0.9921875,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "quadril",
+                "start": 295.17,
+                "end": 295.67,
+                "confidence": 0.8527832,
+                "punctuated_word": "quadril,"
+              },
+              {
+                "word": "a",
+                "start": 302.07498,
+                "end": 302.57498,
+                "confidence": 0.9921875,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "perna",
+                "start": 303.47498,
+                "end": 303.97498,
+                "confidence": 1.0,
+                "punctuated_word": "perna"
+              },
+              {
+                "word": "direita",
+                "start": 304.875,
+                "end": 305.115,
+                "confidence": 0.9970703,
+                "punctuated_word": "direita,"
+              },
+              {
+                "word": "a",
+                "start": 305.115,
+                "end": 305.275,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "coxa",
+                "start": 305.275,
+                "end": 305.775,
+                "confidence": 0.99365234,
+                "punctuated_word": "coxa,"
+              },
+              {
+                "word": "o",
+                "start": 307.675,
+                "end": 307.835,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "joelho",
+                "start": 307.835,
+                "end": 308.335,
+                "confidence": 0.9970703,
+                "punctuated_word": "joelho,"
+              },
+              {
+                "word": "a",
+                "start": 309.595,
+                "end": 309.91498,
+                "confidence": 0.9970703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "canela",
+                "start": 309.91498,
+                "end": 310.41498,
+                "confidence": 0.9951172,
+                "punctuated_word": "canela,"
+              },
+              {
+                "word": "a",
+                "start": 312.63498,
+                "end": 312.955,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "panturrilha",
+                "start": 312.955,
+                "end": 313.455,
+                "confidence": 0.9995117,
+                "punctuated_word": "panturrilha,"
+              },
+              {
+                "word": "o",
+                "start": 315.68,
+                "end": 315.92,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "tornozelo",
+                "start": 315.92,
+                "end": 316.42,
+                "confidence": 0.9946289,
+                "punctuated_word": "tornozelo,"
+              },
+              {
+                "word": "o",
+                "start": 318.72,
+                "end": 319.22,
+                "confidence": 0.9951172,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "pé",
+                "start": 319.38,
+                "end": 319.88,
+                "confidence": 0.9970703,
+                "punctuated_word": "pé,"
+              },
+              {
+                "word": "a",
+                "start": 320.04,
+                "end": 320.54,
+                "confidence": 0.9970703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "solo",
+                "start": 320.7,
+                "end": 321.2,
+                "confidence": 0.9448242,
+                "punctuated_word": "solo"
+              },
+              {
+                "word": "do",
+                "start": 321.36002,
+                "end": 321.6,
+                "confidence": 0.9951172,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "pé",
+                "start": 321.6,
+                "end": 322.1,
+                "confidence": 0.9926758,
+                "punctuated_word": "pé,"
+              },
+              {
+                "word": "os",
+                "start": 323.44,
+                "end": 323.76,
+                "confidence": 0.96240234,
+                "punctuated_word": "os"
+              },
+              {
+                "word": "dedos",
+                "start": 323.76,
+                "end": 324.08002,
+                "confidence": 1.0,
+                "punctuated_word": "dedos"
+              },
+              {
+                "word": "do",
+                "start": 324.08002,
+                "end": 324.32,
+                "confidence": 0.9980469,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "pé",
+                "start": 324.32,
+                "end": 324.82,
+                "confidence": 0.99609375,
+                "punctuated_word": "pé."
+              },
+              {
+                "word": "agora",
+                "start": 330.805,
+                "end": 331.305,
+                "confidence": 0.6713867,
+                "punctuated_word": "Agora"
+              },
+              {
+                "word": "a",
+                "start": 331.445,
+                "end": 331.605,
+                "confidence": 0.83984375,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "perna",
+                "start": 331.605,
+                "end": 332.005,
+                "confidence": 1.0,
+                "punctuated_word": "perna"
+              },
+              {
+                "word": "esquerda",
+                "start": 332.005,
+                "end": 332.505,
+                "confidence": 0.75878906,
+                "punctuated_word": "esquerda."
+              },
+              {
+                "word": "a",
+                "start": 335.605,
+                "end": 335.685,
+                "confidence": 0.97998047,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "coxa",
+                "start": 335.685,
+                "end": 336.185,
+                "confidence": 0.9729004,
+                "punctuated_word": "coxa,"
+              },
+              {
+                "word": "o",
+                "start": 336.925,
+                "end": 337.425,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "joelho",
+                "start": 338.165,
+                "end": 338.665,
+                "confidence": 0.92993164,
+                "punctuated_word": "joelho,"
+              },
+              {
+                "word": "a",
+                "start": 339.605,
+                "end": 339.925,
+                "confidence": 0.9941406,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "canela",
+                "start": 339.925,
+                "end": 340.425,
+                "confidence": 0.96899414,
+                "punctuated_word": "canela,"
+              },
+              {
+                "word": "a",
+                "start": 343.31,
+                "end": 343.39,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "panturrilha",
+                "start": 343.39,
+                "end": 343.89,
+                "confidence": 0.9921875,
+                "punctuated_word": "panturrilha,"
+              },
+              {
+                "word": "o",
+                "start": 346.43002,
+                "end": 346.67,
+                "confidence": 0.99609375,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "tornozelo",
+                "start": 346.67,
+                "end": 347.17,
+                "confidence": 0.98291016,
+                "punctuated_word": "tornozelo,"
+              },
+              {
+                "word": "o",
+                "start": 350.51,
+                "end": 350.67,
+                "confidence": 0.9980469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "pé",
+                "start": 350.67,
+                "end": 351.17,
+                "confidence": 0.9916992,
+                "punctuated_word": "pé,"
+              },
+              {
+                "word": "a",
+                "start": 352.67,
+                "end": 352.91,
+                "confidence": 0.9970703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "sola",
+                "start": 352.91,
+                "end": 353.31,
+                "confidence": 0.99902344,
+                "punctuated_word": "sola"
+              },
+              {
+                "word": "do",
+                "start": 353.31,
+                "end": 353.55002,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "pé",
+                "start": 353.55002,
+                "end": 354.05002,
+                "confidence": 0.9758301,
+                "punctuated_word": "pé,"
+              },
+              {
+                "word": "os",
+                "start": 355.95,
+                "end": 356.27002,
+                "confidence": 0.9741211,
+                "punctuated_word": "os"
+              },
+              {
+                "word": "dedos",
+                "start": 356.27002,
+                "end": 356.67,
+                "confidence": 1.0,
+                "punctuated_word": "dedos"
+              },
+              {
+                "word": "do",
+                "start": 356.67,
+                "end": 356.91,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "pé",
+                "start": 356.91,
+                "end": 357.41,
+                "confidence": 0.93310547,
+                "punctuated_word": "pé."
+              },
+              {
+                "word": "sinta",
+                "start": 362.82498,
+                "end": 362.985,
+                "confidence": 0.6479492,
+                "punctuated_word": "Sinta"
+              },
+              {
+                "word": "agora",
+                "start": 362.985,
+                "end": 363.485,
+                "confidence": 1.0,
+                "punctuated_word": "agora"
+              },
+              {
+                "word": "da",
+                "start": 363.78497,
+                "end": 364.025,
+                "confidence": 0.9873047,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "cabeça",
+                "start": 364.025,
+                "end": 364.525,
+                "confidence": 1.0,
+                "punctuated_word": "cabeça"
+              },
+              {
+                "word": "aos",
+                "start": 364.745,
+                "end": 364.82498,
+                "confidence": 0.9970703,
+                "punctuated_word": "aos"
+              },
+              {
+                "word": "pés",
+                "start": 364.82498,
+                "end": 365.32498,
+                "confidence": 1.0,
+                "punctuated_word": "pés"
+              },
+              {
+                "word": "tudo",
+                "start": 366.185,
+                "end": 366.585,
+                "confidence": 0.9980469,
+                "punctuated_word": "tudo"
+              },
+              {
+                "word": "totalmente",
+                "start": 366.585,
+                "end": 367.085,
+                "confidence": 1.0,
+                "punctuated_word": "totalmente"
+              },
+              {
+                "word": "relaxado",
+                "start": 367.22498,
+                "end": 367.72498,
+                "confidence": 1.0,
+                "punctuated_word": "relaxado"
+              },
+              {
+                "word": "solte",
+                "start": 370.49002,
+                "end": 370.99002,
+                "confidence": 0.9790039,
+                "punctuated_word": "solte"
+              },
+              {
+                "word": "a",
+                "start": 371.05002,
+                "end": 371.29,
+                "confidence": 0.9980469,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "mais",
+                "start": 371.29,
+                "end": 371.53,
+                "confidence": 0.98828125,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "mínima",
+                "start": 371.53,
+                "end": 371.642,
+                "confidence": 0.99902344,
+                "punctuated_word": "mínima"
+              },
+              {
+                "word": "tensão",
+                "start": 371.642,
+                "end": 371.754,
+                "confidence": 0.96777344,
+                "punctuated_word": "tensão"
+              },
+              {
+                "word": "que",
+                "start": 371.754,
+                "end": 371.86603,
+                "confidence": 0.99609375,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "ainda",
+                "start": 371.86603,
+                "end": 371.97803,
+                "confidence": 0.99902344,
+                "punctuated_word": "ainda"
+              },
+              {
+                "word": "resta",
+                "start": 371.97803,
+                "end": 372.09003,
+                "confidence": 0.9951172,
+                "punctuated_word": "resta"
+              },
+              {
+                "word": "respire",
+                "start": 372.09003,
+                "end": 372.59003,
+                "confidence": 0.96972656,
+                "punctuated_word": "respire"
+              },
+              {
+                "word": "calmamente",
+                "start": 375.93002,
+                "end": 376.43002,
+                "confidence": 1.0,
+                "punctuated_word": "calmamente"
+              },
+              {
+                "word": "desfrute",
+                "start": 385.175,
+                "end": 385.675,
+                "confidence": 0.9967448,
+                "punctuated_word": "Desfrute"
+              },
+              {
+                "word": "deste",
+                "start": 385.895,
+                "end": 386.29498,
+                "confidence": 0.9716797,
+                "punctuated_word": "deste"
+              },
+              {
+                "word": "momento",
+                "start": 386.29498,
+                "end": 386.53497,
+                "confidence": 1.0,
+                "punctuated_word": "momento"
+              },
+              {
+                "word": "de",
+                "start": 386.53497,
+                "end": 386.775,
+                "confidence": 0.9980469,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "relaxamento",
+                "start": 386.775,
+                "end": 387.275,
+                "confidence": 0.9926758,
+                "punctuated_word": "relaxamento."
+              },
+              {
+                "word": "sinta",
+                "start": 393.57498,
+                "end": 394.055,
+                "confidence": 0.98999023,
+                "punctuated_word": "Sinta"
+              },
+              {
+                "word": "o",
+                "start": 394.055,
+                "end": 394.215,
+                "confidence": 0.9980469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "peso",
+                "start": 394.215,
+                "end": 394.53497,
+                "confidence": 1.0,
+                "punctuated_word": "peso"
+              },
+              {
+                "word": "do",
+                "start": 394.53497,
+                "end": 394.775,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "corpo",
+                "start": 394.775,
+                "end": 395.01498,
+                "confidence": 1.0,
+                "punctuated_word": "corpo"
+              },
+              {
+                "word": "descontraído",
+                "start": 395.01498,
+                "end": 395.51498,
+                "confidence": 0.89208984,
+                "punctuated_word": "descontraído,"
+              },
+              {
+                "word": "a",
+                "start": 396.85498,
+                "end": 397.095,
+                "confidence": 0.9921875,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "experiência",
+                "start": 397.095,
+                "end": 397.57498,
+                "confidence": 0.99902344,
+                "punctuated_word": "experiência"
+              },
+              {
+                "word": "de",
+                "start": 397.57498,
+                "end": 397.815,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "bemestar",
+                "start": 397.815,
+                "end": 398.315,
+                "confidence": 0.9428711,
+                "punctuated_word": "bemestar,"
+              },
+              {
+                "word": "de",
+                "start": 399.12003,
+                "end": 399.62003,
+                "confidence": 0.9526367,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "descontração",
+                "start": 400.16,
+                "end": 400.66,
+                "confidence": 0.9689128,
+                "punctuated_word": "descontração,"
+              },
+              {
+                "word": "de",
+                "start": 402.96002,
+                "end": 403.2,
+                "confidence": 0.97509766,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "consciência",
+                "start": 403.2,
+                "end": 403.7,
+                "confidence": 1.0,
+                "punctuated_word": "consciência"
+              },
+              {
+                "word": "de",
+                "start": 403.92,
+                "end": 404.16,
+                "confidence": 0.99609375,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "que",
+                "start": 404.16,
+                "end": 404.24002,
+                "confidence": 0.99316406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "tudo",
+                "start": 404.24002,
+                "end": 404.56003,
+                "confidence": 1.0,
+                "punctuated_word": "tudo"
+              },
+              {
+                "word": "vai",
+                "start": 404.56003,
+                "end": 404.80002,
+                "confidence": 1.0,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "bem",
+                "start": 404.80002,
+                "end": 405.30002,
+                "confidence": 0.93847656,
+                "punctuated_word": "bem."
+              },
+              {
+                "word": "o",
+                "start": 407.52002,
+                "end": 407.76,
+                "confidence": 0.9760742,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "que",
+                "start": 407.76,
+                "end": 408.0,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "importa",
+                "start": 408.0,
+                "end": 408.5,
+                "confidence": 1.0,
+                "punctuated_word": "importa"
+              },
+              {
+                "word": "é",
+                "start": 409.04,
+                "end": 409.28003,
+                "confidence": 0.97802734,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 409.28003,
+                "end": 409.52002,
+                "confidence": 0.9614258,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "agora",
+                "start": 409.52002,
+                "end": 410.02002,
+                "confidence": 0.99560547,
+                "punctuated_word": "agora."
+              },
+              {
+                "word": "observe",
+                "start": 415.29498,
+                "end": 415.615,
+                "confidence": 0.5073242,
+                "punctuated_word": "Observe"
+              },
+              {
+                "word": "as",
+                "start": 415.615,
+                "end": 415.85498,
+                "confidence": 0.9741211,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "sensações",
+                "start": 415.85498,
+                "end": 416.35498,
+                "confidence": 0.99902344,
+                "punctuated_word": "sensações"
+              },
+              {
+                "word": "na",
+                "start": 416.735,
+                "end": 416.97498,
+                "confidence": 0.99609375,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "superfície",
+                "start": 416.97498,
+                "end": 417.47498,
+                "confidence": 1.0,
+                "punctuated_word": "superfície"
+              },
+              {
+                "word": "do",
+                "start": 420.495,
+                "end": 420.745,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "corpo",
+                "start": 420.745,
+                "end": 421.245,
+                "confidence": 0.9941406,
+                "punctuated_word": "corpo."
+              },
+              {
+                "word": "se",
+                "start": 424.62003,
+                "end": 424.78,
+                "confidence": 0.53515625,
+                "punctuated_word": "Se"
+              },
+              {
+                "word": "ainda",
+                "start": 424.78,
+                "end": 425.02002,
+                "confidence": 0.99902344,
+                "punctuated_word": "ainda"
+              },
+              {
+                "word": "houver",
+                "start": 425.02002,
+                "end": 425.52002,
+                "confidence": 1.0,
+                "punctuated_word": "houver"
+              },
+              {
+                "word": "alguma",
+                "start": 426.14,
+                "end": 426.64,
+                "confidence": 0.9902344,
+                "punctuated_word": "alguma"
+              },
+              {
+                "word": "tensão",
+                "start": 427.08002,
+                "end": 427.58002,
+                "confidence": 0.99902344,
+                "punctuated_word": "tensão"
+              },
+              {
+                "word": "no",
+                "start": 428.02002,
+                "end": 428.52002,
+                "confidence": 0.9980469,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "peito",
+                "start": 428.96002,
+                "end": 429.46002,
+                "confidence": 0.95581055,
+                "punctuated_word": "peito,"
+              },
+              {
+                "word": "simplesmente",
+                "start": 429.90002,
+                "end": 430.40002,
+                "confidence": 0.99902344,
+                "punctuated_word": "simplesmente"
+              },
+              {
+                "word": "solte",
+                "start": 430.86002,
+                "end": 431.36002,
+                "confidence": 0.7741699,
+                "punctuated_word": "solte,"
+              },
+              {
+                "word": "e",
+                "start": 433.5,
+                "end": 433.82,
+                "confidence": 1.0,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "deixe",
+                "start": 433.82,
+                "end": 434.06,
+                "confidence": 0.984375,
+                "punctuated_word": "deixe"
+              },
+              {
+                "word": "ir",
+                "start": 434.06,
+                "end": 434.56,
+                "confidence": 0.83569336,
+                "punctuated_word": "ir."
+              },
+              {
+                "word": "ir",
+                "start": 435.835,
+                "end": 436.335,
+                "confidence": 0.99560547,
+                "punctuated_word": "Ir."
+              },
+              {
+                "word": "você",
+                "start": 436.435,
+                "end": 436.935,
+                "confidence": 0.9838867,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "está",
+                "start": 437.035,
+                "end": 437.275,
+                "confidence": 0.99902344,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "no",
+                "start": 437.275,
+                "end": 437.755,
+                "confidence": 0.99609375,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "presente",
+                "start": 437.755,
+                "end": 438.255,
+                "confidence": 0.99316406,
+                "punctuated_word": "presente,"
+              },
+              {
+                "word": "solto",
+                "start": 439.595,
+                "end": 440.095,
+                "confidence": 0.9980469,
+                "punctuated_word": "solto"
+              },
+              {
+                "word": "e",
+                "start": 441.115,
+                "end": 441.275,
+                "confidence": 0.60253906,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "tudo",
+                "start": 441.275,
+                "end": 441.51498,
+                "confidence": 0.99902344,
+                "punctuated_word": "tudo"
+              },
+              {
+                "word": "está",
+                "start": 441.51498,
+                "end": 441.675,
+                "confidence": 0.99902344,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "bem",
+                "start": 441.675,
+                "end": 442.175,
+                "confidence": 0.9260254,
+                "punctuated_word": "bem."
+              },
+              {
+                "word": "você",
+                "start": 443.435,
+                "end": 443.935,
+                "confidence": 0.9980469,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "está",
+                "start": 443.995,
+                "end": 444.495,
+                "confidence": 1.0,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "cuidando",
+                "start": 444.635,
+                "end": 444.715,
+                "confidence": 1.0,
+                "punctuated_word": "cuidando"
+              },
+              {
+                "word": "de",
+                "start": 444.715,
+                "end": 444.955,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "si",
+                "start": 444.955,
+                "end": 445.455,
+                "confidence": 0.8039551,
+                "punctuated_word": "si."
+              },
+              {
+                "word": "sinta",
+                "start": 447.195,
+                "end": 447.595,
+                "confidence": 0.9995117,
+                "punctuated_word": "Sinta"
+              },
+              {
+                "word": "alegria",
+                "start": 447.595,
+                "end": 448.095,
+                "confidence": 0.7885742,
+                "punctuated_word": "alegria."
+              },
+              {
+                "word": "aos",
+                "start": 456.49002,
+                "end": 456.73,
+                "confidence": 0.5625,
+                "punctuated_word": "Aos"
+              },
+              {
+                "word": "poucos",
+                "start": 456.73,
+                "end": 457.23,
+                "confidence": 0.99902344,
+                "punctuated_word": "poucos"
+              },
+              {
+                "word": "vá",
+                "start": 458.01,
+                "end": 458.25,
+                "confidence": 0.5,
+                "punctuated_word": "vá"
+              },
+              {
+                "word": "despertando",
+                "start": 458.25,
+                "end": 458.75,
+                "confidence": 0.9770508,
+                "punctuated_word": "despertando"
+              },
+              {
+                "word": "dessa",
+                "start": 459.13,
+                "end": 459.45,
+                "confidence": 0.9589844,
+                "punctuated_word": "dessa"
+              },
+              {
+                "word": "sessão",
+                "start": 459.45,
+                "end": 459.95,
+                "confidence": 0.7285156,
+                "punctuated_word": "sessão,"
+              },
+              {
+                "word": "se",
+                "start": 461.77002,
+                "end": 462.27002,
+                "confidence": 0.8618164,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "movimentando",
+                "start": 462.33002,
+                "end": 462.57,
+                "confidence": 0.9770508,
+                "punctuated_word": "movimentando"
+              },
+              {
+                "word": "com",
+                "start": 462.57,
+                "end": 462.81,
+                "confidence": 1.0,
+                "punctuated_word": "com"
+              },
+              {
+                "word": "calma",
+                "start": 462.81,
+                "end": 463.31,
+                "confidence": 0.8808594,
+                "punctuated_word": "calma."
+              },
+              {
+                "word": "lembra",
+                "start": 465.565,
+                "end": 465.805,
+                "confidence": 0.80615234,
+                "punctuated_word": "Lembra"
+              },
+              {
+                "word": "se",
+                "start": 465.805,
+                "end": 466.04498,
+                "confidence": 0.79248047,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "de",
+                "start": 466.04498,
+                "end": 466.205,
+                "confidence": 0.9873047,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "que",
+                "start": 466.205,
+                "end": 466.365,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "agora",
+                "start": 466.365,
+                "end": 466.685,
+                "confidence": 1.0,
+                "punctuated_word": "agora"
+              },
+              {
+                "word": "tudo",
+                "start": 466.685,
+                "end": 466.925,
+                "confidence": 0.9941406,
+                "punctuated_word": "tudo"
+              },
+              {
+                "word": "está",
+                "start": 466.925,
+                "end": 467.165,
+                "confidence": 0.9921875,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "bem",
+                "start": 467.165,
+                "end": 467.665,
+                "confidence": 0.984375,
+                "punctuated_word": "bem"
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nRel relaxamento profundo. Para começar, procure 1 posição confortável, sentado ou deitado, mas atento. Comece respirando profundamente algumas vezes. Inspirando pelo nariz e expirando pela boca. Coloque esse à meta de querer relaxar o corpo e a mente.\n\nSilencia a tua fala, silencia a tua conversa interior, desacelere o fluxo dos pensamentos. Libere as preocupações e medos sobre o passado e o futuro. Permita que a sua mente, descanse neste momento presente. A cada expiração, relaxe. Solte.\n\nSolte o controle sobre o seu corpo e seus pensamentos. Libere as tensões. Permita que seu corpo e a sua mente descansem em seu estado natural. A cada expiração, solte toda e qualquer tensão. Solte os músculos da testa, Como se estivessem derretendo.\n\nOs olhos, o nariz, a boca, toda a extensão da mandíbula, a língua, o queixo, as orelhas, toda a face. Inspire e solte. Toda a musculatura do pescoço, os ombros, a nuca. Entregue seu corpo a este relaxamento. Percorra agora, o braço direito.\n\nO cotovelo, o antebraço. A mão. Os dedos, as pontas dos dedos. Agora, o braço esquerdo, cotovelo, antebraço, mão, dedos, ponta dos dedos. Sinta esse momento.\n\nA cada expiração, você solta ainda mais. Esqueça todo o controle. Simplesmente relaxe e se entregue. Perceba que você está relaxando. Solte a região do peito, da barriga, solte toda a musculatura do tronco.\n\nAgora as costas, cada vértebra da coluna, de cima pra baixo. Preste atenção na parte das costas que está mais tensa, e solte, relaxe cada vértebra, cada costela, e agora o quadril, a perna direita, a coxa, o joelho, a canela, a panturrilha, o tornozelo, o pé, a solo do pé, os dedos do pé. Agora a perna esquerda. A coxa, o joelho, a canela, a panturrilha, o tornozelo, o pé, a sola do pé, os dedos do pé. Sinta agora da cabeça aos pés tudo totalmente relaxado solte a mais mínima tensão que ainda resta respire calmamente Desfrute deste momento de relaxamento.\n\nSinta o peso do corpo descontraído, a experiência de bemestar, de descontração, de consciência de que tudo vai bem. O que importa é o agora. Observe as sensações na superfície do corpo. Se ainda houver alguma tensão no peito, simplesmente solte, e deixe ir. Ir.\n\nVocê está no presente, solto e tudo está bem. Você está cuidando de si. Sinta alegria. Aos poucos vá despertando dessa sessão, se movimentando com calma. Lembra se de que agora tudo está bem",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Rel relaxamento profundo.",
+                      "start": 3.52,
+                      "end": 4.98
+                    },
+                    {
+                      "text": "Para começar, procure 1 posição confortável, sentado ou deitado, mas atento.",
+                      "start": 7.44,
+                      "end": 14.259999
+                    },
+                    {
+                      "text": "Comece respirando profundamente algumas vezes.",
+                      "start": 16.185,
+                      "end": 19.565
+                    },
+                    {
+                      "text": "Inspirando pelo nariz e expirando pela boca.",
+                      "start": 21.785,
+                      "end": 24.925
+                    },
+                    {
+                      "text": "Coloque esse à meta de querer relaxar o corpo e a mente.",
+                      "start": 26.505001,
+                      "end": 30.869999
+                    }
+                  ],
+                  "num_words": 38,
+                  "start": 3.52,
+                  "end": 30.869999
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Silencia a tua fala, silencia a tua conversa interior, desacelere o fluxo dos pensamentos.",
+                      "start": 32.21,
+                      "end": 43.385002
+                    },
+                    {
+                      "text": "Libere as preocupações e medos sobre o passado e o futuro.",
+                      "start": 45.285,
+                      "end": 51.545002
+                    },
+                    {
+                      "text": "Permita que a sua mente, descanse neste momento presente.",
+                      "start": 55.91,
+                      "end": 62.01
+                    },
+                    {
+                      "text": "A cada expiração, relaxe.",
+                      "start": 65.43,
+                      "end": 76.175
+                    },
+                    {
+                      "text": "Solte.",
+                      "start": 76.955,
+                      "end": 77.455
+                    }
+                  ],
+                  "num_words": 39,
+                  "start": 32.21,
+                  "end": 77.455
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Solte o controle sobre o seu corpo e seus pensamentos.",
+                      "start": 80.659996,
+                      "end": 84.28
+                    },
+                    {
+                      "text": "Libere as tensões.",
+                      "start": 88.09,
+                      "end": 89.0
+                    },
+                    {
+                      "text": "Permita que seu corpo e a sua mente descansem em seu estado natural.",
+                      "start": 97.745,
+                      "end": 104.885
+                    },
+                    {
+                      "text": "A cada expiração, solte toda e qualquer tensão.",
+                      "start": 111.05,
+                      "end": 116.83
+                    },
+                    {
+                      "text": "Solte os músculos da testa, Como se estivessem derretendo.",
+                      "start": 120.89,
+                      "end": 127.495
+                    }
+                  ],
+                  "num_words": 43,
+                  "start": 80.659996,
+                  "end": 127.495
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Os olhos, o nariz, a boca, toda a extensão da mandíbula, a língua, o queixo, as orelhas, toda a face.",
+                      "start": 129.075,
+                      "end": 146.48
+                    },
+                    {
+                      "text": "Inspire e solte.",
+                      "start": 149.18001,
+                      "end": 154.355
+                    },
+                    {
+                      "text": "Toda a musculatura do pescoço, os ombros, a nuca.",
+                      "start": 160.575,
+                      "end": 168.62001
+                    },
+                    {
+                      "text": "Entregue seu corpo a este relaxamento.",
+                      "start": 171.16,
+                      "end": 174.86
+                    },
+                    {
+                      "text": "Percorra agora, o braço direito.",
+                      "start": 177.8,
+                      "end": 180.94
+                    }
+                  ],
+                  "num_words": 43,
+                  "start": 129.075,
+                  "end": 180.94
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "O cotovelo, o antebraço.",
+                      "start": 184.735,
+                      "end": 187.875
+                    },
+                    {
+                      "text": "A mão.",
+                      "start": 191.535,
+                      "end": 192.35501
+                    },
+                    {
+                      "text": "Os dedos, as pontas dos dedos.",
+                      "start": 195.83,
+                      "end": 207.13
+                    },
+                    {
+                      "text": "Agora, o braço esquerdo, cotovelo, antebraço, mão, dedos, ponta dos dedos.",
+                      "start": 207.91,
+                      "end": 220.91501
+                    },
+                    {
+                      "text": "Sinta esse momento.",
+                      "start": 223.21501,
+                      "end": 224.27501
+                    }
+                  ],
+                  "num_words": 26,
+                  "start": 184.735,
+                  "end": 224.27501
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "A cada expiração, você solta ainda mais.",
+                      "start": 227.0,
+                      "end": 234.7
+                    },
+                    {
+                      "text": "Esqueça todo o controle.",
+                      "start": 237.96,
+                      "end": 240.455
+                    },
+                    {
+                      "text": "Simplesmente relaxe e se entregue.",
+                      "start": 241.475,
+                      "end": 246.455
+                    },
+                    {
+                      "text": "Perceba que você está relaxando.",
+                      "start": 250.035,
+                      "end": 251.49501
+                    },
+                    {
+                      "text": "Solte a região do peito, da barriga, solte toda a musculatura do tronco.",
+                      "start": 254.07,
+                      "end": 260.41
+                    }
+                  ],
+                  "num_words": 34,
+                  "start": 227.0,
+                  "end": 260.41
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Agora as costas, cada vértebra da coluna, de cima pra baixo.",
+                      "start": 263.11002,
+                      "end": 272.865
+                    },
+                    {
+                      "text": "Preste atenção na parte das costas que está mais tensa, e solte, relaxe cada vértebra, cada costela, e agora o quadril, a perna direita, a coxa, o joelho, a canela, a panturrilha, o tornozelo, o pé, a solo do pé, os dedos do pé.",
+                      "start": 277.16498,
+                      "end": 324.82
+                    },
+                    {
+                      "text": "Agora a perna esquerda.",
+                      "start": 330.805,
+                      "end": 332.505
+                    },
+                    {
+                      "text": "A coxa, o joelho, a canela, a panturrilha, o tornozelo, o pé, a sola do pé, os dedos do pé.",
+                      "start": 335.605,
+                      "end": 357.41
+                    },
+                    {
+                      "text": "Sinta agora da cabeça aos pés tudo totalmente relaxado solte a mais mínima tensão que ainda resta respire calmamente Desfrute deste momento de relaxamento.",
+                      "start": 362.82498,
+                      "end": 387.275
+                    }
+                  ],
+                  "num_words": 103,
+                  "start": 263.11002,
+                  "end": 387.275
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Sinta o peso do corpo descontraído, a experiência de bemestar, de descontração, de consciência de que tudo vai bem.",
+                      "start": 393.57498,
+                      "end": 405.30002
+                    },
+                    {
+                      "text": "O que importa é o agora.",
+                      "start": 407.52002,
+                      "end": 410.02002
+                    },
+                    {
+                      "text": "Observe as sensações na superfície do corpo.",
+                      "start": 415.29498,
+                      "end": 421.245
+                    },
+                    {
+                      "text": "Se ainda houver alguma tensão no peito, simplesmente solte, e deixe ir.",
+                      "start": 424.62003,
+                      "end": 434.56
+                    },
+                    {
+                      "text": "Ir.",
+                      "start": 435.835,
+                      "end": 436.335
+                    }
+                  ],
+                  "num_words": 45,
+                  "start": 393.57498,
+                  "end": 436.335
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Você está no presente, solto e tudo está bem.",
+                      "start": 436.435,
+                      "end": 442.175
+                    },
+                    {
+                      "text": "Você está cuidando de si.",
+                      "start": 443.435,
+                      "end": 445.455
+                    },
+                    {
+                      "text": "Sinta alegria.",
+                      "start": 447.195,
+                      "end": 448.095
+                    },
+                    {
+                      "text": "Aos poucos vá despertando dessa sessão, se movimentando com calma.",
+                      "start": 456.49002,
+                      "end": 463.31
+                    },
+                    {
+                      "text": "Lembra se de que agora tudo está bem",
+                      "start": 465.565,
+                      "end": 467.665
+                    }
+                  ],
+                  "num_words": 34,
+                  "start": 436.435,
+                  "end": 467.665
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

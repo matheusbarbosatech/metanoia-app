@@ -1,0 +1,245 @@
+# Transcrição Oficial: 1. parte.mp4
+# Caminho Original: O_Recomeco_Guia_para_Superar_o_Vicio_em_Pornografia-Miguel_Soriani-2022\04. Semana 2 - A DINÂMICA DO VÍCIO\24. AULA DE IMPLEMENTAÇÃO - SEMANA 02\1. parte.mp4
+# Gerado via Deepgram Nova-2 em: 2026-09-16 15:57:03
+
+Olá, sejam todos bemvindos à nossa 2º aula de implementação aqui do recomeço. E aí pessoal, tudo bem? Estão todos bem? Boa noite pra todo mundo, boa noite pra você que vai ver essa aula depois na gravação, bom dia, boa tarde, sei lá, né, que hora que você vai nos assistir aí. Embora, então, pro nosso conteúdo, vamos embora direto pra gente fazer a nossa implementação aí.
+
+Espero que vocês, como é que vocês estão? Deixa deixa eu dar 1 acompanhando aqui. A galera, tem pouca gente, né, no no ao vivo, mas não tem problema. E aí, tudo bem? Fala Glaucia, tudo bem?
+
+Muito bem. Ficou bonita a imagem. Muito bom. E aí pessoal, beleza? Tudo certo?
+
+Muita gente vai ver depois, né, e alguns vão acompanhar aqui ao vivo com a gente, Vocês chegaram a fazer a a 1º parte do curso? Chegaram a fazer essa 2º parte do curso? Né? Se alguém aí que tiver ao vivo tiver feito, fale aqui porque a gente vai falar sobre as a os conteúdos da 2º semana. Tá?
+
+Então, a 2º semana que a gente fala é sobre a dinâmica do vício. Certo? É sobre isso que a gente vai falar, não é isso? Então, olha só. Boa noite, boa noite, beleza?
+
+É sobre isso que a gente vai falar, então, sobre a dinâmica do vício. Se vocês se vocês lembrarem bem, vamos lá. Né? Como é que como é que funciona ali no recomeço? A gente tem 1 1º semana.
+
+Né? Que é 1 1 semana importante. Né? Depois a gente tem 1 2º semana, depois tem 1 3º e 1 4º. Então, vão ser 4 aulões aqui, 4 lives de implementação do curso, não é isso?
+
+São 4 lives de implementação do curso. E 1 coisa que é muito engraçada, galera, 1 coisa que é muito engraçada, né, beleza, você fez a 2º semana. Sabe o que é 1 coisa que é muito muito engraçada é o seguinte, na 1º de implementação, na 1º aula de implementação, que foi da semana passada, não sei quantos alunos já viram ao vivo ou já viram depois na gravação. Eu acho que na semana passada tinha umas 50 pessoas ao vivo aqui. Nós temos agora 7 pessoas ao vivo, não é?
+
+É? Cadê os outros 43? Cadê os outros 43? Cadê a galera? Né?
+
+Muitas pessoas já vão ficando pra trás, já vão já vão, né, desanimando às vezes no no no processo de de fazer o curso ou no processo de de saída da pornografia, né? 8 pessoas, quer dizer, cadê os outros 42? Né? A gente a gente já já viu olha, a gente já começa 1 coisa, né, com, sei lá, 1000 pessoas, aí depois a gente tem 500, aí depois a gente tem 100. Caramba, cadê os outros 900?
+
+Né? Falta muito no nosso tempo essa questão da disciplina mesmo, né? Da disciplina, da da consistência, da continuidade na na na coisa. Pra 1 problema como a pornografia, isso é fundamental, né, isso é fundamental. A gente vai falar disso hoje aqui, certo?
+
+Boa noite, teve gente aí que fez a semana 2, quem ainda não fez, depois vai pegar, aí, na gravação. O que eu queria falar com vocês hoje, ó. 1º coisa, fiquem à vontade aí no no chat, se vocês tiverem pergunta pra fazer, vocês podem fazer e a gente vai conversando aqui. O que que a gente fala na semana 2? Como é que a gente trabalha ali?
+
+A gente começa falando sobre o que é o vício em pornografia. Assim que a gente começa, né? E eu começo falando pra vocês que, é claro que o vício em pornografia ele tem 1, né, ele tem 1 1 1 coeficiente físicoquímico, né? Então, vamos lá, vamos vamos acompanhar aqui comigo. Então, olha só, é claro que o problema da pornografia ele tem 1 elemento fisiológico, 1 questão cerebral com a gente fala, né?
+
+Agora, o grande ponto que o recomeço toca aqui e é o que vai fazer, na verdade, diferença na vida de vocês, é que o o vice em pornografia ele não é somente físico, ele não é somente fisiológico, ele também é afetivo, ele também é psíquico, vamos chamar assim, ou, se você quiser, emocional. Tá? Se nós não trabalharmos esses aspectos aqui, galera, se se a gente não trabalhar, se você não trabalhar na sua vida esses aspectos aqui, se você não amadurecer a tua afetividade e entender quais são os problemas, psicológicos que estão aqui por baixo do problema da pornografia, se você não entender como que essas coisas aqui afetam a tua vida, você não vai conseguir sair do problema, você vai ficar patinando no problema. Então a nossa afetividade ela tem que estar madura, né, a gente está falando aqui de maturidade, pra gente conseguir de fato, alavancar esse processo e deixar de 1 vez por todas a pornografia pra baixo, a pornografia por trás. Tá?
+
+Muito bem, então, pode voltar pra mim aqui. O que, né, o o fundamental de tudo que a gente fala é exatamente isso, quer dizer, como que a pornografia, não só como que a pornografia afeta o cérebro, mas como que a pornografia é 1 problema emocional, 1 problema afetivo. Se vocês lembrarem bem da aulas, né, no no no desafio, né, que a gente teve no reboot, eu falei 1 pouco disso, mas nas aulas de começo a gente fala mais, fala assim, olha, existe 1 problema fundamental, né, na na dinâmica do vício em pornografia, e eu eu explico pra você. Né, se a gente falou assim, olha, o problema é 1 problema de origem afetiva, 1 problema de origem emocional, existe algo ali, né, no coração da pessoa que busca pornografia que sustenta todo esse movimento, Existe 1 sentimento determinado que sustenta todo esse esse movimento e a gente chama esse sentimento de sentimento de impotência. Vamos explorar isso daqui para vocês entenderem bem o que que é isso.
+
+Olha só. O que que é esse bendito sentimento de impotência que eu tanto falo pra vocês e que eu tanto falo pra vocês no curso? Vamos entender 1 coisa, na maior parte das vezes que você quer procurar pornografia você quer procurar pornografia porque você, vamos dizer assim, está se percebendo ou está se sentindo encurralado. Vamos pegar o seguinte exemplo, olha só, imagina que está, né, estamos aqui, eu e você, Abrio, eu e você, Danilo, eu e você, Jonas, nós nós aqui nós estamos andando, nós estamos a gente está né andando ali debaixo numa caverna por exemplo. Nós 2 andando ali.
+
+E de repente, do nada, acontece aí 1 problema, né, sei lá, 1 terremoto e aquelas pedras caem ali e e fecham as portas, a gente fica cercado por aquelas pedras, a gente fica encurralado, realmente, né? Qual é o sentimento que toma conta da gente? Pode acontecer várias coisas, né? Dentre essas coisas a gente pode se sentir, literalmente encurralado. A gente está fechado, né?
+
+Não tem o que fazer pra resolver esse problema. Não tem nada que a gente possa fazer pra mudar essa situação. Não é? Você pode tentar, aí a gente vai lá, eu e você, Fábio, a gente vai lá e tenta empurrar a as pedras. Gente tenta fazer força, a gente tenta né passar debaixo ali.
+
+Cara, a gente tentou de tudo e não tem nada pra fazer, a gente está ali preso mesmo, a gente está encurralado. Quando você sente 1 erge ou 1 impulso, né, pra ver pornografia, presta atenção, o que que está acontecendo contigo é exatamente isso. Você está se sentindo encurralado por alguma situação E você não sabe o que fazer, pra resolver essa situação. É exatamente isso então assim olha, o sentimento do do do sujeito que é encurralado, pode ser 1 sentimento de impotência. Assim olha, caramba, eu não tenho imaginação o suficiente pra pra conceber o que que eu posso fazer pra resolver esse negócio aqui.
+
+Eu não sei como é que eu resolvo essa parada. Não tem o que fazer, vá vamos sentar e beber a bebida que eu tenho aqui na minha mochila que é o que dá pra fazer, não tem nem mais nada pra fazer. Perceba o seguinte, a maior parte das vezes que você cai em pornografia, tá? Você cai porque você não soube aceitar essa situação que te encurrala. Essa é a dinâmica do vício em pornografia, é muito curioso como que a pornografia ela é 1 opção pra pessoa que se sente assim tudo na vida.
+
+Presta atenção então, como aqui a aula ela é de implementação, eu não vou repetir as coisas que eu estou que eu estou dizendo lá, né? Então eu quero que você, pegue outros insights aqui. 1º coisa. Você precisa amadurecer muito pra conseguir sair do problema da pornografia. Muito muito muito muito de verdade.
+
+Se eu expliquei pra você que a pornografia ela aparece como solução, né pra pra essa experiência de se sentir encurralado, né? Como quem diz assim olha, eu não sei o que fazer pra resolver essa parada meu. E aí é claro, eu acabo usando a pornografia como como solução, né. Então, por exemplo, você se, né, você, sei lá, briga no no trabalho ou tem 1 chefe que está te enchendo o saco no trabalho ou a tua esposa, sei lá, a mulher está te enchendo o saco, está falando demais, não sei o que. A verdade é que tudo pra você vira 1 situação sem solução.
+
+Tudo pra você vira 1 1 situação extremamente problemática, você fica extremamente preocupado com aquilo e você não consegue se movimentar. É isso que eu falo, é isso que eu quero dizer quando eu falo lá do sentimento de impotência com o fundamento do vício. É quando você não consegue enxergar outras formas de solucionar aquele problema, outras estratégias para enfrentar aquele problema. Até a gente tem aula aqui sobre estratégia de enfrentamento. Você precisa amadurecer demais pra conseguir sair do problema da pornografia.
+
+Isso quer dizer o seguinte, isso quer dizer que você precisa parar, tá, de ver as coisas como, vamos dizer assim, como se tudo fosse 1 afronta, como se tudo fosse 1 problema sem solução ou 1 situação realmente né? Não tem como resolver isso daqui. É ah não não tem como resolver isso aqui. Quer dizer, tudo que acontece, desequilibra você. Tudo o que acontece mexe com o teu emocional, tudo que acontece tirou você do centro.
+
+Né? Se alguém falar diferente com você, se alguém te olhar torto, vocês precisam crescer, gente, porque senão tudo vai ser 1 desencadeante, pro problema da pornografia, vocês vão acabar usando pornografia pra remediar tudo. Vocês vão acabar usando pornografia como remédio pra muita coisa. Então, Quando a gente percebe a pornografia, a gente percebe que no fundo, o que muita das vezes te faz procurar aquilo, é claro, que faz aqui entre aspas, porque é é você quem acaba procurando. Mas 1 elemento que pesa na tua decisão é justamente o seguinte, olha, eu me sinto incapaz, impotente perante tal circunstância, perante tal situação.
+
+Não sei o que fazer. E aí olha só, muitas das vezes vamos lá. Né? Vamos lá. Galera existem problemas que têm solução, que têm o que fazer pra resolver.
+
+Fazer, né? Agora assim, existem problemas que não dá pra fazer nada pra resolver. Existem problemas que você não resolve eles fazendo alguma coisa. Percebe isso? Só olha, e aí você vai ter que dar 1 resposta interna pra aquilo.
+
+Não tem o que fazer pra mudar essa situação. Simplesmente não tem como você, por exemplo, se você está no campo de concentração nazista, olha, não tem como você fazer nada pra mudar isso daí, cara, né? Se você tentar fugir vão te matar, não tem como você você, né? Ou então, ou você enlouquece, como muitos, ou você cava onde você está e você encontra sentido naquilo. Não não tem o que fazer e isso é amadurecer quer dizer, aceitar a realidade tal como ela é.
+
+Aceitar a realidade tal como ela é e trabalhar a realidade dentro de você, isso vai amadurecer no fim das contas. Agora, quando você trabalha, 1º coisa que acontece, né, 1º coisa que acontece é, quando 1 situação te acontece, né, sei lá, né, você, você foi mandado embora do do trabalho, né? Se você está, sei lá, você está sem dinheiro, né, você, sei lá, né, teve 1 problema em em tal situação da tua vida de saúde. Falei assim, olha, a vida ela é cheia de problema, cheia de problema, cheia, cheia, cheia. E você já viveu o suficiente pra perceber que não dá pra se livrar disso.
+
+Olha, o grande problema assim que quando a pornografia aparece pra você, é quando você começa a chamar vida acontecendo, né, coisas rotineiras de problema, de dificuldade, de peso. Como eu falei, como é que a gente resolve isso? Fala assim, olha, só tem 1 jeito, você precisa amadurecer, você precisa amadurecer. E barrar, amadurecer significa, 1º coisa, barrar é a 1º reação que essas situações disparam no teu coração, que é 1 sentimento de rebelião. Por que comigo?
+
+Eu não quero, por que assim, por que comigo? Quer dizer, você está se fazendo de vítima no fim das contas. Ao invés de abraçar a cruz, né? Quer dizer, ao invés de abraçar a realidade, a verdade da vida. É isso que é abraçar a cruz no fim das contas.
+
+Né? Ver lá o filme do Mel Gibson e ver Jesus abraçando a cruz é muito fácil. Mas abraçar a sua cruz, quer dizer, abraçar a verdade, abraçar a realidade da vida, não é fácil, mas é lindo, porque você não se rebela contra aquilo que te acontece. E aí você fala, caramba, é aqui que eu deveria estar. É aqui que eu deveria estar.
+
+Né? Percebe como é que é, você precisa ir ordenando a tua vida? Pra que a sua vida não não, vamos dizer assim, não dê espaço mais pra pornografia. Pra que não exista mais esse sentimento de incapacidade. Pensa, por exemplo, na vida de Jó, onde é que que Rai que Jó ia sentir sentimentos de incapacidade, onde é que pornografia teria espaço na vida de Jó, meu Deus do céu?
+
+Então, como é que era a alma desse homem? Inembarcável. Mas 1 coisa a gente sabia, ele não se rebelava contra nada que acontecia contra ele. Ele não se rebelava contra nada? Então esse é isso é básico básico básico básico.
+
+Feito essa vamos dizer assim aceitação, bom agora vamos ver, se dá pra gente fazer alguma coisa. Vamos ver se dá pra gente fazer alguma coisa. Mas, na boa, sem muita expectativa. Sem muita expectativa sabe por quê? Se tu coloca as tuas expectativas todas, né, no lugar errado, está ferrado.
+
+Claro, se você está ainda muito iludido com essa vida, acreditando que essa vida aqui ela vai ter que ser como você pensa, ou ou se ela tem que ser excelente EEE extremamente confortável e prazerosa sempre, você sempre vai estar em rebelião. Sempre sempre sempre sempre vai estar em rebelião. E isso vai abrir espaço pra você, pra vício, pra qualquer 1, no caso a pornografia porque, era a oportunidade, né? Essa, isso que a gente está falando é verdadeira humildade. Isso é que é a a humildade é amor à verdade.
+
+Mas não é verdade que está lá escrito no no livro do Aristóteles que aquilo não é verdade. A verdade está no juízo, quer dizer, ela está na na existência concreta, na vida real, no mundo real, na tua vida, no teu coração, é aí que está a verdade. Então amar isso, qual é a dificuldade? Percebe isso? Então, quando a gente fala assim, 1 sentimento de impotência, no fundo, o que, né, quando eu falo pra você que você precisa, vamos dizer assim, resolver o problema real, ao invés de usar pornografia como solução, o que eu estou dizendo pra você é o seguinte, olha, seja adulto, seja 1 homem adulto, seja 1 mulher adulta, seja 1 homem maduro, seja 1 mulher madura.
+
+Ah, Miguel, mas e aquelas situações que não têm como resolver? Bom, elas já estão resolvidas porque não têm como resolver mesmo, que que, né? Não tem como resolver 2º a resposta que você queria na sua cabeça. Não é? A situação não tem como ser resolvido.
+
+Bom, então, ela está solucionada, vamos ficar ali mesmo. É isso aí, entendeu? Imagina sei lá, né, você ah você foi preso injustamente, você vai tentar fazer de tudo, mas você não tem como resolver, bom, está resolvido mesmo, vamos tentar fazer alguma coisa mesmo aqui da cadeia e preste. Você percebe? Vou viver 1 vida mesmo com 1 sentido aqui.
+
+Você entendeu? Ninguém pode tirar a tua liberdade, ninguém, nem nada, nenhuma situação pode tirar a tua liberdade. Existe 1 fundo dentro de você que é livre, por definição, né? E nem a pornografia pode tirar essa tua liberdade. Então, quando a gente fala o sentimento de impotência que é, vamos dizer assim, a máquina que vai ali sendo 1 espécie de combustível, né, pro pro vice em pornografia, fala assim, olha, como é que a gente rompe com isso?
+
+Existem várias, as técnicas que a gente coloca lá no recomeço para te nortear, tudo aquilo funciona muito. E no limite eu estou te dizendo, falei assim, olha, vamos crescer. Né, Vamos crescer e começar a perceber que olha assim, as coisas elas não são peso, a maior parte das coisas que você chama de peso na vida elas não são peso. Elas são a estrutura da sua vida. Elas são, né, a coluna vertebral da sua vida.
+
+E ali onde eu estou a vida, né, vai acontecer, deixa, vou dizer 1 coisa pra vocês, pra gente passar pros próximos módulos aqui, tá? Vou fazer 1 coisa pra vocês. Muito sério, muito sério galera, muito sério. Espero que todos vocês entendam isso. Sabe onde é que você deveria estar?
+
+Né quer dizer, ah eu deveria, onde é que deveria estar? Qual é o sentido da minha vida? Né? Qual é o sentido da minha vida? Onde que eu deveria estar?
+
+Por que que essas situações acontecem comigo? Deixa deixa eu te dizer 1 coisa, que pode te salvar pro resto da vida, mesmo que você nunca mais me vire. Você está, onde você deveria estar. A gente está exatamente onde a gente deveria estar. A nossa vida ela é muito coladinha no chão, muito coladinha no chão, muito próximo do chão.
+
+O sentido da tua vida é estar exatamente onde você deveria estar, exatamente na situação que você está. Porque se não fosse assim você já estaria estaria em outro lugar. Ah mas a minha vida era ser monge, se se se fosse pra ser monge você já estaria lá pô, entendeu? Então o sentido da tua vida é estar aí onde você está, é amar as pessoas na tua situação onde você está. Se as pessoas entendessem isso, 90 por 100 das frustrações que elas têm com essa questão de sentido da vida estariam resolvidas, de vocação estariam resolvidas.
+
+Ah qual é a minha vocação 1º coisa a tua a tua vocação começa aí onde você está, exatamente aí onde você está. Não é? É por isso que, na verdade, o salto que você dá pra pornografia, quando você consome pornografia, o que que você está fazendo? Né? 1 baita fuga da realidade, quer dizer, 1 baita rebelião, é 1 baita reclamação.
+
+E, ah, eu estou reclamando, estou reclamando da vida, reclamando da realidade. Percebe isso? Algumas pessoas fazem isso com a comida, a mesma coisa, né, a pessoa que vai ficando gordinho, engordando pra caramba, tem 1 compulsão alimentar, é é o mesmo processo, Ela está com medo, achando que ela é impotente, só achando porque não é e por conta do medo, ela prefere, né, pra aliviar aquela ansiedade, que é o medo, ela come. Ou, ela vê pornografia, é 1 coisa. Se tiver alguma pergunta aí, o William Poli me interromper ele.
+
+Peguei o que mais me desesperei. Esse bom comentário. Uhum. O outro aqui Jonas. Miguel percebi que os meus desencadeantes estão relacionados com a minha alta em alta.
+
+Tem tem 1 pergunta aqui, né? Então, antes de ser 1 comentário, 1 pessoa que acabou caindo, sou, olha só, recaídas são normais no processo, não não esquente a cabeça com isso, tá? A gente não, vamos vamos colocar entre aspas aqui, né? Nós não podemos ser contra recaídas, entre aspas, né? Porque eu não estou falando isso com sigilo literal, né?
+
+Mas se você recaiu, cara tudo bem, tranquilo, né? Segue. Porque o caminho da recuperação ele não é 1 caminho liso e reto que você nunca mais vai cair. Ele é 1 caminho com recaídas, mas essa recaída ela tem que ir assim, olha, agora eu vou renovar o meu propósito e vou cair só daqui 1 mês, agora eu vou cair só daqui 6 meses. Aí daqui 3 anos você cai de novo, aí daqui 8 anos você cai de novo, até que acabou, entendeu?
+
+Então, recaídas são normais, não não se puna extremamente por isso porque senão você vai ficar com mais vergonha de si mesmo e a vergonha vai te fazer cair de novo. Então fique tranquilo né? Leva na boa na boa mesmo assim né? A gente faz merda mesmo, a gente faz coisa errada mesmo, fica tranquilo, perfeito mesmo é Deus, não nós, tá? Então fica em paz.
+
+AAA outra pergunta é 1 pessoa está perguntando aqui sobre a questão da autoimagem, né? O sujeito está se perguntando pedindo pra falar 1 pouco sobre essa questão da autoimagem. Olha só, a autoimagem ela não tem 1 1 1 capacidade de sustentação duradoura, quer dizer, ela não ela não é capaz de te dar algo no qual você pode dizer, eu sou isso. A a autoimagem ela é por definição frágil. Quer dizer, a autoimagem é como se fosse 1 taça de cristal que, se cai no chão vamos assim ela quebra né ela não tem consistência então eu vou explicar isso isso é realmente 1 problema né bom então quando é que a autoimagem ela se torna 1 problema?
+
+E isso tem muito a ver com aquele negócio do complexo de inferioridade que a gente tanto fala, né? A autoimagem ela é 1 problema quando, vamos dizer assim, você ainda não se percebeu, quer dizer, é quando você ainda é 1 problema pra si mesmo. Vamos lá, gente. Quando é que a autoimagem é 1 problema? É quando você ainda, quando olha no espelho percebe assim, caramba, eu ainda sou 1 problema pra mim.
+
+Eu ainda sou 1 enigma eu ainda estou vamos dizer assim, interessado, né em em resolver os meus problemas interiores e eu não consigo e isso trava a minha vida. Não é isso? Então você fica extremamente preocupado consigo e você fica assim ó, né patinando ali no mesmo lugar. Então, vamos dizer assim, como é que a gente lida com esse negócio da autoimagem? Né?
+
+1 hora ou outra na sua vida você vai ter que dar 1 banana pra isso. Né? Vai ter que dar 1 banana pra isso mesmo. Você vai ter que pegar ela assim, como 1 tacinha de cristal, jogar ela no chão e deixar ela cair e quebrar. Você olha quer saber o seguinte?
+
+Fodase minha autoimagem, deixa ela cair e quebrar. Né? Eu não sou isso aqui mesmo então, deixa ela cair e quebrar, deixa ela se desfazer, deixa ela ir embora mesmo. Porque ela é falsa no fim das contas. Ela não é verdadeira no fim das contas ela não não tem consistência real.
+
+Então assim olha 1 hora você vai ter que olhar no espelho, e falar assim é, ela fala o seguinte, eu vou me esquecer, porque se eu ficar pensando demais em mim aqui, eu não vou conseguir fazer nada por ninguém, eu não vou conseguir amar ninguém, Eu vou ficar, vamos dizer assim, extremamente preocupado só com os meus problemas, só com os meus complexos, só com as minhas dificuldades e aí no limite o que que vai acontecer comigo? Eu vou me tornando 1 pessoa super egoísta, pô, superegoísta, fico extremamente preocupada com as minhas próprias dificuldades, não é? Então assim, olha, eu vou dizer 1 coisa, você nunca vai ter 1 autoimagem perfeita. Você sempre vai olhar no espelho e falar assim, eu estou cheio de problema aqui dentro, né? Sério, tem 1 monte de coisa dentro de mim que eu tenho que corrigir e sempre vai ter até o último dia da sua vida.
+
+Então, o segredo da coisa é você olhar pro espelho e falar assim, está bom, existe esses negócio aqui dentro de mim e quer saber? Eu vou deixar eles aqui, eu não vou preocupar comigo. Podem ser esses negócios, entendeu? Eu vou tentar equilibrar a balança. Como?
+
+Cara, eu tenho que fazer alguma coisa pelas pessoas. Pra ver se eu tenho, vamos dizer assim, alguma chance de equilibrar essa balança. Porque enquanto você ainda é 1 problema pra si mesmo, enquanto você ainda é 1 1 1 peso pra si mesmo, enquanto você ainda é, assim 1 preocupação pra si mesmo, o que que acontece? O que que acontece? Você paralisa.
+
+Você não consegue cumprir a tarefa da vida. Quer dizer você não consegue fazer nada por ninguém. E aí você fica preso, né como narciso, olhando pro próprio reflexo na água tentando se corrigir. É no limite 1 forma de autoamor, né? Você está ali tentando corrigir os teus defeitos ali, mas você está olhando só pra você.
+
+Eu vou ter 1 coisa, isso é 1 armadilha diabólica isso, porque tu nunca vai corrigir tudo isso daí, se você não amar, você não se esquecer. Percebe isso? Se você não se esquecer você vai continuar sendo 1 problema eterno pra você, pra sempre, até o último dia. Então deixa quebrar, deixa estar assim de cristal quebrar, né? Ah mas o que que vão pensar de mim?
+
+O que que vão falar de mim? Falar assim, olha fodase o que que vão pensar de vocês. Escolha 3, 4, 5 pessoas melhores do que você. Assim olha eu me preocupo, né? Com o que essas pessoas vão pensar de mim.
+
+Agora o que que o Zé da Esquina vai pensar, o que que o outro plano vai pensar, quer dizer pessoas que estão extremamente abaixo de você, tem que se preocupar de modo algum porque eles vão pensar de você. Tem que preocupar, ah o que que Deus pensaria do do que eu estou fazendo? Que que Santo Tomás de Aquino, São Francisco pensaria do que eu estou fazendo? E aí sim a régua sobe, né? Sóbe mesmo, sobe muito.
+
+E aí sim vale a pena. Agora, né? O que que vão pensar de você? Né? As pessoas elas não estão nem 1 pouco preocupadas com o teu processo.
+
+Elas não estão preocupados com o teu amadurecimento, elas estão preocupados com com a tua vida interior, elas não estão nem elas estão nem aí pra você, elas nunca rezaram por você. Entendeu? Nunca. Entendeu? E você está aí perdendo o sono, né?
+
+Preocupado com o que ele fala assim, olha, né? Façame o favor, esqueça a sua autoimagem e esqueça também essas pessoas. Né? Não se preocupe com elas. Certo?
+
+Percebe isso então? Posso tocar aqui pra frente? Muito bom, galera. Muito bom muito bom. Nunca pensei nisso profundo o sentido é fazer exatamente o que tem que fazer é exatamente aí cara, exatamente.
+
+Pô é isso aí. Percebe? Então, é por isso que quando a gente fala de vice pornografia, a gente está falando de combater o egoísmo. É claro que é 1, o, é 1 ato, né, o, a igreja fala, isso assim é 1 masturbação pecado porque é 1 ato egoísta, está no catecismo isso aí, de modo sintético. Quando a gente abre isso aqui que a gente está falando, o que que é o egoísmo, o que que é o amor, a gente entende, fala assim, olha, é claro que o ato da masturbação e da pornografia é a materialização dum problema espiritual chamado egoísmo, não é?
+
+Pega a sua mão provocando 1 autoprazer, não é isso? Então é a materialização desse problema espiritual chamado egoísmo, que é quando você ainda, você fica igual o Narciso se olhando no espelho. Tudo bem. Então, dei 1 pincelada aqui pra vocês sobre esse problema da dinâmica do vício. Depois nós vamos, no curso a gente fala sobre o ciclo do vício, é algo que faz parte da dinâmica, não é?
+
+Muito bem, então, vamos falar disto agora. Eu coloco pra vocês lá no recomeço, 1 ciclo, né, eu até falo que é, é a melhor organização, né, que a gente que eu consegui encontrar. A gente fala de Ciclo do Vício, a gente tem vários autores que propõe isso daí, né. O mais completo que eu achei é o que eu coloco pra vocês no começo que é do é do Padre Miguel Angel Foenties, tá, do livro La Tram Parrota. Então, ele tem lá o ciclo e o 1º, vamos dizer assim, evento desse ciclo é o que ele chama de desencadeante.
+
+Então, o desencadeante é o que em linguagem comum a gente chama de gatilho. Então, são seus gatilhos internos ou externos. E a gente trabalha no curso lá, então, a gente divide entre o ciclo vicioso e o sistema Vicioso. Deixa eu escrever aqui, estou fazendo 1 símbolo com a mão, eu posso escrever. Vamos lá.
+
+Olha só nós temos aqui né nós temos aqui 1 ciclo vicioso E nós temos aqui embaixo 1 sistema vicioso. Aqui nós temos o nosso desencadeante, algo que desencadeia, esse ciclo aqui. O sistema vicioso, olha lá. Então, a gente tem o nosso desencadeante. O sistema vicioso, pessoal, é isso que a gente vem falando até agora, ou seja, quando você sente na hora h 1 desejo de ver pornografia você tem algo que te desencadeia, opa, espera aí, estou sentindo pornografia, estou sentindo vontade de ver aquilo, algo desencadeou esse mim.
+
+Bom, na verdade, a gente vai ver que esse processo do ciclo, por baixo, por baixo de todo esse ciclo, existe 1 sistema vicioso E esse sistema vicioso é isso que a gente vem falando aqui. Mia, o que que é o sistema vicioso? Bom, o sistema vicioso ele é composto por algumas coisas, por exemplo, 1 má formação. Muitos de vocês que entraram aqui no recomeço tiveram essa má formação. Vocês receberam, né, ideais aí dos pais, de vocês, do círculo de amigos, do meio social onde vocês vivem, dizendo que, por exemplo, ver pornografia é coisa que homem faz, né, o que a mulher precisa se descobrir, que ela precisa se tocar, etc etc etc etc.
+
+Quer dizer, 1 má formação antropológica, 1 má formação humana mesmo. Que ensinou, vamos dizer assim, coisas erradas sobre a sexualidade. Então, existe aí 1 má formação. Ei cara, eu apaguei aqui. Formação.
+
+1 formação, tá? Ideias. Ideias. Ideias erradas. Juízos daninhos ou juízos errados, errôneos, perigosos, sobre o quê?
+
+Sobre si mesmo. Juízos errados que você tem sobre si mesmo, como a gente começou traçando aqui no começo da aula. Baixa autoestima, problema com autoimagem, eu sempre fui gordinho, eu tenho pênis pequeno, né, as pessoas vão me achar sempre feio, eu não sou bom com as meninas, as meninas não, né, eu não consigo nunca 1 namorado, só me me envolvo com gente problemática. Ideias erradas que você tem sobre você mesmo. Né?
+
+São essas que eu enumerei aqui, né, enumerei várias aqui. Ideias erradas que você tem sobre os outros. Ideias erradas que você tem sobre Deus. Ideias erradas que você tem sobre os outros. Né?
+
+Todo mundo me deve alguma coisa, as pessoas precisam me amar, as pessoas precisam cuidar de mim, coitado de mim. As pessoas não servem pra nada, as pessoas são másas, as pessoas são injustas. As pessoas são objetos que eu tenho que usálos apenas pro meu prazer. Elas não são pessoas, eu não preciso amálas. Na verdade, amar se ela precisa ter 1, né, eu preciso amar aquela pessoa, mas só se ela me amar de volta, só se ela fizer alguma coisa em troca, 1 do outro.
+
+Né? Então aqui o utilitarismo e 10 erradas que você tem sobre Deus, a má formação que você teve sobre Deus, sobre por exemplo a misericórdia de Deus. Deus é misericórdia. Deus é capaz de perdoar todos os pecados cometidos desde que eu me arrependa. Há má formação, certo?
+
+Má formação, ideias erradas. Tudo isso que a gente está falando aqui, por isso que a gente está falando aqui, presta atenção, vai se condensar, olha que doideira. Tudo isso daqui vai se condensar no desencadeante. Olha que doido, olha como é que funciona isso. Tudo isso que a gente falou aqui vai se condensar no desencadeante.
+
+Por exemplo, vi 1 foto de 1 moça no Instagram, pronto. Tudo isso daqui, tá, é como se fosse 1 vulcão em erupção. Tá? Vamos fazer de vermelho aqui pra vocês entenderem. É como se isso daqui tivesse o tempo todo, borbulhando aqui, galera, olha.
+
+É como se isso daqui tivesse assim, olha, o tempo todo querendo explodir, o tempo todo querendo explodir para cima aqui, olha. E aí você vai lá no Instagram abre 1 lupa de 1 de 1 foto, tudo isso daqui vem à tona. 1 formação, ideias erradas que você tem sobre si mesmo, sobre as pessoas, sobre Deus, desencadeante. Sentiu vontade de pornografia. Deu para perceber?
+
+De modo que a cura desse trabalho, quer dizer, o nosso trabalho aqui no recomeço é refazer isso tudo aqui, olha. Olha o que eu quero fazer com você aqui no recomeço. Eu quero curar as ideias erradas que você tem sobre si mesmo, sobre os outros e sobre Deus. Vocês já viram que o meu trabalho gira em torno dessas 3 coisas? É proposital.
+
+Eu quero mudar o teu olhar, o olhar que você tem sobre si mesmo, pra você conhecer a verdade sobre você, o olhar que você tem sobre os outros e o olhar que você tem sobre Deus. Porque se nós mudarmos essas 3 coisas aqui, você está curado do problema. Você está curado do problema. E é isso que a gente vai fazer. Então a gente fala lá sobre o desencadeante, né?
+
+É isso que é o desencadeante. Depois do desencadeante você tem 1 obsessão. Esse é o 2º momento do ciclo, tá? Muito bom. A Glaucia está perguntando, seria o juízo que fazemos das outras pessoas?
+
+Sim. Várias ideias erradas que você tem a respeito do que é o outro. Né? Até mesmo as pessoas que estão no vídeo pornográfico. Né?
+
+Então, são os os juízos que você faz sobre o outro. Você tem 1 obsessão, não é isso? Então, você fica ali com pensamentos recorrentes na cabeça, tá. Depois que você tem essa obsessão, você tem 1, o que nós chamamos ali de ritual. Eu não vou explicar o que que é o ritual porque esse aqui é 1 aula de implementação, então a gente está fazendo outros comentários, né?
+
+Mas o ritual é aquele passe de mágica, você faz sempre as mesmas coisas, faz sempre as mesmas coisas. E eu deixo para você ali 1 exercício, porque no ritual, o que que você faz quando você começa a entrar no ritual? Você começa a tomar algumas decisões, você, né, você percebeu o desencadeante, você sofreu obsessão, no ritual você começa a a tomar algumas decisões. Eu vou e tranco a porta. Eu vou e deito na cama, eu vou e pego o celular.
+
+Eu vou e coloco o celular no silencioso, eu vou e coloco o fone de ouvido. Percebe? São pequenas decisões, que são aparentemente relevantes. Nós chamamos ali de, vou colocar assim, decisões aparentemente irrelevantes. Eu deixo 1 exercício ali pra vocês.
+
+Eu preciso que você anote quais são as suas decisões aparentemente relevantes. A gente dá o exemplo de 1 de 1 queda, né, pega a tua queda, a última que você teve. Coca 0 que agora eu sou fitness de academia. Quais foram as tuas decisões aparentemente relevantes? Percebeu aqui olha, aqui eu falei algumas, eu falei 4 aqui.
+
+Eu fecho a porta, eu deito na cama, eu pego o celular, eu ponho fone de ouvido, 4. Se você conseguir mapear quais são as decisões aparentemente relevantes, bom, eu acho que já ajuda no processo, eu acho, não sei, só acho que talvez já pode te ajudar, né? Talvez ajude. Vamos lá pra cá. Então a gente está falando aqui do ciclo.
+
+Eu falei do desencadeante. Eu falei da obsessão, agora eu falei do ritual, e aí você finalmente tem o prazer, né? Você tem o prazer. Eu deixo também 1 exercício aí pra você, não é? Disse olha, no limite no limite o que que esse o que que esse prazer ele representa pra você?
+
+Quais são os ganhos secundários que você está tendo com isso daí? Esse prazer ele representa o que pra você? Você precisa saber disso? Ele é 1 alívio? Ele é a solução pra alguma coisa?
+
+Ele te dá poder? Você se sente poderoso com ele? O que é que é que você se sente 1 prazer? Prazer, depois a gente deixa ali pra você, bom, você tem ali, 1 retorno né, ao real. Retorno à normalidade né.
+
+Que acontece? Turbilhão emocional, não é? E aí a coisa está feita aqui, problema emocional, né? Vergonha, que mais? Falem aí pra mim nos comentários, vergonha, culpa, se justificar, né?
+
+Justificativas. Ah, mas que vergonha de mim mesmo. Nossa, mas eu sou culpado porque eu fiz negócio no meu, ah, mas é porque eu estava estressado, ah é porque eu não tenho sexo no casamento, é porque eu briguei com a fulana, entende? Justificativas, culparse, envergonharse, justificarse, não é? Que mais?
+
+Não é isso? Até que você faz o quê? Novas promessas. Novas, promessas. Novas promessas, até você ter de novo aqui 1 outro desencadeante.
+
+É exatamente assim que funciona o ciclo do vício. Puxando de lá, lá de baixo. Deu para entender? Deu para perceber? Culpa, decepção, vou colocar aqui também, Decepção, sentimento de culpa, perfeito, é isso aí.
+
+Deu para perceber como é que a coisa funciona? Eu quero que vocês façam todos os exercícios que estão ali, eu quero que você perceba o teu ciclo. Eu quero que você perceba quais são as decisões aparentemente relevantes que você tem tomado. Eu quero que você perceba o que que o prazer significa pra você. Quando você cai, eu coloco ali 1 outro exercício pra você, olha, quando você cai, o que que você já perdeu com isso?
+
+O que que você já perdeu no teu trabalho com isso? O que que você já perdeu no teu casamento por isso? O que que você já perdeu na tua relação com Deus por isso? Você que é dolorido fazer isso daí, né? Mas você precisa fazer isso daí, porque isso precisa, lembra que a gente falou lá no alinhamento?
+
+Assim, olha, você precisa te motivar, motivar, motivar, motivar, motivar, a não voltar a cair. Impotência, né, a galera fala muito disso assim, olha impotência, né, não conseguia sair do negócio. Né? Deu para perceber? Deu para entender?
+
+Perguntas pessoal, vamos lá. Deixa eu abrir pra perguntas aqui. É 1 audioimplementação que tenho que conversar com vocês, né? Deu pra entender? Deu pra entender porquê que a pornografia pode voltar pra mim?
+
+Por que que a pornografia ela não pode fazer sentido na vida de vocês mais? Por que que a pornografia não pode mais fazer sentido pra vocês? Sério mesmo, sério mesmo, né, diante de tudo aquilo que, presta atenção, durante tudo aquilo que a gente diante de tudo aquilo que a gente entrega aqui, você tem que tomar 1 decisão firmera, de romper com isso, de romper com isso mesmo. Assim, a 1º, presta atenção, a 1º coisa que a gente precisa pra gente mudar de vida, pra gente transformar é 1 decisão firme de romper com o mal, 1º coisa. E se você está desanimado, renove esse propósito, Renove esse propósito agora aqui, né ao final da tal dessa aula.
+
+Né se você está dessensibilizado porque já caiu tantas vezes não não me interessa se você está dessensibilizado Não me interessa não quero saber se você está dessensibilizado se você está não me interessa. Me interessa a tua recuperação e a tua saída disso. E eu sei que pra você fazer isso, você precisa fazer 1 propósito forte de romper com esse mal. Propósito forte mesmo. EAEE começar a perceber, né que você reforte sim, que você pode sim.
+
+Quem falou que não? Quem falou que não? Você vai perceber professor, quanto mais peso você começar a carregar, mais você vai perceber que você pode. E que você é forte, você não é fraquinho. Deu?
+
+Conseguiram entender? Perguntas, deixa eu abrir 1 1 tempo pra vocês fazerem alguma pergunta, pode ser qualquer 1. Como não contar os dias, Wallace? Eu sem querer acaba contando que isso gera 1 cerca de ansiedade que por vezes me leva a recaída. É, esse negócio de contar os rios quando eu falo pra pra não não fazer porque gera ansiedade mesmo.
+
+Você vai ficar maluco porra. Entendeu? Aí vai ficar maluco, vai ficar pirado, você vai você vai acabar caindo. Né? Então, assim, ó, simplesmente esqueça que você está nesse processo.
+
+A coisa que ela tem que ser assim, olha, ela tem que ser ao mesmo tempo suave e firme. Tem hora que eu falo firme com vocês aqui, mas tem hora que eu falo, cara, relaxa. Entendeu? Por quê? Você tem que ser firme no caráter e tranquilo e humilde na tua cabeça, na tua mente.
+
+É mais ou menos igual o judô. O judô, se você for muito afoito, a arte marcial em geral é assim, se você for muito afoito pra ir lá e ganhar do teu inimigo, cara, você está ferrado, você vai apanhar pra caramba, entendeu? Se o cara for bom, se você já foi de em cima dele pode ser, ele vai te ele vai te aplicar 1 queda que você vai ficar, você não vai esquecer o resto da sua Então, calma, respira, espera a hora certa, se acostuma com o jogo, não precisa ter medo de estar ali, apanha 1 pouco e bate 1 pouco, apanha mais 1 pouco. Equilíbrio, firme e suave ao mesmo tempo, na hora certa muito firme e depois calma, respira, frio. É isso, é 1 jogo.
+
+Então, você tem que ficar tranquilo. Né? E aí quando a gente fala em ficar tranquilo, está falando pra você mexe o tal pau da barraca, não é isso. Né? Ao contrário, se você não ficar obsessivo.
+
+Essa não fica obsessivo. Né? Senão você vai ficar igual o Lutero. O Lutero era doente né nesse sentido. Porra, era pô, ele ficava com 1 negócio na cabeça assim obsessivo assim, eu não rezei hoje, aí amanhã eu tenho que rezar 2 vezes, aí eu não rezei depois eu ia rezar 3 vezes, depois não eu tenho que rezar 5 vezes, pô você vai ficar maluco você ficar pensando assim.
+
+Ah não rezou hoje, vai a fodase, outro dia você reza pra frente, né, pra frente. Ah eu comi muito mal hoje, eu falei beleza cara, então amanhã você vai comer bem e ir pra frente, você mudou sua vida pra sempre. Ah, eu não fiz tal coisa hoje, beleza, amanhã você faz e você mudou a sua vida pra frente, você não quer fazer aquilo só mais 1 dia, só mais 1 semana, só mais 1 mês, você quer mudar a sua vida pra sempre. Por exemplo, agora que eu comecei a fazer essa porra, esse negócio de academia, né? Sabe quando eu vou parar de fazer isso?
+
+Nunca. Eu vou fazer pra sempre na minha vida. Se eu deixar de ir 1 dia, não tem problema, antes eu não ia dia nenhum, agora eu fui 6 vezes ou fui 5 vezes, porque eu faltei 2, por exemplo, eu já mudei a minha vida. Percebe? É assim, a coisa ela tem que, você tem que mirar lá no final da vida, lá quando você estivesse encantando, lá quando você tivesse 60 anos.
+
+Imagina você ficar contando os dias até os 60 anos, você vai perder a conta, né? Só se for muito louco da cabeça, não pode ficar aqui, não sei, 101 dias e porra, entende? Então assim, a coisa tem que ser mais leve, né? Se você for muita ferro e fogo você vai cair. Pessoal, tem coisa na vida que não é quantificado aí.
+
+É, exatamente, existem coisas na vida o Vini está me falando aqui que não são quantificáveis, a liberdade ela não é quantificável, né? Exatamente. É interessante pensar a partir do presente para o futuro. É. Esse negócio É isso é 1 problema, aí você fica maluco, entendeu?
+
+É tipo assim, ah eu não fui hoje na academia, agora eu vou, amanhã eu vou ter que ir 2 vezes, né? Você vai ficar pirado, entendeu? Esquece essa paranoia aí e pensa na tua vida lá nos 50 anos. Assim, olha, né, se você, né, é igual a recaída, né, você recaiu de repente, assim, olha, continua, é pra frente, presta atenção, você já mudou a sua vida, porque antes você caía todo dia, você caiu 1 vez a cada 15 dias, você já mudou de vida, você percebeu que você mudou de vida? Aí no mês seguinte você cai só 1 vez.
+
+E é sempre pra frente que você vai olhar, você vai olhar sempre pra frente. Hum? É isso. Olhar pro passado faz com que eu caia, a sua dica estacionar, claro que é, né? Senão você vai ficar sempre triste, né?
+
+O passado ele já não é, né? Mas já não é, já foi, já era, né? Nós temos agora e a hora da morte só, né? Mais 1 pergunta não, fechou? Fechou.
+
+Então acho que é isso, eu tentei ser sintético aqui pra vocês, acho que, né, não não tem muito o que falar também sobre o ciclo do vício, está bem, ele é 1 parte objetiva. Espero que a parte inicial que a gente falou do problema psicológico do vício tenha ficado ainda mais claro pra vocês. Se eu sair, todo mundo pode sair. E eu parei, todo mundo pode parar. Né?
+
+E 1 dia, vocês podem até estar trabalhando com isso. Porque eu vou dizer 1 coisa pra vocês, só vai piorar. Só vai aumentar o número de pessoas que estão consumindo pornografia cada vez mais cedo cada vez mais cedo. Se vocês se atentarem pra isso, vocês param com a pornografia agora e começam a se preparar, porque é daqui 10 anos, vocês vão ter muita gente pra atender com problema de pornografia, Tá bom? Fiquem espertos nisso também.
+
+1 abraço pra todo mundo, fiquem com Deus e semana que vem temos a nossa semana 3. Quem já fez a semana 2, liberadíssimo aí pra fazer a 3º semana e aí a gente volta semana que vem com a nossa implementação aqui mais 1 vez, no mesmo horário, no mesmo local, certinho? Fiquem com Deus pessoal. Tchau, tchau.

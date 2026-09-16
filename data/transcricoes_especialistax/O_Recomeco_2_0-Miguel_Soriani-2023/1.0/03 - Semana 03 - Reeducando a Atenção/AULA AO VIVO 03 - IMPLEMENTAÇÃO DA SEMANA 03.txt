@@ -1,0 +1,281 @@
+# Transcrição Oficial: AULA AO VIVO 03 - IMPLEMENTAÇÃO DA SEMANA 03.mp4
+# Caminho Original: O_Recomeco_2_0-Miguel_Soriani-2023\1.0\03 - Semana 03 - Reeducando a Atenção\AULA AO VIVO 03 - IMPLEMENTAÇÃO DA SEMANA 03.mp4
+# Gerado via Deepgram Nova-2 em: 2026-09-16 15:04:34
+
+A gente estava conversando sobre lua de mel antes de começar aí a gente esqueceu de tudo bem? Muito bom pessoal vamos lá deixa eu acompanhar vocês aqui. É, eles falaram que está sem som, também quer dizer. Foi? Beleza?
+
+Estão me ouvindo? Fechou. Muito bom, então, vamos lá. Isso aí, isso aí, boa, boa, boa. Sejam bemvindos então, vamos lá, olha só.
+
+Como é que vocês estão caminhando no curso aí? Estão estão caminhando bem? Estão conseguindo caminhar bem? Não é? Beleza.
+
+Estão conseguindo caminhar bem? Como é que como é que vocês estão, né? A nossa aula de implementação hoje é da semana 3, não é? Várias pessoas estão assistindo a a nossa aula de implementação depois, mas eu queria que todo mundo assistisse aqui, né, ao vivo com a gente porque o ao vivo é o ao vivo. Eu consigo tirar dúvidas de vocês aqui, né, consigo responder vocês aqui, não é?
+
+Beleza. Então, olha só. Mandem as perguntas de vocês ah pelo pelo chat, tá? A gente vai conversar aqui, então, eu quero tirar as dúvidas que estão tendo ao longo do curso, as dificuldades que vocês estão tendo ao lidar com o problema da pornografia, quais são as dificuldades maiores que vocês estão tendo. Vocês já podem ir mandando aí no chat pra gente, e a gente vai aqui conversando, o bom professor é aquele que responde a pergunta dos alunos, tá?
+
+Então, já pode desde já disparar aí suas perguntas no no chat que a gente vai respondendo aqui na medida em que a aula vai correndo. Então, que que eu queria falar com vocês hoje? A gente vai falar sobre o módulo de 1, talvez, 1 dos modos mais importantes do curso, né? Que é aquele módulo que a gente trabalha os 4 movimentos, né, que a gente trabalha os os 4 passos, vamos dizer assim. E eu começo, né, falando no módulo sobre aquilo que nós chamamos de a função psíquica do vício em pornografia.
+
+O que que eu quero dizer com isso? Presta atenção, tudo que eu for falando aqui eu quero que vocês olhem pra dentro de vocês e tentem reconhecer isso na vida de vocês. Então, eu venho repetindo isso, o problema que você tem não é a pornografia, ela é 1 sintoma, ela é 1 sinal de alguma outra coisa e vocês tem que colocar e meterse na cabeça de vocês porque isso muda toda todo o tratamento, muda toda a terapêutica da coisa. Quer dizer, a gente não vai simplesmente tentar tirar a pornografia de cena, a gente tem que tirar, vamos dizer assim, aquilo que está causando ela. A gente tem que entender o que que está causando ela.
+
+Então, ela tem 1 função psicológica, ela tem 1 função na vida de vocês, tá? Que é, de algum modo, 1 função que a gente pode chamar de prazer, né? Prazer. E agora vamos lá, né, galera? Não, quando a gente fala de função psicológica, qual é, né?
+
+Pra que que serve o prazer? O prazer de algum modo, ele serve pra alguma coisa, ele ele serve pra gente sentir gosto mesmo no mundo, né? Quer dizer, Deus colocou prazer na relação sexual porque senão ninguém ia querer ter filho por muito tempo, ia ter muito mais gente, muito menos gente no mundo. Então, o prazer ele tem 1 1 aspecto positivo, a gente não pode negar isso e e dizer que que o prazer é coisa do mal, né? Isso isso não é verdade, né?
+
+Isso isso é não é verdade. Agora, se você espera demais do prazer, vamos dizer assim, o prazer ele começa a ser pra você 1 1 fuga da realidade, não é isso? Quer dizer, você acredita que aqueles segundos de prazer, eles, vamos dizer assim, são confortáveis pra você, mais confortáveis do que a realidade da vida mesma. Então, o vicepornografia, ele tem 1 função psicológica, que é iludir vocês, iludir vocês, como quem diz assim, olha, fique por aqui por alguns segundos que essa vida aqui é a vida boa e aquela vida que você tem lá, essa vida aí não é boa. A gente tem que mudar isso e a gente tem que mudar isso daí.
+
+A gente não, pressão, se a gente não conseguir mudar essa essa forma como vocês têm vivido, quer dizer, a forma como vocês têm olhado pra vida de vocês, enquanto vocês começarem, continuarem achando que a vida de vocês é só tristeza, é só é só desgraça, é é só coisa que dá errado, é é só frustração. Enquanto vocês continuarem olhando pra vida dessa forma, o prazer sempre vai ser 1 opção, vamos dizer assim, de vida melhor. Então, ou a gente é feliz aqui nessa vida, com o que a gente tem. Então, nós estamos falando aqui de 1 busca pela felicidade. Quer dizer, a pornografia ela tem 1 função psicológica de mostrar pra você, olha, a felicidade está aqui.
+
+E aí depois quando você cai na armadilha você faz, não estava muito ali. Ela tem essa função psicológica de te iludir, de te enganar, de prometer 1 felicidade que na realidade, não nunca vai estar ali completa. Então por que que você tem que procurar 1 felicidade tão lá fora? Sendo que na na realidade ela a felicidade ela tá aqui dentro a felicidade tá dentro da tua vida, tá dentro do teu peito. Às vezes você procura tanta coisa lá fora tanto subterfúgio, tanta fuga, próprio álcool, a própria pornografia como a gente fala aqui, né?
+
+AAA comida etcétera etcétera etcétera e na realidade muito do que falta, eu percebo isso nos alunos, mesmo mesmo. Muito do que falta em vocês é é 1 pouco de silêncio e 1 olhar pra dentro aqui. Olha, onde que está essa maldita felicidade que dizem que está dentro de mim? Eu tenho que silenciar 1 pouco, e tentar procurar isso aqui dentro. E percebeu o quanto que eu estou afastado disso, o quanto que a minha vida está agitada.
+
+Porque eu não estou fazendo silêncio e não estou me alimentando disso daqui. Então, enquanto você não fizer esse silêncio, e começar a olhar pra dentro de você, à procura da felicidade verdadeira, você vai abrir portas pra falsas felicidades, pra falsos prazeres, que vão te dar 1 sensação de felicidade que dura poucos segundos. Então na realidade o que nós precisamos é corrigir o negócio. Olha, você está procurando a felicidade, mas você está errando o alvo. A gente precisa consertar isso sobre E é isso que a gente vai fazer é isso que a gente faz nesse módulo do curso.
+
+É esse movimento que a gente faz aqui no módulo do curso, né? A gente percebe que a pornografia ela é 1 ilusão e ela é 1 promessa de felicidade. Então, muito bem, onde é que eu encontro a felicidade verdadeira? Como é que eu faço isso? Como é que eu estabeleço esse diálogo comigo mesmo e começo a encontrar essa felicidade que na realidade eu já tenho.
+
+Mas eu não estou enxergando, eu preciso começar a ter 1 vida boa. Enquanto a minha vida for ruim, eu vou continuar tendo espaço pra pornografia. Pode perguntar, então, pergunta aí. Pergunta. Como redimensionar corretamente os problemas cotidianos?
+
+Por vezes eu sofro mais na minha cabeça do que na realidade, quer em 1 certa ansiedade. Com toda certeza, não não vi, tem o nome dele? É Wallace. Ô Wallace, olha só. Com toda certeza, né?
+
+Você vai acabar sofrendo mais na tua cabeça do que no, no, na, no mundo real, né? Com com toda a certeza. Agora, vamos lá, né? Vamos lá. A maior parte das coisas que a gente chama de peso, eles não são essas coisas elas não são peso de modo algum.
+
+Por exemplo, a maior parte dos problemas que você chama de problemas, não é, é assim olha, é a tua vida que está acontecendo naturalmente. São os dias se passando. Olha olha só o que eu vou te dizer, né olha só o que eu vou te dizer pra você, mudar o teu olhar pra isso, tá? As coisas que você chama de peso, então, os problemas do trabalho viram peso, os problemas da vida cotidiana viram peso, as situações do do casamento viram peso, tudo tudo tudo começa a virar 1 peso. Que que, o que acontece contigo?
+
+Você fica deprimido por isso, você não consegue ir pra cima. Só que na realidade, presta atenção, todas essas coisas que a gente está chamando de peso, essas coisas elas são à circunstância concreta onde a sua vida acontece. Essas coisas, elas são a coluna vertebral da tua vida, elas são a estrutura da sua vida. Como quem diz assim, olha, esse é o seu caderno e você pode escrever a sua vida a partir de aqui, a partir disso aqui. A águia, né, a gente sabe que a águia é 1 animal que consegue alçar voos muito altos, é o é o bicho, né?
+
+Que consegue voar mais alto, de todos os de todas as aves. Vocês sabem, por exemplo, que porque você sabe por que disso? Por que que a águia consegue alçar os né voos altos? A águia é de todos os bichos, todas as aves, aquele bicho que tem as asas mais pesadas. É justamente o peso da da Ásia, da Ásia da Ásia, que faz ela voar mais alta.
+
+Então olha, assuma as coisas que acontecem com você, como possibilidades de voos mais altos. Se a gente, viver reclamando das coisas que acontecem com a gente, se a gente viver chorando pelos canto na vida, se a gente viver chorando pelas coisas que acontecem com a gente, tudo vira 1 problema, tudo é 1, né, é é 1 motivo por 1 grande problema, o que que começa a acontecer com a gente? A gente começa o quê? A fugir dessa realidade. A gente começa a fugir dessa realidade.
+
+A gente se rebela e a gente fala, não, isso não pode acontecer, eu não aguento carregar, eu não posso com isso, tudo é 1 peso. Percebe? Enquanto que o movimento da vida é outro, é assim olha, tudo que está acontecendo contigo é 1 peso meu filho, que bom. Que bom. Eis aí 1 oportunidade pra você alçar voos mais altos, Eis aí 1 oportunidade pra você amadurecer de fato e escrever 1 vida com alguma força, com alguma presença.
+
+Vocês acham que a minha vida é 1 marasmo? Sim, não acontece nada comigo, eu faço tudo. A vida de ninguém é assim, a vida de ninguém é assim. Graças a Deus, né? Graças a Deus, que bom que a vida da gente não é assim.
+
+Sabe por quê? Porque se a vida da gente fosse assim, ninguém ia fazer porcaria nenhuma, a nossa vida ela não ia ter sabor, ela não ia ter peso. Se a cruz de Cristo fosse leve, de nada teria valido a paixão. A paixão de Cristo, ela tem 1 valor, porque a cruz que ele carregou, pecado da humanidade inteira, era pesada. E foi só por foi só por causa disso, que ele ressuscitou depois de 1 3º dia?
+
+Então, na realidade, olha, carregue a maior quantidade de problemas e de peso que você possa carregar e não chame elas de programa, abrace, não é não é isso que Jesus fez? Olha, eu vou abraçar esse negócio aqui. Por quê? Porque essa é a minha vida, é para isso que eu vim, não é? Eu vim fazer isso.
+
+Qual seria o sentido da vida dele se não fosse carregar aquele peso? Pra fazer os milagres? Da mesma forma a gente falou assim, olha, eu carrego o peso da minha vida e aí isso já não se tornou, chega 1 momento que as as coisas elas não se as coisas da sua vida elas não são mais 1 peso pra você. E aí você começa a fazer o quê? Carregar o peso da vida dos outros.
+
+Você você começa a carregar o peso da vida dos outros. E aí você começa a falar assim, ah, de fato, amadurecer nisso daí. Então, não chove as coisas que te acontecem de problemas ou peso, eles são, AAA estrutura da sua vida. Tem mais alguma pergunta? Não.
+
+Agora? Não só a iluminação. Ah tá, a gente comenta depois, né? Pessoal está perguntando sobre o banho gelado, a gente comenta depois, começa amanhã. Bom, e os alunos são mais que obrigados a fazer, né?
+
+Então, Quando a gente entende isso que a gente está falando, a gente começa a perceber 1 das coisas que a gente fala nesse módulo que é a soberba como fundamento do vício em pornografia. É a soberba como fundamento do vício no fim das contas, Tá? E o que que é esse movimento, da soberba, que a gente está falando aqui. O que que é esse movimento que todos nós temos dentro de nós né, todo mundo tem da soberba. Olha só.
+
+Vamos lá. Quando algo te acontece, que foge o teu controle, e aquele algo vira 1 peso pra você ou aquele algo virou 1 problema pra você ou aquele algo vira 1 incômodo pra você, Ou você queria que a coisa fosse diferente e você não sabe lidar com essa frustração? Você não sabe lidar com essa decepção? Você não sabe lidar com com com a realidade. No limite, se a gente olhar né, com 1 olhar apurado pra essa coisa, a gente vai ver que existe ali 1 germe de rebelião, 1 germe de rebeldia mesmo.
+
+Como como 1 1 criança que vai ao supermercado com a mãe, aos 7 anos de idade por exemplo, e pede 1 chocolate e a mãe diz não. Não, não vou levar. E essa criança se joga no no no chão do supermercado e faz 1 birra. E fica ali chorando, não, porque eu quero, porque eu quero, porque eu quero, porque eu quero. Olha, a criança porque ela não aprendeu a ouvir não, né?
+
+Ela não aprendeu a ouvir más notícias da vida. O movimento da soberba é é justamente quando a gente não abaixa a cabeça humildemente diante das más notícias, às vezes das más notícias que a gente tem dentro da gente, que são as nossas, as nossas más inclinações, a nossa preguiça, a nossa displicência, ou às vezes diante de situações que acontecem com a gente. Então, a soberba ela faz com que você não aceite, a realidade. Como quem diz assim, olha, sabe quem fala muito bem disso? 1 sujeito chamado Rudolph Allers.
+
+É 1 é 1 é 1 psiquiatra, tá? O Alers ele fala exatamente dessa rebelião. Você disse olha, é próprio do neurótico, é próprio do sujeito com o vício, é próprio dum sujeito com vício em pornografia, querer ser como Deus, querer ser como Deus. Lembra do exemplo que a gente dá do Joãozinho que não encontra a fulaninho e falou assim, olha, né? Deus quis assim pra você e você não está, vamos dizer assim, em concordância com a vontade dele, você não está em concordância com a vontade dele, a a tua vontade é 1 e a vontade dele é outra.
+
+E e você sempre sai perdendo quando isso acontece. Você sempre sai perdendo quando isso acontece. Então a a nossa soberba, ela abre portas pra esse tipo de rebelião, mas é 1 rebelião velada, não é 1 rebelião assim, ah, eu vamos jogar no no no né, aqui no chão EEE pedir o chocolate que eu quero. Não, não, ninguém sabe que você está em rebelião. Ninguém sabe que você está em rebelião.
+
+E o sinal dessa rebeldia, sinal dessa rebelião é justamente o vício. O sinal dessa rebelião é justamente o, né, a abertura pra pornografia, é como você não se joga mais no chão, no supermercado, mas você, né, a sua birra hoje é a pornografia. Ah, não gostei disso que aconteceu comigo, então, vou fazer 1 birra aqui chamada pornografia. Ah, não sei resolver tal outra coisa, então, vou fazer 1 birra aqui chamada pornografia. Ah, eu estou estressado hoje e não queria estar assim, então, vou fazer 1 birra aqui chamada pornografia.
+
+Né? Percebe? E aí a gente precisa crescer e aí a gente precisa amadurecer. Né? E olha, batendo no peito e fala assim, eu não sou Deus, né?
+
+Eu não sou Deus. Pelo amor de Deus, vocês precisam fazer isso, olha, cara, eu não sou Deus, não adianta eu querer controlar a realidade, não adianta eu querer controlar o mundo. Faz 1 exercício por exemplo de deitar no no no chão, num dia, né, estrelado, veja no chão, num num ambiente externo, né, e fica olhando pro pra cima assim vendo as estrelas 1 pouco, vendo ali, né? E percebe assim a o tamanho da realidade, o tamanho do seu, o tamanho do mundo, a imensidão disso. E que você não controla absolutamente nada do que acontece ali no céu, na terra, nada nada nada.
+
+Você controla 1 parte muito pequenininha. Isso acalma a tua soberba em algum modo. Então, o nosso coração ele precisa estar em conformidade com a realidade. E isso é a maturidade de algum modo, né? Isso é maturidade de algum modo, quando o nosso coração ele já não espera tanto da realidade e de algum modo consegue encontrar 1 paz e 1 repouso ali.
+
+Consegue encontrar 1 paz e 1 repouso ali, A pergunta aí. Quanto tempo mais ou menos leva para se dividir totalmente forte contra o vício. E qual o período de achar que já se lembrou, acha que vem de repente. A pergunta é. Do.
+
+Do. Do. Do Fabrício. Muito, a pergunta é boa. Fabrício está perguntando aqui.
+
+Desculpa aqui também. Ah, tá, eu digo aqui. Quanto tempo mais ou menos leva pra conseguir ficar totalmente forte contra o vício? E qual o perigo de achar que já se livrou? Achar que está tudo bem, cai num gatilho.
+
+Então, olha só. Algum alguns autores eles vão dizer que estão assim, olha, processo todo ele leva 1 ano, 2 anos pra você fazer 1 1 completo do negócio, né? Você ficar 2 anos aí sem nenhum tipo de contato com a pornografia, esse é 1 fato, né? Agora, eu eu não arriscaria dizer o número exato. Então, eu não eu não arriscaria dizer 1 número, analisar esse pelo lado quantitativo.
+
+Porque tem 1 problema você analisar a coisa pelo lado, pelo do ponto de vista quantitativo, quer dizer, falar em número, assim, ah, eu, né, 2 anos sem pornografia ou você está totalmente sem a pornografia? Fala assim, ó, parece que tem alguma coisa que não está colando aí, né? Parece que não está suando legal. Sabe quando é que você se livra da pornografia? Definitivamente?
+
+Claro, quando você não cai mais nela, e quando ela já não é o centro das suas atenções. Porque às vezes você tem 1 sujeito que já faz 6 meses que ele não cai na pornografia, mas ele só pensa naquilo. Por exemplo, o cara não tem paz, ele fala assim, olha, a minha vida é o seguinte, eu estou bem, quer dizer, estou bem para ele, é não estar caindo na pornografia. Não, eu estou bem, olha como é que eu estou bem, faz 6 meses que eu estou sem pornografia, estou bem. Mas ele está tão neurótico e tão pilhado com a coisa que a coisa ainda está no centro da vida dele.
+
+Quer dizer, ele ainda fica prestando atenção só naquilo. Assim, ih, mas esse cara vai ficar quanto tempo assim? Né? Ele vai ficar 2 anos assim, 3 anos assim, ele vai viver 10 anos assim, ele não vai conseguir. Então, a coisa ela, ela, você se cura totalmente dela, quando ela não é mais o foco da tua atenção.
+
+Por exemplo, os os sujeitos que sujeitos que fundaram os alcoólicos anônimos, são 2 irmãos. Os caras eram bêbaços, eram viciada a aço em em em alcoólatras assim, dos piores, daqueles que ficavam né fora de casa. Chegou 1 momento em que aquilo não era mais o centro da vida deles. E aí, eles começaram a ajudar outras pessoas, né? O centro da vida deles agora era ajudar outras pessoas.
+
+Então, por 1 lado é o seguinte, olha, você não cai mais, a coisa não é mais o centro da sua vida e você já é 1 pessoa que ajuda outras pessoas, não necessariamente a sair do vício, não é isso. Mas você já é 1 pessoa, você não é mais assim, 1 pessoa que vive só pra você, pra sua família e e, não, não, não, você já de algum modo serve a tua comunidade, entendeu? Você já faz algo de útil que ajuda as pessoas. Você já entrega algo por amor às pessoas, de fato. Gente, a maior parte das pessoas com problema em pornografia tem 1 dificuldade imensa de servir sem cobrar nada em troca, De servir sem cobrar nada em troca.
+
+E tem 1 dificuldade imensa de amar no final das contas, né? Rafael Jembitsky, Mia quando você fala sobre se acostumar com desconforto seria para se fortalecer quando o impulso vem, ou seja, aguentar o desconforto do vício e ficar calmo quando ele vem, é exatamente isso. É isso aí, é isso aí. 1º que é o seguinte, tem esse lado tem e tem outro também, mas vamos falar desse. E acontece?
+
+Quando o impulso, o o impulso, o né, pra assistir pornografia ele ele aparece, ele aparece forte. Então ele ele aparece às vezes do nada, ele parece muito forte. E ele gera 1 desequilíbrio em você, ele te desequilibra. Só que, veio a diferença, Existe aqui 1 sujeito, que sempre viveu, né, ali no ar condicionado, foi criado, né, pela, pela avó, né, a mãe sempre super protegeu, né, sempre tomou banho quente, nunca passou por nenhum desconforto na vida. Se passou foi por poucos confortos.
+
+Quando algo chega e desequilibra ele, desequilibra de vez, porque ele não está acostumado com o desequilíbrio. Então, ele não está acostumado a ter que se equilibrar na corda quando está quase caindo. Quando algo vem forte ele se desequilibra. Então o que acontece? Esse sujeito ele se assusta muito com o impulso, o impulso vem, eu não sei o que fazer isso, está me desconforto, né, me dando muito desconforto, eu não sei o que fazer pra me livrar do desconforto eu vou lá e caio.
+
+Agora, o que que nós temos que fazer? Fala, olha, espera aí, eu tenho que me acostumar, eu tenho que, né, eu tenho que me acostumar com esse desconforto aqui, eu tenho que perder o medo dele. A luxúria, todo problema da de luxúria é sempre 1 medo. Os 3 primeiros pecados capitais, né? Luxúria, gula e avareza, são 3 movimentos do medo, são os 3 movimentos do medo, né?
+
+A luxúria é o medo do desconforto, a gole é o medo de não reter e a avareza é o medo de perder. A gente, 1 dia qualquer coisa a gente fala dos 2 ali. Mas a luxúria é o medo do desconforto. Cara, como é que você perde 1 medo desse tipo? Né assim, o que o que que está acontecendo com as pessoas hoje em dia, né?
+
+Que que estão sendo com os homens e o que está acontecendo com as mulher hoje em dia? Não não é normal a gente a gente perceber 1 falta de valentia nas pessoas, não é normal a gente perceber 1 falta de coragem nas pessoas. Né? Por exemplo, a gente tem medo de altura. Olha, medo de altura, mas sei lá, medo de de de escalar, fazer 1, né, 1 1 escalada num lugar alto.
+
+Fala assim, olha, se eu olho ali, tem tem gente que está fazendo aquilo, tem gente que está escalando, então, dá pra eu fazer também, eu vou lá e vou fazer. Eu tenho que perder esse medo aí, não é 1 dado da realidade esse medo aí. Não é, por exemplo, 1 leão que está correndo atrás de mim e eu tenho que correr, porque todo mundo corre. Esse é 1 medo da realidade. Agora existe 1 outro medo que eu senti, olha, eu tenho medo de altura, mas tem umas 10 pessoas que está escalando lá.
+
+Então, espera aí, tem alguma coisa de errado comigo, não é com a realidade. Então eu tenho que perder esse medo, eu vou lá eu vou encarar esse medo, eu vou perder, eu vou pra cima. Eu tenho que perder esse medo, eu vou perder 1 a 1, não é legal, não é normal isso. Se eu tenho medo de nadar, medo de água, vai ter 1 monte de gente nadando, não é normal esse medo que eu tenho de água, eu tenho que perder ele, como é que eu perco ele? Eu vou me aproximando dele aos poucos até perceber que não acontece nada quando eu entro na água.
+
+Como é que você perde o medo do desconforto aos poucos se acostumando com ele? Por isso que a gente fala, o banho gelado que a gente vai começar amanhã, café sem açúcar, volta e meia você não comer 1 coisa que você gosta, você cortar alguns prazeres. Eu vou falar 1 coisa pra você gente, isso é isso é assim 1 coisa tradicional. Não adianta nada se vocês ficarem tentando fazer esforço pra sair da pornografia se vocês, nos outros momentos da vida de vocês, estão se cercando de prazer o tempo todo, o corpo não não funciona assim, a psique não funciona assim. Percebe?
+
+Então você tem que parar de alimentar isso compulsivo aí. Não, né, o negócio vai ficar louco, vai ficar doente, né, vai ficar desequilibrado, sem ordem. Então a gente tem que ir perdendo aos pouquinhos o medo do desconforto. A gente faz isso com esses exercícios que a gente passou aqui. Quando o impulso vem você fica desequilibrado, opa mãe, espera aí.
+
+Caramba, eu já tomei 1 banho gelado ferrado ali, eu sei que daqui a pouco passa e eu vou estar no quentinho de novo. Eu pulei na piscina gelada pra caramba, lá na Europa né? Pulei na piscina gelada pra caramba, porra, quanto que estava lá? Menos 17? Menos 16, menos 17 empurraram ainda na piscina, gelou até meu cérebro.
+
+Mas daqui a pouco eu saí, eu estava no quentinho, estava bem, não aconteceu nada comigo. O impulso ele vai vir, ele vai me desencomodar, ele vai me vai me incomodar, ele vai me desequilibrar. Mas se eu não fizer nada, daqui a pouco, não vai ter mais nada aqui, vai ter passado. Mais 1. Fala, ativar o novo centro de atenção, substituir o antigo seria mais fácil.
+
+Como é que é? Preciso achar 1 novo centro de atenção. Substituir o antigo, o centro de atenção antigo quer dizer, tem como substituir Sim, essa é 1 é 1 técnica extremamente antiga na verdade. É isso mesmo? Eu acho que eu entendi.
+
+Exatamente, falou assim, olha, vamos lá. Existem coisas na vida que são mais interessantes do que o prazer. Existem várias coisas na vida que são mais interessados no prazer. Então, olha, tem tem 1 coisa que eu sempre falo e que isso me ajudou muito, quando eu estava muito afundado no vício. Ajudou muito, que é o seguinte, você só vai ceder ao vício, você só vai ceder à pornografia, você só vai ceder ao ao ao prazer ali imediato, quando você não tiver nada mais importante pra ser feito.
+
+Quando você não tiver nada mais elevado pra prestar atenção, Pra se alimentar, pra crescer, pra ir pra cima dessas coisas mais mais elevadas. Então, você está colocando na na sua vida, vamos dizer assim, 1 objetivo, quando a gente fala de pornografia, a gente está colocando na sua vida 1 objetivo, ainda raso, ainda muito baixo. Você precisa começar a colocar, vamos dizer assim, objetivos superiores a esse. Pode ser desde ficar mais forte, desde ganhar dinheiro, desde servir 1 comunidade, desde começar a pensar na sua morte, desde começar a buscar a verdade, a santidade. Então quando você não está prestando atenção em nenhuma dessas coisas que, mesmo ficar mais forte e ganhar dinheiro, gente, até essas 2 coisas que ainda são desse mundo, até isso é mais mais importante do que o prazer de 5 segundos.
+
+Então, você só vai ceder ao vício quando você não tiver nada mais importante pra ser feito. A verdade é que a gente sempre tem alguma coisa mais importante pra ser feito, e a gente precisa olhar pra essas coisas. Hum? Wallace, eu percebo que quando com muito, o desejo surge. Né?
+
+O que isso acontece? Surge. Tá. Porque isso acontece. Isso aí é batata, é assim, batata batata, isso sempre vai acontecer.
+
+A pergunta é, eu percebo que sempre quando eu como mal, ou como muito, né? O desejo o desejo aparece, por que que isso acontece? É sempre assim. Então eu vou dizer 1 coisa, a gente dá pra saber exatamente quando, quando você está está começando a cair. Sabe quando você começa a cair?
+
+É assim, você está indo bem. Você está indo bem, está indo bem, está indo bem. Sabe quando você, eu eu tenho certeza que você vai cair? Quando você começa a assistir muito Netflix, ou muito seriado né? Jogar, começa a jogar muito videogame e começa a pedir iFood todo dia.
+
+É certeza que dali 2, 3, 4 dias você vai cair. A terapia da luxúria ela começa pela terapia da Guldon. É sério isso gente? Se você não consegue controlar, tá, a a boca e fazer jejum, você não vai conseguir controlar 1 apetite sexual, porque o prazer da comida, ele ainda é mais leve do que o prazer sexual. Então você começa pelo mais fácil 1º.
+
+É o que a gente chama, fala assim olha, vamos vamos vamos ser bem sincero, fala assim olha, o prazer, ele é 1 monstro interminável. Ponto. É 1 monstro interminável. 00A nossa concupiscência, ela é, se você alimenta ela, ela cresce eternamente. Podem reparar, se você, vamos pensar na pornografia, você vai dando corda, vai dando corda.
+
+Você acha que vai acabar? É insaciável, você nunca vai estar satisfeito, você nunca vai estar saciável, nunca mesmo. Com a comida é a mesma coisa, começa a comer, né, esperar demais da comida, começa a comer muito para você ver, começa a querer comida muito refinada toda hora, o tempo todo para você ver. O que que vai começar a acontecer dentro de você? Aquele aquele negócio vai virando monstrinho, aquilo vai começando a crescer.
+
+Por quê? Você está você está alimentando a parte do da tua pessoa, que é meramente material. Você não está alimentando a parte que é intelectual ou espiritual. E o engraçado é que é assim, aquilo que a gente mais alimenta, mais cresce. Né?
+
+Então, onde está o teu tesouro, ali também está o teu coração. Então, se você está juntando tesouros só nessa parte do prazer, teu coração está aqui. Então, a 1º coisa que vocês precisam fazer é começar a parar de comer porcaria, mesmo. Eu eu acho que eu nunca falei muito isso né? A galera precisa fazer isso.
+
+Eu sei que vocês tem gente aqui que come muito mal. Ah, Miguel, mas no almoço ali eu como direitinho, como salada, não é que tu falando, você come doce o dia inteiro, você come refrigerante o dia inteiro, você come porcaria o dia inteiro, entendeu? Você pede iFood, sei lá, 3, 4 vezes por semana. E aí o que acontece? Você não sossega, o seu apetite ele não repousa.
+
+Você fica inquieto. Ah, mas agora eu quero 1 1 pizza assim porque é melhor, não sei o que, pai, você comeu o apelido. 2 dias depois você já quer 1 pizza até melhor que aquela. Ah, mas isso também já não me saciou. Então, agora eu quero pornografia.
+
+Né? Você vai parar aonde assim, né? Você vai parar em absurdos assim, você vai querer comer e ver pornografia ao mesmo tempo. Mais algum umbigo? Ao beijinho a boca, e se tem problema de saúde.
+
+Aí você tem que procurar 1 nutricionista, né? Aí eu não sei, né? É bom você procurar 1 1 1 nutricionista e fazer 1 procurar 1 bom endócrino, porque eu não sei qual é teu problema de saúde, hipoglicemia, não sei qual que é. Cara, procura ajuda e e faz 1 faz 1 1 dieta certinha mesmo, né? Isso vai te dar disciplina também, é 1 outro ponto.
+
+Eu quero comer mas não vou. Eu vou comer daqui a pouco. Olha, meu horário de comer é 3 e meia, mas agora já são 3 horas e eu estou com fome. Eu vou esperar meia hora, e não vou morrer por isso. Isso vai te dar 1 pouco de disciplina também, entendeu?
+
+De regra, galera, regra, muito do que faltou pra vocês foi limite, muito do que faltou pra vocês foi regra, muito do que faltou pra vocês foi perceber que vocês conseguem passar pelas coisas e que vocês são fortes e que vocês não vão morrer se vocês passarem por aquilo. E seus pais eu falei pro gente, vai na academia e faz 1 treino e sai quase vomitando. O cara me respondeu, falou assim, cara, foi a melhor coisa que você me falou, eu fiz 1 treino de perna, saí quase vomitando, passei quase mal e tal e eu saí e falei assim, porra, caramba, eu consigo fazer isso, não aconteceu nada comigo, eu me saí, né, saí me sentindo forte de algum modo. É exatamente o que o Gabriel está falando aqui, o que que é o fod phone. Porra, são aquelas comidas que é pura pornografia, aquelas propaganda do do do, Bacon, e aí tem 1 cheddar escorrendo assim, porra, está de sacanagem, esse negócio é mais pornô do que o, né?
+
+É mais pornô do que o é impressionante o negócio. Então é exatamente o Fábio está falando, dominar a gula ajuda você a dominar o corpo. E aí ajuda você a não ceder sempre que você está com vontade de fazer alguma coisa. Aí você deita, ah mas eu vou só só pôr a mãozinha aqui e fazer tal coisa assim, não espera aí, não vou ser tão mole assim, porra, né? Eu estou aqui ó, num num programa, né, que é o recomeço, eu estou aqui, eu, pô, eu paguei a porra do curso, eu estou seguindo o Miguel, esse negócio está destruindo a minha vida, eu vou continuar firme nesse negócio, eu vou continuar firme nesse negócio até eu me livrar definitivamente isso daqui.
+
+E se for preciso fazer, né, controlar a boca pra isso eu vou fazer, eu preciso ter disciplina, se for preciso tomar banho e velado pra isso eu vou fazer. Além de analisar aqueles aspectos todos psicológicos e espirituais que a gente faz no curso, a gente estava falando da soberba aqui, né? Pô, eu preciso começar a aceitar a realidade e amar a realidade, abraçar a cruz, como a gente fala, abraçar a cruz é isso. Vocês acham que abraçar a cruz é o que? Ir lá pegar 1 cruz e pôr nas costas?
+
+Não, abraçar a cruz é abraçar a tua biografia, abraçar a tua vida. É isso aí que vai garantir a tua salvação. Miguel, quando você estava viciado? Como sabia que estava saindo? Eu digo isso porque às vezes é difícil mensurar o progresso contra o vício.
+
+Isso é, né? Miguel, como quando você estava viciado como sabia que você estava saindo? Cara, quando eu comecei a ajudar as pessoas e quando eu comecei a atender, falei assim, bom, 1º coisa, agora eu não posso cair mais, né? 1º coisa, já fazia 1 tempo que eu não não estava caindo, eu falei assim, bom agora, eu não posso cair mais. E eu acho que eu comecei a ajudar as pessoas, né eu comecei a ajudar as pessoas a saírem daquilo, e aos poucos eu fui fazendo 2 coisas.
+
+Não é que eu me vigiava loucamente para não cair, mas é porque como eu estava ajudando as pessoas, eu estava tão na adrenalina de querer ajudar elas, o meu problema foi se tornando muito pequeno. Assim, olha, eu preciso ajudar as pessoas aqui. 1º, não posso cair, né? Porque senão, como é que eu vou ajudar elas? Porque não são as minhas palavras que vão ajudar elas.
+
+Eu preciso ser testemunho, do que eu estou do que eu estou falando, do que eu eu preciso viver o que eu estou falando. Então esse foi o 1º movimento assim, eu comecei a perceber, falo assim olha, eu preciso ajudar as pessoas eu não posso cair. E eu nem tenho tempo mais para cair porque eu tenho que ficar estudando aqui para poder ajudar elas. A 2º coisa é que, na medida em que você vai amadurecendo, você vai percebendo que você tem pecados muito piores. E que você tem inclinações muito mais difíceis de mudar, galera.
+
+Muito mais difíceis. Então você começa a perceber que, opa, espera aí, né? Tem tem tem tem coisa aqui, tem 1 1 amigo padre que ele disse que 1 vez ele estava no confessionário ali, está atendendo confissão o dia inteiro. E aí ele passou o dia inteiro ouvindo pecado e pornografia, o dia inteiro. E aí quase no final do dia assim chegou 1 cara lá e com, né, falo conversando não é esse, aí depois falou, ó, ele saiu do confessionário animado, falou assim ó, finalmente 1 soberbo.
+
+1 soberbo, né? Quer dizer, não vem me confessar aqui que bateu punheta pô. Aí vem vem me falar do do, dum pecado mais, opa, espera aí, sou bêbado, cara, né? Então, você você vai começando a perceber, eu fui começando a perceber, se não existiam só pecados carnais e materiais, mas que existiam pecados espirituais. E que esses sim, os pecados interiores, esses sim eram eram difíceis de mudar.
+
+E que falou assim, e agora? Que que eu faço? Como é que eu faço a moeda aqui? E aí você leva anos pra trabalhar aquilo, anos, talvez 1 vida inteira. Por exemplo, você não saber como, né, você não, você sofrer por não saber porque que você é idiota de não amar mais a Deus.
+
+Como é que você resolve essa porcaria? Não sei, cara. Entendeu? Como é, não sei. Como é que você resolve isso?
+
+Assim, eu sofro por ser imbecil de não amar mais a Deus. E aí? Resolve isso pra mim? Entendeu? Ah quer dizer, a minha fé é pequena ainda.
+
+Essa que é a verdade. Essa que é a verdade. Tenho ajudado até agora, é a percepção das Dai. Ah, aquilo ficou legal, é 1 atualização boa. A gente colocou ali 1 atualização boa, isso é bem legal.
+
+Não tinha noção do quanto são pra isso aí. É, o Felipe está dizendo, né? O que tem me ajudado até agora é a percepção das Dai, não tinha noção de quantos são traiçoeiros, valeu, Miguel. São as decisões aparentemente relevantes, né? Que você vai tomando.
+
+Então você, chega em casa e você apaga a luz, você põe o celular perto do travesseiro, né? Você, liga o wifi, né? Você confere se está todo mundo dormindo, né? Você abre o celular no YouTube. Então são pequenas, ou você abre a lupa do Instagram e já começa a ver alguma coisa, dali pula pronto, 1 site pornográfico.
+
+Então são pequenas coisas galera, que vão, são pequenas decisões que são aparentemente relevantes mas que levam você a cair depois. Vou buscar me dedicar à esposa, à família, à sociedade, procurar ser o último com seriedade buscando se intimidar. É isso, cara? A cura pro complexo de inferioridade, que é 1 das coisas que mais existem aqui no problema da pornografia é, exatamente esse movimento, quando você começar a servir a 1 comunidade. O Doutor Alfred Adler matou a pauta e falou assim, olha, a cura do complexo de inferioridade acontece quando você começa a servir 1 comunidade, quando você começa a ser útil e a servir.
+
+Eu já falei isso milhões de vezes, vocês acham que a irmã Dulce tinha complexo de autoridade? Gente, existem pessoas muito melhores que a gente no mundo, muito melhores, que estão a essa hora aí ajudando gente pobre na rua, com o que elas têm. Às vezes o que elas têm é 1 prato de comida, às vezes o que elas têm é 1 cobertor, existe gente muito boa nesse mundo. E a gente precisa começar a ser bom em alguma coisa que a gente tem. Esse meu trabalho assim, fala assim, olha, eu não sei fazer quase nada, você vai fazer pouquíssimas coisas.
+
+Mas eu tenho que fazer isso daqui bem feito. Porque é isso que eu tenho. O que que eu tenho? O que que você tem pra dar? Sabe por quê?
+
+Porque é isso que você tem, que vai ser a tua porta de entrada pro céu. Por quê? Nisso que você tem, na hora que você faz isso que você faz, bem, naquele momento você e São Francisco são iguais. Porque se São Francisco estivesse vivo ele faria aquela coisa da mesma forma que você está fazendo. Tem 1 história de 1 sujeito que era bêbado alcoólatra, bêbaço assim alcoólatra, acabava com a família dele, às vezes era agressiva em casa, o cara morreu.
+
+E aí todo mundo, todo mundo achou que o cara estava ferrado, falou assim, esse cara se ferrou, está está no inferno assim, né? Já era, o cara era ruim. Depois aos poucos foram aparecendo algumas histórias. Que que ele fazia? Ele passava nos comércios da cidade assim, loja de sapato, loja de roupa, ele chegava na no gerente, chegava lá no balcão, ele pensava, quem que está devendo aí?
+
+Aí a pessoa mostrava lá 1 outra conta, ele não conhecia a pessoa, ele ia lá, ele pagava a dívida, dum cara que ele nem conhecia. E ele fez isso por 30 anos. Ele passava, aí a pessoa chegava lá depois pra pagar, acertar 1 1 boleto lá, 1 1 crediário, alguma coisa. Não, mas aí já está limpo aqui. Ué, como assim?
+
+Não, eu não devo mais nada. Esse cara, ele podia ser ruim em tudo, mas nessa ação dele, ele e São Francisco são iguais. E esse é 1 assunto que ele poderia conversar com São Francisco no céu. Sobre isso eles podem conversar, então ele tem 1 chance. Cara, sabe qual que é o esquema assim olha?
+
+Para de querer ser perfeito em tudo. Pega 1 coisa, e seja perfeito nela. E se entrega pra ela. Pode ser qualquer coisa. Porque é isso que cura o complexo inferioridade.
+
+Quer cederite a cabeça e trouxe e fala assim, é até que eu fui útil. É até que eu não pensei só em mim. É até que eu estou tentando fazer alguma coisa aqui mesmo com esses meus problemas. E aí igual eu falei, deixa a pornografia ali de canto, deixa ela ali. E vai fazendo essas coisas.
+
+Foi assim, comigo foi acontecendo assim. Eu deixei ela ali. Volta e meia acontecia, volta e meia eu caía, mas eu comecei a iluminar minha vida com 1 monte de pilar. Eu comecei a fazer 1 monte de coisa boa na minha vida. Eu comecei o quê?
+
+A oprimir as trevas com a luz, eu comecei a oprimir as coisas ruins que eu tinha com 1 monte de outras coisas boas que eu comecei a fazer. E aí o que que foi acontecendo? A minha vida ela já estava tão boa que não tinha mais espaço pra aquilo, aquilo já, espera aí, não por que que eu vou fazer isso? Mas por que que eu vou abrir 1 vídeo pornô, de 1 pessoa que pode aceitem de tráfico sexual e eu estar aqui assistindo isso? Por que que eu vou assistir 1 vídeo pornô?
+
+Que eu sei que 97 por 100 dos vídeos do X Vídeos e do pornHub contêm algum tipo de violência física ou verbal, pra que que eu vou ver isso cara? Isso não cabia mais com a minha vida. E aí às vezes acontecia, 1 1 mês, dali 3 meses acontecia de novo, dali 6 meses desapareceu. É assim. Não é que amanhã vai desaparecer.
+
+Daqui 1 mês acontece. Opa, beleza, desconfe e se arrepende. Daqui 3 meses acontece, opa, beleza, opa está funcionando. Dali 1 ano não acontece mais, evaporou. Legal né?
+
+Excelente isso, pode ouvir as coisas faz todo sentido isso aí? Eu não vou dar aula dos 4 movimento aqui, porque tem isso pra caramba no curso, né? Tem lá, nesse módulo a gente fala sobre os 4 movimentos, exatamente o que você tem que fazer em cada 1 deles, tá? Exatamente o que você tem que fazer em cada 1 deles. Então perceber o momento chave, que é o momento em que o impulso aparece, né.
+
+Percebi quando ele ficar com aquilo? 1º coisa, identificar o 1º pensamento, depois, como é que eu estou me sentindo agora? Qual que é o sentimento que me invade? Qual é essa 3º? Qual é a situação que a que está desencadeando esse sentimento em mim?
+
+4º, como que eu resolvo essa situação? Qual é a solução que eu dou pra essa situação? Até então eu estava dando 1 1 situação 1 solução soberba, que que era a pornografia. Agora eu preciso dar 1 solução humilde pô, tem que resolver o problema. Como 1 pessoa adulta resolver esse problema?
+
+Ela não vai, né? Ah eu vou ali sentir 1 prazer porque o prazer me me tira da realidade. Não, eu tenho que estar dentro da realidade. Então, vamos resolver o problema. E aí a gente faz 1 1 troca de solução, a gente troca a pornografia que era 1 solução velha por 1 solução real, 1 solução nova.
+
+Ah Miguel, mas o problema que eu estou lidando aqui ele não tem como ser resolvido, ele não tem solução. Muito bem, então, ele já está solucionado, só falta abraçar a cruz, entendeu? Né? Quer fazer o quê? Mudar o mundo?
+
+Não vai dar. É mentalidade revolucionária. Eu percebi isso muito cedo, por estudar com o alvo, quando eu comecei a estudar o problema da pornografia eu falei assim, ah entendi, pornografia é mentalidade revolucionária. É exatamente isso, você querer a, né, a a vida perfeita aqui na Terra. Não?
+
+Tranquilo? Então, a gente fala ali sobre os 4 movimentos, a gente fala sobre o momento chave e a gente fala sobre o problema da subirba e a gente fala sobre a a pornografia como 1 problema, 1 1 a pornografia como 1 função psíquica, ela tem 1 função psíquica. Então, a gente fecha esse módulo assim. Tá? Então, a gente também fala, o William está me lembrando aqui, a gente também fala sobre aquilo que eu chamo de, chamei de método de Santo Agostinho, né?
+
+Na falta de 1 outro nome, porque é exatamente isso, quer dizer, estabelecer 1 diálogo sincero consigo mesmo. Né? Santo Agostinho no no no livro das Confissões, ele faz exatamente isso de 1 forma brilhante. Quer dizer, a gente tem, vamos falar isso que é importante assim, a gente, no Brasil, a gente não está acostumado a ter vida interior. Então a gente está acostumado AAA só ter agitação.
+
+Ah, assistir televisão, assistir seriado, na casa dos amigo, ficar falando, dormir. O momento de silêncio que a gente faz é quando a gente dorme. Então, a gente não está acostumado a ter 1, fazer 1 movimento chamado recolhimento. Tá? Isso aí é fundamental você fechar a boca 1 tempo, ficar quieto.
+
+Por que que você tem que falar toda hora? Né? Por que que você tem que estar o tempo todo, falando com alguém? Não, não. Você nem se 1 pouco E começa a conversar consigo mesmo.
+
+Começa a perceber, caramba, né? Que que eu realmente senti, quando fulano disse tal coisa? O que que eu realmente quis dizer quando eu disse tal outra? O que que eu realmente quis quando eu dei aquela risada? O que que eu realmente senti quando eu dei aquela risada?
+
+O que que eu realmente passei pras pessoas? Você tem que começar a perceber esses movimentos interiores, porque o teu mundo interior não pode se tornar desconhecido para você. Você pode ter a reação que você tiver, a mais pirada, mas ela tem que ser conhecida para você. Eu tenho 1 regra de saúde mental, o dia que eu começar a mentir para mim mesmo e para Deus eu estou ficando louco. Então Deus, olha, eu fiz isso isso e isso, eu senti isso e isso, né?
+
+Fiz isso e isso aí. Eu não estou te contando a mesma novidade, você já sabe, você que está me mostrando agora. Pergunta. Ligue. Pergunta aqui do Rafael Gianbiski, Gianbiski deve ser.
+
+Miguel, qual a diferença de fugir do impulso e enfrentálo? Por exemplo, quando ele surge, continuar fazendo o que eu ia fazer 1 boa? E claro perceber o que aconteceu e aceitar desconforto. Num certo sentido, essa última parte está certa, tá? Mas não se trata bem de enfrentálo, não é?
+
+Acho que não é a palavra mais adequada essa questão do enfrentamento, mas é, se você fugir, você vai acabar caindo, mas é com calma simplesmente olhar pra ele. Sabe por quê? Porque quem puxa o gatilho, quer dizer, quem cai é você, quem puxa o gatilho da arma é você. Então, não é porque você está, né, sentindo impulso que você precisa ter 1 orgasmo. Então assim, você é como quem diz assim, olha, bem, né?
+
+Essa desgraça está batendo na minha porta. Está batendo aqui, agora. Eu vou abrir a porta, sentar ao lado dela aqui e chamar ela pra tomar 1 café. Senta aí, toma 1 café. Que que ele pode fazer contigo?
+
+Nada. Percebe? Essa técnica é bem junguiana, é bem da psicologia analítica. O Jung diz, a depressão é com 1 senhora vestida de preto que bate à sua porta e ao invés de você mandála embora, por que você não abre a porta e convida ela pra entrar e conversa com ela? Mas por que que ela não tenta conversar com ela?
+
+Aí eu vi que não vai acontecer nada, você vai descobrir muito mais de você, você vai descobrir muito sobre você se você conversar com ela. Falei, olha, por que que você está aqui? Que que você quer? Hã? Percebeu?
+
+E aí funciona muito mais. É isso. Então, o o, pra gente fechar, essa parte do Santo Agostinho é o que a gente chama de de autoconhecimento, né? É o verdadeiro autoconhecimento. Eu queria dar 1 aula só sobre isso, quem sabe 1 dia no recomeço eu faça isso, dê 1 aulão só sobre o verdadeiro autoconhecimento.
+
+Isso aí seria fundamental. Isso ia ser muito legal mesmo. Favorei mesmo o Rafael. E esse impulso está em que parte do ciclo, no desencadeante? Exatamente.
+
+Esse impulso está em em esse impulso está em que parte do ciclo? O desencadeante sim, é na hora em que você sente, opa, espera aí, estou querendo ver pornografia, desencadeou algo em mim aqui. Né? Pra mim 1 dos grandes problemas é o momento sozinho, como lidar com isso? Nos momentos de ócio é buscar 1 trabalho manual, leitura seria montar 1 rotina.
+
+Olha só, pra não falar 90 por 100, mas 80 por 100 das pessoas com 1 problema na pornografia, elas têm dificuldade de lidar com solidão e raiva, tá? Que tem a ver com o soberba e o narcisismo que a gente falou, a vontade de ser Deus, a rebelião, que a gente tem que ser humilde, a gente tem que acalmar isso. Agora, a solidão, vamos lá, 1 homem maduro precisa aprender a ficar sozinho. Não adianta fugir dela, né? 1 homem maduro ele vai ter que entrar dentro da própria célula.
+
+E não tem não tem outro jeito gente. 1 homem maduro, ele vai precisar aprender a lidar com a solidão. É 1 dos grandes problemas. Nós quem sabe a gente também não consegue fazer 1 1 alguma coisa aqui no recomeço só sobre o solidão né? Mas a gente precisa aprender a lidar com isso.
+
+Hum quer dizer, não ficar muito desconfortável com a com a própria convivência. Agora tem 1 outro porém que solidão demais enlouquece também. Tá? Nós vamos aqui tratar todo mundo como se todo mundo fosse monge porque ninguém é. Então solidão demais nós somos leigo nós estamos no mundo estamos na rua aí.
+
+Então, solidão, você tem 1 equilíbrio, né? Solidão demais pode enlouquecer. Então, faça amizades, faça amizade, tenha bons amigos. Se não tiver bons amigos, eu não faço, fica sozinho, melhor. Né?
+
+A Bíblia fala assim, ó, fuja dos maus conselheiros. Tô nessa, né? Mas faça bons amigos. Por que que você vai passar o sábado à noite sozinho? Beleza, passou.
+
+Aí no outro final semana, sábado à noite sozinho de novo, no outro é só, só dá noite sozinho, fala assim, opa, espera aí, tem alguma coisa errada, eu preciso fazer amizade. Porque eu posso fazer 1 churrasco aqui em casa e chamar uns amigos pra vim aqui no sábado à noite. Então, você precisa fazer amizades, você precisa aumentar o teu círculo de amizade, o teu círculo de convivência. Não pesa só os amigos que estão no trabalho ou os parente que estão na família porque realmente essas pessoas são uns pé no saco, entendeu? Não são amizades essas pessoas, porque entendeu?
+
+Não são amizades essas pessoas, porque amizade é 1 escolha, essas pessoas só estão na sua vida. São pessoas que você trabalha, você não escolheu, elas estão lá também, os parentes também você não escolheu, eles só estão lá, te enchendo o saco, entendeu? Então, amizade ela é 1 ela é 1 decisão, ela é 1 escolha. Então escolha bons amigos e disser que delas, disser que dessas pessoas. Né?
+
+1 bom amigo nunca vai te deixar sozinho na hora que você precisar. Que ele sempre vai estar ali. Pode estender a mão, pra te ajudar, pra te fazer 1 companhia. Né? Não esquece de responder o tempo de banho, senão congela.
+
+Porra, 2, 3 minutos, não vai ficar 10 minutos tomando banho lá, né? Quiser fica também, né? Mas é rápido, é entrar debaixo da água e pronto. É. Outra coisa, você tem que tomar, tem que tomar banho rápido.
+
+Esse negócio de tomar banho de 15 minutos, não existe não, 10 minuto, porra, está de sacanagem. É pegar ali passar o sabonete ali e pronto acabou. Passar 1 shampoo ali, se não tiver shampoo passa o sabonete mesmo. E já era, não tem frescura, né? Na na época eu estava na obrigada, nós tinha que tomar banho às vezes em 1 minuto e meio.
+
+Aí não dava tempo, o sargento apitava, saía nego pelado, maluco, molhado pra trocar de roupa, tudo ferrado. Né? Ela era legal. Então assim, banho rápido, gelado, você não vai querer ficar muito tempo ali não. Certo?
+
+Acho que é isso. Amanhã começa o desafio banho gelado, os alunos estão convocados, tá? Pra fazerem, certo? Semana que vem nós voltamos com o 4º módulo a 4º semana. Abraço pessoal, fiquem com Deus.
+
+Está bom? Beleza. Pra quem mora

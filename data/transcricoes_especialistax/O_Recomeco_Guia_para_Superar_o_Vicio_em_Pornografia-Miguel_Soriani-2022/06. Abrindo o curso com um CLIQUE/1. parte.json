@@ -1,0 +1,615 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a0ab97-4c0f-7493-b280-1cb51be6dc8e",
+    "sha256": "81820745589a4cd2ccc2956a6f1d6f9e656c63f7098a67faccb62edd3bda1275",
+    "created": "2026-09-16T19:00:15.543Z",
+    "duration": 26.208,
+    "channels": 1,
+    "models": [
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5"
+    ],
+    "model_info": {
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5": {
+        "name": "2-general-nova",
+        "version": "2023-09-20.3885",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "1º você precisa abrir o link do nosso curso no navegador Google Chrome. O link você encontra na descrição do nosso grupo VIP lá no Telegram. Depois de entrar no link, clique nos 3 pontinhos no canto superior direito. Procure a opção adicionar a tela inicial. Digite o nome do curso e confirme. Pronto, vai ter 1 atalho do curso na sua tela inicial e você só irá precisar de 1 clique para abrir nosso curso.",
+            "confidence": 0.9980469,
+            "words": [
+              {
+                "word": "1º",
+                "start": 1.04,
+                "end": 1.52,
+                "confidence": 0.99609375,
+                "punctuated_word": "1º"
+              },
+              {
+                "word": "você",
+                "start": 1.52,
+                "end": 1.68,
+                "confidence": 0.8535156,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "precisa",
+                "start": 1.68,
+                "end": 2.0,
+                "confidence": 0.99902344,
+                "punctuated_word": "precisa"
+              },
+              {
+                "word": "abrir",
+                "start": 2.0,
+                "end": 2.24,
+                "confidence": 0.99902344,
+                "punctuated_word": "abrir"
+              },
+              {
+                "word": "o",
+                "start": 2.24,
+                "end": 2.3999999,
+                "confidence": 0.9970703,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "link",
+                "start": 2.3999999,
+                "end": 2.6399999,
+                "confidence": 0.9970703,
+                "punctuated_word": "link"
+              },
+              {
+                "word": "do",
+                "start": 2.6399999,
+                "end": 2.8,
+                "confidence": 0.9921875,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "nosso",
+                "start": 2.8,
+                "end": 3.04,
+                "confidence": 0.99902344,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "curso",
+                "start": 3.04,
+                "end": 3.4399998,
+                "confidence": 0.99902344,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "no",
+                "start": 3.4399998,
+                "end": 3.6799998,
+                "confidence": 0.9770508,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "navegador",
+                "start": 3.6799998,
+                "end": 4.18,
+                "confidence": 0.99902344,
+                "punctuated_word": "navegador"
+              },
+              {
+                "word": "google",
+                "start": 4.24,
+                "end": 4.64,
+                "confidence": 0.99609375,
+                "punctuated_word": "Google"
+              },
+              {
+                "word": "chrome",
+                "start": 4.64,
+                "end": 5.14,
+                "confidence": 0.9194336,
+                "punctuated_word": "Chrome."
+              },
+              {
+                "word": "o",
+                "start": 5.2,
+                "end": 5.44,
+                "confidence": 0.9970703,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "link",
+                "start": 5.44,
+                "end": 5.6,
+                "confidence": 0.9941406,
+                "punctuated_word": "link"
+              },
+              {
+                "word": "você",
+                "start": 5.6,
+                "end": 5.92,
+                "confidence": 0.9941406,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "encontra",
+                "start": 5.92,
+                "end": 6.24,
+                "confidence": 0.9980469,
+                "punctuated_word": "encontra"
+              },
+              {
+                "word": "na",
+                "start": 6.24,
+                "end": 6.56,
+                "confidence": 0.9980469,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "descrição",
+                "start": 6.56,
+                "end": 6.96,
+                "confidence": 1.0,
+                "punctuated_word": "descrição"
+              },
+              {
+                "word": "do",
+                "start": 6.96,
+                "end": 7.12,
+                "confidence": 0.9970703,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "nosso",
+                "start": 7.12,
+                "end": 7.44,
+                "confidence": 0.99902344,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "grupo",
+                "start": 7.44,
+                "end": 7.68,
+                "confidence": 0.96972656,
+                "punctuated_word": "grupo"
+              },
+              {
+                "word": "vip",
+                "start": 7.68,
+                "end": 8.0,
+                "confidence": 0.9316406,
+                "punctuated_word": "VIP"
+              },
+              {
+                "word": "lá",
+                "start": 8.0,
+                "end": 8.24,
+                "confidence": 0.7397461,
+                "punctuated_word": "lá"
+              },
+              {
+                "word": "no",
+                "start": 8.24,
+                "end": 8.4,
+                "confidence": 0.9921875,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "telegram",
+                "start": 8.4,
+                "end": 8.9,
+                "confidence": 0.9980469,
+                "punctuated_word": "Telegram."
+              },
+              {
+                "word": "depois",
+                "start": 9.44,
+                "end": 9.76,
+                "confidence": 0.99902344,
+                "punctuated_word": "Depois"
+              },
+              {
+                "word": "de",
+                "start": 9.76,
+                "end": 9.92,
+                "confidence": 0.9980469,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "entrar",
+                "start": 9.92,
+                "end": 10.16,
+                "confidence": 1.0,
+                "punctuated_word": "entrar"
+              },
+              {
+                "word": "no",
+                "start": 10.16,
+                "end": 10.4,
+                "confidence": 0.8833008,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "link",
+                "start": 10.4,
+                "end": 10.9,
+                "confidence": 0.9926758,
+                "punctuated_word": "link,"
+              },
+              {
+                "word": "clique",
+                "start": 10.96,
+                "end": 11.28,
+                "confidence": 0.9980469,
+                "punctuated_word": "clique"
+              },
+              {
+                "word": "nos",
+                "start": 11.28,
+                "end": 11.44,
+                "confidence": 0.9970703,
+                "punctuated_word": "nos"
+              },
+              {
+                "word": "3",
+                "start": 11.44,
+                "end": 11.759999,
+                "confidence": 0.9941406,
+                "punctuated_word": "3"
+              },
+              {
+                "word": "pontinhos",
+                "start": 11.759999,
+                "end": 12.08,
+                "confidence": 0.99902344,
+                "punctuated_word": "pontinhos"
+              },
+              {
+                "word": "no",
+                "start": 12.08,
+                "end": 12.32,
+                "confidence": 0.9873047,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "canto",
+                "start": 12.32,
+                "end": 12.559999,
+                "confidence": 1.0,
+                "punctuated_word": "canto"
+              },
+              {
+                "word": "superior",
+                "start": 12.559999,
+                "end": 12.88,
+                "confidence": 1.0,
+                "punctuated_word": "superior"
+              },
+              {
+                "word": "direito",
+                "start": 12.88,
+                "end": 13.38,
+                "confidence": 0.94873047,
+                "punctuated_word": "direito."
+              },
+              {
+                "word": "procure",
+                "start": 13.44,
+                "end": 13.759999,
+                "confidence": 0.99902344,
+                "punctuated_word": "Procure"
+              },
+              {
+                "word": "a",
+                "start": 13.759999,
+                "end": 14.0,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "opção",
+                "start": 14.0,
+                "end": 14.5,
+                "confidence": 1.0,
+                "punctuated_word": "opção"
+              },
+              {
+                "word": "adicionar",
+                "start": 15.065,
+                "end": 15.565,
+                "confidence": 0.9863281,
+                "punctuated_word": "adicionar"
+              },
+              {
+                "word": "a",
+                "start": 15.625,
+                "end": 15.785,
+                "confidence": 0.49951172,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "tela",
+                "start": 15.785,
+                "end": 16.185,
+                "confidence": 1.0,
+                "punctuated_word": "tela"
+              },
+              {
+                "word": "inicial",
+                "start": 16.185,
+                "end": 16.685,
+                "confidence": 0.9675293,
+                "punctuated_word": "inicial."
+              },
+              {
+                "word": "digite",
+                "start": 17.385,
+                "end": 17.865,
+                "confidence": 0.9951172,
+                "punctuated_word": "Digite"
+              },
+              {
+                "word": "o",
+                "start": 17.865,
+                "end": 18.105,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "nome",
+                "start": 18.105,
+                "end": 18.345,
+                "confidence": 1.0,
+                "punctuated_word": "nome"
+              },
+              {
+                "word": "do",
+                "start": 18.345,
+                "end": 18.585,
+                "confidence": 0.9951172,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "curso",
+                "start": 18.585,
+                "end": 18.985,
+                "confidence": 1.0,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "e",
+                "start": 18.985,
+                "end": 19.225,
+                "confidence": 0.99609375,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "confirme",
+                "start": 19.225,
+                "end": 19.725,
+                "confidence": 0.98583984,
+                "punctuated_word": "confirme."
+              },
+              {
+                "word": "pronto",
+                "start": 20.105,
+                "end": 20.605,
+                "confidence": 0.75805664,
+                "punctuated_word": "Pronto,"
+              },
+              {
+                "word": "vai",
+                "start": 20.904999,
+                "end": 21.225,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "ter",
+                "start": 21.225,
+                "end": 21.385,
+                "confidence": 1.0,
+                "punctuated_word": "ter"
+              },
+              {
+                "word": "1",
+                "start": 21.385,
+                "end": 21.545,
+                "confidence": 0.9980469,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "atalho",
+                "start": 21.545,
+                "end": 21.785,
+                "confidence": 1.0,
+                "punctuated_word": "atalho"
+              },
+              {
+                "word": "do",
+                "start": 21.785,
+                "end": 22.025,
+                "confidence": 0.99902344,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "curso",
+                "start": 22.025,
+                "end": 22.185,
+                "confidence": 1.0,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "na",
+                "start": 22.185,
+                "end": 22.265,
+                "confidence": 0.9970703,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "sua",
+                "start": 22.265,
+                "end": 22.505,
+                "confidence": 0.99316406,
+                "punctuated_word": "sua"
+              },
+              {
+                "word": "tela",
+                "start": 22.505,
+                "end": 22.744999,
+                "confidence": 1.0,
+                "punctuated_word": "tela"
+              },
+              {
+                "word": "inicial",
+                "start": 22.744999,
+                "end": 23.244999,
+                "confidence": 1.0,
+                "punctuated_word": "inicial"
+              },
+              {
+                "word": "e",
+                "start": 23.305,
+                "end": 23.545,
+                "confidence": 0.8105469,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "você",
+                "start": 23.545,
+                "end": 23.705,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "só",
+                "start": 23.705,
+                "end": 23.945,
+                "confidence": 0.99902344,
+                "punctuated_word": "só"
+              },
+              {
+                "word": "irá",
+                "start": 23.945,
+                "end": 24.425,
+                "confidence": 0.9980469,
+                "punctuated_word": "irá"
+              },
+              {
+                "word": "precisar",
+                "start": 24.425,
+                "end": 24.665,
+                "confidence": 1.0,
+                "punctuated_word": "precisar"
+              },
+              {
+                "word": "de",
+                "start": 24.665,
+                "end": 24.744999,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "1",
+                "start": 24.744999,
+                "end": 24.904999,
+                "confidence": 0.9970703,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "clique",
+                "start": 24.904999,
+                "end": 25.145,
+                "confidence": 1.0,
+                "punctuated_word": "clique"
+              },
+              {
+                "word": "para",
+                "start": 25.145,
+                "end": 25.305,
+                "confidence": 0.9980469,
+                "punctuated_word": "para"
+              },
+              {
+                "word": "abrir",
+                "start": 25.305,
+                "end": 25.545,
+                "confidence": 1.0,
+                "punctuated_word": "abrir"
+              },
+              {
+                "word": "nosso",
+                "start": 25.545,
+                "end": 25.785,
+                "confidence": 0.65283203,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "curso",
+                "start": 25.785,
+                "end": 26.208,
+                "confidence": 0.99902344,
+                "punctuated_word": "curso."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\n1º você precisa abrir o link do nosso curso no navegador Google Chrome. O link você encontra na descrição do nosso grupo VIP lá no Telegram. Depois de entrar no link, clique nos 3 pontinhos no canto superior direito. Procure a opção adicionar a tela inicial. Digite o nome do curso e confirme.\n\nPronto, vai ter 1 atalho do curso na sua tela inicial e você só irá precisar de 1 clique para abrir nosso curso.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "1º você precisa abrir o link do nosso curso no navegador Google Chrome.",
+                      "start": 1.04,
+                      "end": 5.14
+                    },
+                    {
+                      "text": "O link você encontra na descrição do nosso grupo VIP lá no Telegram.",
+                      "start": 5.2,
+                      "end": 8.9
+                    },
+                    {
+                      "text": "Depois de entrar no link, clique nos 3 pontinhos no canto superior direito.",
+                      "start": 9.44,
+                      "end": 13.38
+                    },
+                    {
+                      "text": "Procure a opção adicionar a tela inicial.",
+                      "start": 13.44,
+                      "end": 16.685
+                    },
+                    {
+                      "text": "Digite o nome do curso e confirme.",
+                      "start": 17.385,
+                      "end": 19.725
+                    }
+                  ],
+                  "num_words": 53,
+                  "start": 1.04,
+                  "end": 19.725
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Pronto, vai ter 1 atalho do curso na sua tela inicial e você só irá precisar de 1 clique para abrir nosso curso.",
+                      "start": 20.105,
+                      "end": 26.208
+                    }
+                  ],
+                  "num_words": 23,
+                  "start": 20.105,
+                  "end": 26.208
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

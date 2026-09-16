@@ -1,0 +1,1197 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a0ab9a-757d-7211-b201-1d4e6f5b77b9",
+    "sha256": "3b3769172cc7dcb6faa5801b75f05555aaa8ddaa0b06aa29443a0e4407da8f68",
+    "created": "2026-09-16T19:03:42.796Z",
+    "duration": 56.088,
+    "channels": 1,
+    "models": [
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5"
+    ],
+    "model_info": {
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5": {
+        "name": "2-general-nova",
+        "version": "2023-09-20.3885",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Muito bem vamos dar sequência ao nosso mini curso de formação do caráter, o mini curso express quer dizer é 1 mini curso rápido, pra você amadurecer, pra você fortalecer, a tua personalidade mais ainda na verdade é você fortalecer o teu caráter beleza o exercício de hoje é Escreva 1 carta para o seu pai tá ok esse é o nosso exercício de hoje escreva 1 carta para você para o seu pai tá você vai colocar ali tudo que você sente por ele seja isso bom ou seja ruim que você não vai entregar essa carta não precisa entregar se você quiser entregar pode tá vou permitir mas eu quero que você faça essa carta né, e assim não é obrigatório entregar, beleza? A gente medita sobre isso na parte da noite, você tem hoje o dia todo pra poder escrever essa carta, faça isso com atenção, com o coração e expressa a Deus que está guardado dentro do teu peito.",
+            "confidence": 0.9970703,
+            "words": [
+              {
+                "word": "muito",
+                "start": 1.12,
+                "end": 1.36,
+                "confidence": 0.9980469,
+                "punctuated_word": "Muito"
+              },
+              {
+                "word": "bem",
+                "start": 1.36,
+                "end": 1.52,
+                "confidence": 1.0,
+                "punctuated_word": "bem"
+              },
+              {
+                "word": "vamos",
+                "start": 1.52,
+                "end": 1.76,
+                "confidence": 0.625,
+                "punctuated_word": "vamos"
+              },
+              {
+                "word": "dar",
+                "start": 1.76,
+                "end": 1.92,
+                "confidence": 1.0,
+                "punctuated_word": "dar"
+              },
+              {
+                "word": "sequência",
+                "start": 1.92,
+                "end": 2.24,
+                "confidence": 1.0,
+                "punctuated_word": "sequência"
+              },
+              {
+                "word": "ao",
+                "start": 2.24,
+                "end": 2.48,
+                "confidence": 0.99902344,
+                "punctuated_word": "ao"
+              },
+              {
+                "word": "nosso",
+                "start": 2.48,
+                "end": 2.72,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "mini",
+                "start": 2.72,
+                "end": 2.8799999,
+                "confidence": 0.7963867,
+                "punctuated_word": "mini"
+              },
+              {
+                "word": "curso",
+                "start": 2.8799999,
+                "end": 3.04,
+                "confidence": 1.0,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "de",
+                "start": 3.04,
+                "end": 3.1999998,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "formação",
+                "start": 3.1999998,
+                "end": 3.52,
+                "confidence": 0.99609375,
+                "punctuated_word": "formação"
+              },
+              {
+                "word": "do",
+                "start": 3.52,
+                "end": 3.76,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "caráter",
+                "start": 3.76,
+                "end": 4.16,
+                "confidence": 0.8178711,
+                "punctuated_word": "caráter,"
+              },
+              {
+                "word": "o",
+                "start": 4.16,
+                "end": 4.3199997,
+                "confidence": 0.8364258,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "mini",
+                "start": 4.3199997,
+                "end": 4.48,
+                "confidence": 0.5498047,
+                "punctuated_word": "mini"
+              },
+              {
+                "word": "curso",
+                "start": 4.48,
+                "end": 4.98,
+                "confidence": 0.99902344,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "express",
+                "start": 5.3599997,
+                "end": 5.52,
+                "confidence": 0.8432617,
+                "punctuated_word": "express"
+              },
+              {
+                "word": "quer",
+                "start": 5.52,
+                "end": 5.6,
+                "confidence": 0.7988281,
+                "punctuated_word": "quer"
+              },
+              {
+                "word": "dizer",
+                "start": 5.6,
+                "end": 5.68,
+                "confidence": 1.0,
+                "punctuated_word": "dizer"
+              },
+              {
+                "word": "é",
+                "start": 5.68,
+                "end": 5.7599998,
+                "confidence": 0.4970703,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "1",
+                "start": 5.7599998,
+                "end": 5.92,
+                "confidence": 0.9873047,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "mini",
+                "start": 5.92,
+                "end": 6.16,
+                "confidence": 0.90771484,
+                "punctuated_word": "mini"
+              },
+              {
+                "word": "curso",
+                "start": 6.16,
+                "end": 6.66,
+                "confidence": 0.99609375,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "rápido",
+                "start": 7.44,
+                "end": 7.8399997,
+                "confidence": 0.8515625,
+                "punctuated_word": "rápido,"
+              },
+              {
+                "word": "pra",
+                "start": 7.8399997,
+                "end": 8.0,
+                "confidence": 0.98828125,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 8.0,
+                "end": 8.32,
+                "confidence": 0.9970703,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "amadurecer",
+                "start": 8.32,
+                "end": 8.82,
+                "confidence": 0.9812012,
+                "punctuated_word": "amadurecer,"
+              },
+              {
+                "word": "pra",
+                "start": 8.96,
+                "end": 9.2,
+                "confidence": 0.98828125,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 9.2,
+                "end": 9.44,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "fortalecer",
+                "start": 9.44,
+                "end": 9.94,
+                "confidence": 0.75756836,
+                "punctuated_word": "fortalecer,"
+              },
+              {
+                "word": "a",
+                "start": 10.639999,
+                "end": 10.88,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "tua",
+                "start": 10.88,
+                "end": 11.38,
+                "confidence": 1.0,
+                "punctuated_word": "tua"
+              },
+              {
+                "word": "personalidade",
+                "start": 11.5199995,
+                "end": 12.0199995,
+                "confidence": 0.99902344,
+                "punctuated_word": "personalidade"
+              },
+              {
+                "word": "mais",
+                "start": 12.24,
+                "end": 12.48,
+                "confidence": 0.68408203,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "ainda",
+                "start": 12.48,
+                "end": 12.799999,
+                "confidence": 1.0,
+                "punctuated_word": "ainda"
+              },
+              {
+                "word": "na",
+                "start": 12.799999,
+                "end": 12.96,
+                "confidence": 1.0,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "verdade",
+                "start": 12.96,
+                "end": 13.28,
+                "confidence": 1.0,
+                "punctuated_word": "verdade"
+              },
+              {
+                "word": "é",
+                "start": 13.28,
+                "end": 13.36,
+                "confidence": 0.9941406,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "você",
+                "start": 13.36,
+                "end": 13.679999,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "fortalecer",
+                "start": 13.679999,
+                "end": 14.16,
+                "confidence": 1.0,
+                "punctuated_word": "fortalecer"
+              },
+              {
+                "word": "o",
+                "start": 14.16,
+                "end": 14.4,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "teu",
+                "start": 14.4,
+                "end": 14.745,
+                "confidence": 1.0,
+                "punctuated_word": "teu"
+              },
+              {
+                "word": "caráter",
+                "start": 16.265,
+                "end": 16.425,
+                "confidence": 0.9980469,
+                "punctuated_word": "caráter"
+              },
+              {
+                "word": "beleza",
+                "start": 16.425,
+                "end": 16.925,
+                "confidence": 0.6352539,
+                "punctuated_word": "beleza"
+              },
+              {
+                "word": "o",
+                "start": 17.385,
+                "end": 17.625,
+                "confidence": 0.8520508,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "exercício",
+                "start": 17.625,
+                "end": 18.105,
+                "confidence": 0.99902344,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "de",
+                "start": 18.105,
+                "end": 18.185,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "hoje",
+                "start": 18.185,
+                "end": 18.585,
+                "confidence": 0.99902344,
+                "punctuated_word": "hoje"
+              },
+              {
+                "word": "é",
+                "start": 18.585,
+                "end": 18.985,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "escreva",
+                "start": 18.985,
+                "end": 19.485,
+                "confidence": 0.6533203,
+                "punctuated_word": "Escreva"
+              },
+              {
+                "word": "1",
+                "start": 19.625,
+                "end": 19.945,
+                "confidence": 0.99902344,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "carta",
+                "start": 19.945,
+                "end": 20.445,
+                "confidence": 0.99902344,
+                "punctuated_word": "carta"
+              },
+              {
+                "word": "para",
+                "start": 20.665,
+                "end": 20.985,
+                "confidence": 1.0,
+                "punctuated_word": "para"
+              },
+              {
+                "word": "o",
+                "start": 20.985,
+                "end": 21.225,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "seu",
+                "start": 21.225,
+                "end": 21.305,
+                "confidence": 0.99902344,
+                "punctuated_word": "seu"
+              },
+              {
+                "word": "pai",
+                "start": 21.305,
+                "end": 21.805,
+                "confidence": 0.99609375,
+                "punctuated_word": "pai"
+              },
+              {
+                "word": "tá",
+                "start": 23.705,
+                "end": 23.865,
+                "confidence": 0.4284668,
+                "punctuated_word": "tá"
+              },
+              {
+                "word": "ok",
+                "start": 23.865,
+                "end": 24.185,
+                "confidence": 0.9277344,
+                "punctuated_word": "ok"
+              },
+              {
+                "word": "esse",
+                "start": 24.185,
+                "end": 24.425,
+                "confidence": 0.8095703,
+                "punctuated_word": "esse"
+              },
+              {
+                "word": "é",
+                "start": 24.425,
+                "end": 24.505001,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 24.505001,
+                "end": 24.665,
+                "confidence": 1.0,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "nosso",
+                "start": 24.665,
+                "end": 24.904999,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "exercício",
+                "start": 24.904999,
+                "end": 25.404999,
+                "confidence": 0.99902344,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "de",
+                "start": 26.425,
+                "end": 26.665,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "hoje",
+                "start": 26.665,
+                "end": 26.985,
+                "confidence": 1.0,
+                "punctuated_word": "hoje"
+              },
+              {
+                "word": "escreva",
+                "start": 26.985,
+                "end": 27.305,
+                "confidence": 0.5410156,
+                "punctuated_word": "escreva"
+              },
+              {
+                "word": "1",
+                "start": 27.305,
+                "end": 27.384998,
+                "confidence": 1.0,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "carta",
+                "start": 27.384998,
+                "end": 27.625,
+                "confidence": 1.0,
+                "punctuated_word": "carta"
+              },
+              {
+                "word": "para",
+                "start": 27.625,
+                "end": 27.785,
+                "confidence": 0.9243164,
+                "punctuated_word": "para"
+              },
+              {
+                "word": "você",
+                "start": 27.785,
+                "end": 28.105,
+                "confidence": 0.92578125,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "para",
+                "start": 28.105,
+                "end": 28.185,
+                "confidence": 0.8154297,
+                "punctuated_word": "para"
+              },
+              {
+                "word": "o",
+                "start": 28.185,
+                "end": 28.345,
+                "confidence": 0.9819336,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "seu",
+                "start": 28.345,
+                "end": 28.505,
+                "confidence": 0.99902344,
+                "punctuated_word": "seu"
+              },
+              {
+                "word": "pai",
+                "start": 28.505,
+                "end": 28.8,
+                "confidence": 0.99902344,
+                "punctuated_word": "pai"
+              },
+              {
+                "word": "tá",
+                "start": 28.88,
+                "end": 29.039999,
+                "confidence": 0.9716797,
+                "punctuated_word": "tá"
+              },
+              {
+                "word": "você",
+                "start": 29.039999,
+                "end": 29.279999,
+                "confidence": 0.7241211,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 29.279999,
+                "end": 29.439999,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "colocar",
+                "start": 29.439999,
+                "end": 29.759998,
+                "confidence": 0.99902344,
+                "punctuated_word": "colocar"
+              },
+              {
+                "word": "ali",
+                "start": 29.759998,
+                "end": 30.0,
+                "confidence": 0.90283203,
+                "punctuated_word": "ali"
+              },
+              {
+                "word": "tudo",
+                "start": 30.0,
+                "end": 30.24,
+                "confidence": 0.99902344,
+                "punctuated_word": "tudo"
+              },
+              {
+                "word": "que",
+                "start": 30.24,
+                "end": 30.32,
+                "confidence": 0.91748047,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 30.32,
+                "end": 30.48,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "sente",
+                "start": 30.48,
+                "end": 30.88,
+                "confidence": 0.9980469,
+                "punctuated_word": "sente"
+              },
+              {
+                "word": "por",
+                "start": 30.88,
+                "end": 31.119999,
+                "confidence": 0.9980469,
+                "punctuated_word": "por"
+              },
+              {
+                "word": "ele",
+                "start": 31.119999,
+                "end": 31.519999,
+                "confidence": 0.99121094,
+                "punctuated_word": "ele"
+              },
+              {
+                "word": "seja",
+                "start": 31.519999,
+                "end": 31.759998,
+                "confidence": 0.96777344,
+                "punctuated_word": "seja"
+              },
+              {
+                "word": "isso",
+                "start": 31.759998,
+                "end": 32.079998,
+                "confidence": 0.9970703,
+                "punctuated_word": "isso"
+              },
+              {
+                "word": "bom",
+                "start": 32.079998,
+                "end": 32.32,
+                "confidence": 0.9921875,
+                "punctuated_word": "bom"
+              },
+              {
+                "word": "ou",
+                "start": 32.32,
+                "end": 32.559998,
+                "confidence": 0.96777344,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "seja",
+                "start": 32.559998,
+                "end": 32.8,
+                "confidence": 0.9980469,
+                "punctuated_word": "seja"
+              },
+              {
+                "word": "ruim",
+                "start": 32.8,
+                "end": 33.3,
+                "confidence": 0.55859375,
+                "punctuated_word": "ruim"
+              },
+              {
+                "word": "que",
+                "start": 33.76,
+                "end": 33.92,
+                "confidence": 0.4519043,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 33.92,
+                "end": 34.079998,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "não",
+                "start": 34.079998,
+                "end": 34.239998,
+                "confidence": 0.99902344,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "vai",
+                "start": 34.239998,
+                "end": 34.399998,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "entregar",
+                "start": 34.399998,
+                "end": 34.72,
+                "confidence": 0.99902344,
+                "punctuated_word": "entregar"
+              },
+              {
+                "word": "essa",
+                "start": 34.72,
+                "end": 34.879997,
+                "confidence": 0.96240234,
+                "punctuated_word": "essa"
+              },
+              {
+                "word": "carta",
+                "start": 34.879997,
+                "end": 35.28,
+                "confidence": 0.83447266,
+                "punctuated_word": "carta"
+              },
+              {
+                "word": "não",
+                "start": 35.28,
+                "end": 35.44,
+                "confidence": 0.8720703,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "precisa",
+                "start": 35.44,
+                "end": 35.84,
+                "confidence": 0.9970703,
+                "punctuated_word": "precisa"
+              },
+              {
+                "word": "entregar",
+                "start": 35.84,
+                "end": 36.32,
+                "confidence": 0.9980469,
+                "punctuated_word": "entregar"
+              },
+              {
+                "word": "se",
+                "start": 36.32,
+                "end": 36.559998,
+                "confidence": 0.9135742,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "você",
+                "start": 36.559998,
+                "end": 36.8,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "quiser",
+                "start": 36.8,
+                "end": 37.12,
+                "confidence": 1.0,
+                "punctuated_word": "quiser"
+              },
+              {
+                "word": "entregar",
+                "start": 37.12,
+                "end": 37.62,
+                "confidence": 1.0,
+                "punctuated_word": "entregar"
+              },
+              {
+                "word": "pode",
+                "start": 38.079998,
+                "end": 38.48,
+                "confidence": 0.9550781,
+                "punctuated_word": "pode"
+              },
+              {
+                "word": "tá",
+                "start": 38.48,
+                "end": 38.8,
+                "confidence": 0.8569336,
+                "punctuated_word": "tá"
+              },
+              {
+                "word": "vou",
+                "start": 38.8,
+                "end": 38.96,
+                "confidence": 0.8881836,
+                "punctuated_word": "vou"
+              },
+              {
+                "word": "permitir",
+                "start": 38.96,
+                "end": 39.46,
+                "confidence": 0.9633789,
+                "punctuated_word": "permitir"
+              },
+              {
+                "word": "mas",
+                "start": 40.16,
+                "end": 40.399998,
+                "confidence": 0.9633789,
+                "punctuated_word": "mas"
+              },
+              {
+                "word": "eu",
+                "start": 40.399998,
+                "end": 40.559998,
+                "confidence": 0.9980469,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "quero",
+                "start": 40.559998,
+                "end": 40.8,
+                "confidence": 1.0,
+                "punctuated_word": "quero"
+              },
+              {
+                "word": "que",
+                "start": 40.8,
+                "end": 40.96,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 40.96,
+                "end": 41.199997,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "faça",
+                "start": 41.199997,
+                "end": 41.6,
+                "confidence": 1.0,
+                "punctuated_word": "faça"
+              },
+              {
+                "word": "essa",
+                "start": 41.6,
+                "end": 41.76,
+                "confidence": 0.984375,
+                "punctuated_word": "essa"
+              },
+              {
+                "word": "carta",
+                "start": 41.76,
+                "end": 42.26,
+                "confidence": 1.0,
+                "punctuated_word": "carta"
+              },
+              {
+                "word": "né",
+                "start": 42.445,
+                "end": 42.685,
+                "confidence": 0.79956055,
+                "punctuated_word": "né,"
+              },
+              {
+                "word": "e",
+                "start": 42.685,
+                "end": 42.765,
+                "confidence": 0.99609375,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "assim",
+                "start": 42.765,
+                "end": 43.165,
+                "confidence": 0.9970703,
+                "punctuated_word": "assim"
+              },
+              {
+                "word": "não",
+                "start": 43.165,
+                "end": 43.245,
+                "confidence": 0.6640625,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "é",
+                "start": 43.245,
+                "end": 43.485,
+                "confidence": 0.99902344,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "obrigatório",
+                "start": 43.485,
+                "end": 43.885,
+                "confidence": 0.99609375,
+                "punctuated_word": "obrigatório"
+              },
+              {
+                "word": "entregar",
+                "start": 43.885,
+                "end": 44.385,
+                "confidence": 0.82250977,
+                "punctuated_word": "entregar,"
+              },
+              {
+                "word": "beleza",
+                "start": 44.845,
+                "end": 45.325,
+                "confidence": 0.96240234,
+                "punctuated_word": "beleza?"
+              },
+              {
+                "word": "a",
+                "start": 45.325,
+                "end": 45.405,
+                "confidence": 0.9892578,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "gente",
+                "start": 45.405,
+                "end": 45.725,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "medita",
+                "start": 45.725,
+                "end": 45.965,
+                "confidence": 0.9770508,
+                "punctuated_word": "medita"
+              },
+              {
+                "word": "sobre",
+                "start": 45.965,
+                "end": 46.285,
+                "confidence": 1.0,
+                "punctuated_word": "sobre"
+              },
+              {
+                "word": "isso",
+                "start": 46.285,
+                "end": 46.445,
+                "confidence": 0.99902344,
+                "punctuated_word": "isso"
+              },
+              {
+                "word": "na",
+                "start": 46.445,
+                "end": 46.605,
+                "confidence": 0.9604492,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "parte",
+                "start": 46.605,
+                "end": 46.845,
+                "confidence": 0.99609375,
+                "punctuated_word": "parte"
+              },
+              {
+                "word": "da",
+                "start": 46.845,
+                "end": 47.005,
+                "confidence": 0.9980469,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "noite",
+                "start": 47.005,
+                "end": 47.325,
+                "confidence": 0.84228516,
+                "punctuated_word": "noite,"
+              },
+              {
+                "word": "você",
+                "start": 47.325,
+                "end": 47.565,
+                "confidence": 0.9970703,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "tem",
+                "start": 47.565,
+                "end": 47.805,
+                "confidence": 0.9980469,
+                "punctuated_word": "tem"
+              },
+              {
+                "word": "hoje",
+                "start": 47.805,
+                "end": 47.965,
+                "confidence": 0.9980469,
+                "punctuated_word": "hoje"
+              },
+              {
+                "word": "o",
+                "start": 47.965,
+                "end": 48.045,
+                "confidence": 0.99316406,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "dia",
+                "start": 48.045,
+                "end": 48.205,
+                "confidence": 1.0,
+                "punctuated_word": "dia"
+              },
+              {
+                "word": "todo",
+                "start": 48.205,
+                "end": 48.364998,
+                "confidence": 0.99609375,
+                "punctuated_word": "todo"
+              },
+              {
+                "word": "pra",
+                "start": 48.364998,
+                "end": 48.605,
+                "confidence": 0.6640625,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "poder",
+                "start": 48.605,
+                "end": 48.845,
+                "confidence": 0.9819336,
+                "punctuated_word": "poder"
+              },
+              {
+                "word": "escrever",
+                "start": 48.845,
+                "end": 49.165,
+                "confidence": 0.9980469,
+                "punctuated_word": "escrever"
+              },
+              {
+                "word": "essa",
+                "start": 49.165,
+                "end": 49.405,
+                "confidence": 0.99609375,
+                "punctuated_word": "essa"
+              },
+              {
+                "word": "carta",
+                "start": 49.405,
+                "end": 49.905,
+                "confidence": 0.85253906,
+                "punctuated_word": "carta,"
+              },
+              {
+                "word": "faça",
+                "start": 50.045,
+                "end": 50.364998,
+                "confidence": 0.99902344,
+                "punctuated_word": "faça"
+              },
+              {
+                "word": "isso",
+                "start": 50.364998,
+                "end": 50.605,
+                "confidence": 1.0,
+                "punctuated_word": "isso"
+              },
+              {
+                "word": "com",
+                "start": 50.605,
+                "end": 50.845,
+                "confidence": 0.9980469,
+                "punctuated_word": "com"
+              },
+              {
+                "word": "atenção",
+                "start": 50.845,
+                "end": 51.345,
+                "confidence": 0.9797363,
+                "punctuated_word": "atenção,"
+              },
+              {
+                "word": "com",
+                "start": 51.805,
+                "end": 51.965,
+                "confidence": 0.99902344,
+                "punctuated_word": "com"
+              },
+              {
+                "word": "o",
+                "start": 51.965,
+                "end": 52.205,
+                "confidence": 0.5776367,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "coração",
+                "start": 52.205,
+                "end": 52.525,
+                "confidence": 1.0,
+                "punctuated_word": "coração"
+              },
+              {
+                "word": "e",
+                "start": 52.525,
+                "end": 52.684998,
+                "confidence": 0.94189453,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "expressa",
+                "start": 52.684998,
+                "end": 53.085,
+                "confidence": 0.83447266,
+                "punctuated_word": "expressa"
+              },
+              {
+                "word": "a",
+                "start": 53.085,
+                "end": 53.165,
+                "confidence": 0.98535156,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "deus",
+                "start": 53.165,
+                "end": 53.325,
+                "confidence": 0.9970703,
+                "punctuated_word": "Deus"
+              },
+              {
+                "word": "que",
+                "start": 53.325,
+                "end": 53.485,
+                "confidence": 0.89501953,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "está",
+                "start": 53.485,
+                "end": 53.645,
+                "confidence": 0.89990234,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "guardado",
+                "start": 53.645,
+                "end": 53.965,
+                "confidence": 0.9760742,
+                "punctuated_word": "guardado"
+              },
+              {
+                "word": "dentro",
+                "start": 53.965,
+                "end": 54.205,
+                "confidence": 0.47973633,
+                "punctuated_word": "dentro"
+              },
+              {
+                "word": "do",
+                "start": 54.205,
+                "end": 54.445,
+                "confidence": 0.9980469,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "teu",
+                "start": 54.445,
+                "end": 54.684998,
+                "confidence": 0.99902344,
+                "punctuated_word": "teu"
+              },
+              {
+                "word": "peito",
+                "start": 54.684998,
+                "end": 55.184998,
+                "confidence": 0.9975586,
+                "punctuated_word": "peito."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nMuito bem vamos dar sequência ao nosso mini curso de formação do caráter, o mini curso express quer dizer é 1 mini curso rápido, pra você amadurecer, pra você fortalecer, a tua personalidade mais ainda na verdade é você fortalecer o teu caráter beleza o exercício de hoje é Escreva 1 carta para o seu pai tá ok esse é o nosso exercício de hoje escreva 1 carta para você para o seu pai tá você vai colocar ali tudo que você sente por ele seja isso bom ou seja ruim que você não vai entregar essa carta não precisa entregar se você quiser entregar pode tá vou permitir mas eu quero que você faça essa carta né, e assim não é obrigatório entregar, beleza? A gente medita sobre isso na parte da noite, você tem hoje o dia todo pra poder escrever essa carta, faça isso com atenção, com o coração e expressa a Deus que está guardado dentro do teu peito.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Muito bem vamos dar sequência ao nosso mini curso de formação do caráter, o mini curso express quer dizer é 1 mini curso rápido, pra você amadurecer, pra você fortalecer, a tua personalidade mais ainda na verdade é você fortalecer o teu caráter beleza o exercício de hoje é Escreva 1 carta para o seu pai tá ok esse é o nosso exercício de hoje escreva 1 carta para você para o seu pai tá você vai colocar ali tudo que você sente por ele seja isso bom ou seja ruim que você não vai entregar essa carta não precisa entregar se você quiser entregar pode tá vou permitir mas eu quero que você faça essa carta né, e assim não é obrigatório entregar, beleza?",
+                      "start": 1.12,
+                      "end": 45.325
+                    },
+                    {
+                      "text": "A gente medita sobre isso na parte da noite, você tem hoje o dia todo pra poder escrever essa carta, faça isso com atenção, com o coração e expressa a Deus que está guardado dentro do teu peito.",
+                      "start": 45.325,
+                      "end": 55.184998
+                    }
+                  ],
+                  "num_words": 163,
+                  "start": 1.12,
+                  "end": 55.184998
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

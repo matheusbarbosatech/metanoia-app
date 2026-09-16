@@ -1,0 +1,5557 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a0ab90-594d-7d52-8ac5-d43cb1b82a87",
+    "sha256": "00faa7baa3b5342979b17263ff6913e5c2942d7a2f827c6d287e04541d62f320",
+    "created": "2026-09-16T18:52:40.634Z",
+    "duration": 268.992,
+    "channels": 1,
+    "models": [
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5"
+    ],
+    "model_info": {
+      "a7daaeb9-d633-487f-a86d-af2d1eab10c5": {
+        "name": "2-general-nova",
+        "version": "2023-09-20.3885",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Você viu ali no nosso exercício anterior, como é que você teve 1 né assim provavelmente se você fez o exercício no espírito correto, você ali agora conseguiu perceber como é que você geralmente maneja suas emoções, não é, como é que você maneja ansiedade, você tem manejado bem? Mal? Mais ou menos? Como é que você maneja a injustiça? Como é que você maneja frustração? Como é que você maneja sobrecarga? Você você maneja bem sobrecarga? Você sabe manejar sobrecarga? Você não sabe manejar sobrecarga? Presta atenção, 1 pessoa que ainda não sabe manejar sobrecarga tá, e aí vamos pensar sobrecarga de trabalho, sobrecarga emocional, sobrecarga de problema em casa, sobrecarga de problema consigo mesmo. 1 pessoa que não consegue manejar esse tipo de sobrecarga, é 1 pessoa que precisa aprender a fazer isso o quanto antes, tanto pra amadurecer como pessoa humana, tanto pra não cair no problema da pornografia e é esse caminho que a gente vai trilhar aqui ao longo do nosso curso está bom? Na aula de hoje eu quero falar com você sobre o problema do desencadeante, então a gente vai pensar né, quando a gente vai lá no nosso ciclo, no ciclo do vício, o desencadeante ele é o 1º movimento né, a 1º coisa que acontece lá. O que que é o desencadeante? O desencadeante ele é 1 momento em que o ciclo todo começa, ou seja, você viu 1 imagem pornográfica ou ou seja, você viu 1 imagem pornográfica ou você experimentou 1 sentimento naquele momento, então o desencadeante é onde tudo de fato começa, é quando você começa a flertar com a imagem pornográfica, está bom? Eu quero que você comece a perceber quais são esses desencadeantes quais são, presta atenção, quais são os desencadeantes mais comuns em você, você precisa saber disso. Sabe por quê? Porque eles nunca vão mudar, eles vão ser exatamente o mesmo. Eu preciso que você preste muita atenção nisso aqui, você olhar pra dentro de si, você vai perceber que todas as vezes que você cai na pornografia, olha só o desencadeante aquilo que começou essa queda, assim olha geralmente é a mesma coisa, 1 2 3 no máximo 4 ali diferentes. Qual é o nosso trabalho? O nosso trabalho é muito simples, parece que é complexo sair da pornografia porque ninguém ensina como, mas quando você cai aqui no recomeço casal que a gente está dando aqui você percebe que é muito simples. E como assim muito simples? É muito simples você precisa entender 1 coisa, eu preciso saber quais são esses meu esses meus quatros ou 5 desencadeantes aqui. Porque eles vão se repetir. Talvez você não consiga exorcizar eles de você, talvez eles continuem dentro de você por 1 bom tempo, mas o fato de já saber quais são eles já te ajuda muito nesse processo. Como é que vai funcionar o nosso exercício né? Está logo aqui, você vai fazer a mesma coisa, você vai terminar de assistir essa aula, terminar de assistir essa explicação, você vai praticar o exercício e depois você vai continuar aqui no recomeço tá, como é que funciona, eu dou pra você aqui alguns desencadeantes mais comuns, no final eu deixo 1 espaço pra você né, 1 espaço de outros aqui, pra você talvez você né tenha lá 1 outro desencadeante que você perceba e que eu não tenha citado. O que que você vai fazer? Você vai assinar lá quais são os desencadeantes mais comuns que acontecem contigo. Então só pra você ter 1 ideia, casa vazia, tempo livre, ter dinheiro disponível, estar viajando, sentimento de tédio, estresse, raiva, autopiedade, cansaço e por aí vai, tá? Eles têm que acho que deve ter uns 1 pouco mais de 20 desencadeantes que eu consegui mapear e e colocar aqui pra você e tem 1 espaço ali pra você colocar algum outro. Clareza no processo. O que que é clareza no processo? Daqui a pouco, em algum momento, você vai sentir vontade de ver pornografia, você vai sentir vontade de ver pornografia. E nesse momento a gente vai ver o que que a gente precisa fazer nesse momento. Nesse momento a 1º coisa que a gente tem que entender é, qual que é o desencadeante? Isso tem que vim assim olha, automático. Qual que é o desencadeante? Está bom? Pra gente conseguir ordenar todas essas paixões. Na próxima aula a gente vai continuar falando sobre esse processo todo do círculo. Faça o exercício e volte aqui.",
+            "confidence": 0.9970703,
+            "words": [
+              {
+                "word": "você",
+                "start": 0.24,
+                "end": 0.39999998,
+                "confidence": 0.99316406,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "viu",
+                "start": 0.39999998,
+                "end": 0.71999997,
+                "confidence": 1.0,
+                "punctuated_word": "viu"
+              },
+              {
+                "word": "ali",
+                "start": 0.71999997,
+                "end": 1.04,
+                "confidence": 0.99902344,
+                "punctuated_word": "ali"
+              },
+              {
+                "word": "no",
+                "start": 1.04,
+                "end": 1.28,
+                "confidence": 1.0,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "nosso",
+                "start": 1.28,
+                "end": 1.52,
+                "confidence": 0.9013672,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "exercício",
+                "start": 1.52,
+                "end": 2.02,
+                "confidence": 1.0,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "anterior",
+                "start": 2.8,
+                "end": 3.08,
+                "confidence": 0.9609375,
+                "punctuated_word": "anterior,"
+              },
+              {
+                "word": "como",
+                "start": 3.08,
+                "end": 3.36,
+                "confidence": 1.0,
+                "punctuated_word": "como"
+              },
+              {
+                "word": "é",
+                "start": 3.36,
+                "end": 3.52,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 3.52,
+                "end": 4.02,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 5.68,
+                "end": 6.0,
+                "confidence": 0.9970703,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "teve",
+                "start": 6.0,
+                "end": 6.24,
+                "confidence": 0.5209961,
+                "punctuated_word": "teve"
+              },
+              {
+                "word": "1",
+                "start": 6.24,
+                "end": 6.48,
+                "confidence": 0.9970703,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "né",
+                "start": 6.48,
+                "end": 6.72,
+                "confidence": 0.9038086,
+                "punctuated_word": "né"
+              },
+              {
+                "word": "assim",
+                "start": 6.72,
+                "end": 7.2,
+                "confidence": 0.98291016,
+                "punctuated_word": "assim"
+              },
+              {
+                "word": "provavelmente",
+                "start": 7.2,
+                "end": 7.52,
+                "confidence": 0.6508789,
+                "punctuated_word": "provavelmente"
+              },
+              {
+                "word": "se",
+                "start": 7.52,
+                "end": 7.68,
+                "confidence": 0.5473633,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "você",
+                "start": 7.68,
+                "end": 7.8399997,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "fez",
+                "start": 7.8399997,
+                "end": 8.0,
+                "confidence": 1.0,
+                "punctuated_word": "fez"
+              },
+              {
+                "word": "o",
+                "start": 8.0,
+                "end": 8.16,
+                "confidence": 0.9589844,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "exercício",
+                "start": 8.16,
+                "end": 8.639999,
+                "confidence": 0.99902344,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "no",
+                "start": 8.639999,
+                "end": 8.88,
+                "confidence": 0.99316406,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "espírito",
+                "start": 8.88,
+                "end": 9.2,
+                "confidence": 0.9970703,
+                "punctuated_word": "espírito"
+              },
+              {
+                "word": "correto",
+                "start": 9.2,
+                "end": 9.7,
+                "confidence": 0.92944336,
+                "punctuated_word": "correto,"
+              },
+              {
+                "word": "você",
+                "start": 10.0,
+                "end": 10.24,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "ali",
+                "start": 10.24,
+                "end": 10.639999,
+                "confidence": 0.99902344,
+                "punctuated_word": "ali"
+              },
+              {
+                "word": "agora",
+                "start": 10.639999,
+                "end": 11.139999,
+                "confidence": 1.0,
+                "punctuated_word": "agora"
+              },
+              {
+                "word": "conseguiu",
+                "start": 11.28,
+                "end": 11.5199995,
+                "confidence": 0.99902344,
+                "punctuated_word": "conseguiu"
+              },
+              {
+                "word": "perceber",
+                "start": 11.5199995,
+                "end": 11.92,
+                "confidence": 1.0,
+                "punctuated_word": "perceber"
+              },
+              {
+                "word": "como",
+                "start": 11.92,
+                "end": 12.08,
+                "confidence": 1.0,
+                "punctuated_word": "como"
+              },
+              {
+                "word": "é",
+                "start": 12.08,
+                "end": 12.16,
+                "confidence": 0.9980469,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 12.16,
+                "end": 12.4,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 12.4,
+                "end": 12.719999,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "geralmente",
+                "start": 12.719999,
+                "end": 13.2,
+                "confidence": 0.95947266,
+                "punctuated_word": "geralmente"
+              },
+              {
+                "word": "maneja",
+                "start": 13.2,
+                "end": 13.679999,
+                "confidence": 0.98339844,
+                "punctuated_word": "maneja"
+              },
+              {
+                "word": "suas",
+                "start": 13.679999,
+                "end": 13.92,
+                "confidence": 0.7050781,
+                "punctuated_word": "suas"
+              },
+              {
+                "word": "emoções",
+                "start": 13.92,
+                "end": 14.42,
+                "confidence": 0.842041,
+                "punctuated_word": "emoções,"
+              },
+              {
+                "word": "não",
+                "start": 14.565,
+                "end": 14.804999,
+                "confidence": 0.51416016,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "é",
+                "start": 14.804999,
+                "end": 15.044999,
+                "confidence": 0.8659668,
+                "punctuated_word": "é,"
+              },
+              {
+                "word": "como",
+                "start": 15.044999,
+                "end": 15.125,
+                "confidence": 0.99902344,
+                "punctuated_word": "como"
+              },
+              {
+                "word": "é",
+                "start": 15.125,
+                "end": 15.205,
+                "confidence": 0.99609375,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 15.205,
+                "end": 15.285,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 15.285,
+                "end": 15.525,
+                "confidence": 0.9658203,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "maneja",
+                "start": 15.525,
+                "end": 15.924999,
+                "confidence": 0.9875488,
+                "punctuated_word": "maneja"
+              },
+              {
+                "word": "ansiedade",
+                "start": 15.924999,
+                "end": 16.425,
+                "confidence": 0.6184082,
+                "punctuated_word": "ansiedade,"
+              },
+              {
+                "word": "você",
+                "start": 16.724998,
+                "end": 16.885,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "tem",
+                "start": 16.885,
+                "end": 17.045,
+                "confidence": 0.9941406,
+                "punctuated_word": "tem"
+              },
+              {
+                "word": "manejado",
+                "start": 17.045,
+                "end": 17.545,
+                "confidence": 0.8642578,
+                "punctuated_word": "manejado"
+              },
+              {
+                "word": "bem",
+                "start": 17.605,
+                "end": 18.105,
+                "confidence": 0.8198242,
+                "punctuated_word": "bem?"
+              },
+              {
+                "word": "mal",
+                "start": 18.244999,
+                "end": 18.744999,
+                "confidence": 0.85424805,
+                "punctuated_word": "Mal?"
+              },
+              {
+                "word": "mais",
+                "start": 19.285,
+                "end": 19.525,
+                "confidence": 1.0,
+                "punctuated_word": "Mais"
+              },
+              {
+                "word": "ou",
+                "start": 19.525,
+                "end": 19.685,
+                "confidence": 0.9277344,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "menos",
+                "start": 19.685,
+                "end": 20.185,
+                "confidence": 0.9885254,
+                "punctuated_word": "menos?"
+              },
+              {
+                "word": "como",
+                "start": 20.244999,
+                "end": 20.404999,
+                "confidence": 1.0,
+                "punctuated_word": "Como"
+              },
+              {
+                "word": "é",
+                "start": 20.404999,
+                "end": 20.485,
+                "confidence": 0.9980469,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 20.485,
+                "end": 20.645,
+                "confidence": 0.9941406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 20.645,
+                "end": 20.805,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "maneja",
+                "start": 20.805,
+                "end": 21.305,
+                "confidence": 0.9970703,
+                "punctuated_word": "maneja"
+              },
+              {
+                "word": "a",
+                "start": 22.005,
+                "end": 22.244999,
+                "confidence": 0.96972656,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "injustiça",
+                "start": 22.244999,
+                "end": 22.744999,
+                "confidence": 0.96777344,
+                "punctuated_word": "injustiça?"
+              },
+              {
+                "word": "como",
+                "start": 23.605,
+                "end": 23.845,
+                "confidence": 0.99902344,
+                "punctuated_word": "Como"
+              },
+              {
+                "word": "é",
+                "start": 23.845,
+                "end": 24.005,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 24.005,
+                "end": 24.164999,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 24.164999,
+                "end": 24.485,
+                "confidence": 0.9970703,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "maneja",
+                "start": 24.485,
+                "end": 24.985,
+                "confidence": 0.99902344,
+                "punctuated_word": "maneja"
+              },
+              {
+                "word": "frustração",
+                "start": 25.845,
+                "end": 26.345,
+                "confidence": 0.9890137,
+                "punctuated_word": "frustração?"
+              },
+              {
+                "word": "como",
+                "start": 26.564999,
+                "end": 26.724998,
+                "confidence": 1.0,
+                "punctuated_word": "Como"
+              },
+              {
+                "word": "é",
+                "start": 26.724998,
+                "end": 26.884998,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 26.884998,
+                "end": 27.09,
+                "confidence": 0.9970703,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 27.09,
+                "end": 27.25,
+                "confidence": 0.984375,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "maneja",
+                "start": 27.25,
+                "end": 27.75,
+                "confidence": 0.9975586,
+                "punctuated_word": "maneja"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 28.130001,
+                "end": 28.630001,
+                "confidence": 0.99853516,
+                "punctuated_word": "sobrecarga?"
+              },
+              {
+                "word": "você",
+                "start": 29.01,
+                "end": 29.33,
+                "confidence": 0.98291016,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "você",
+                "start": 29.33,
+                "end": 29.57,
+                "confidence": 0.60546875,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "maneja",
+                "start": 29.57,
+                "end": 29.89,
+                "confidence": 0.9975586,
+                "punctuated_word": "maneja"
+              },
+              {
+                "word": "bem",
+                "start": 29.89,
+                "end": 30.29,
+                "confidence": 1.0,
+                "punctuated_word": "bem"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 30.29,
+                "end": 30.69,
+                "confidence": 0.9904785,
+                "punctuated_word": "sobrecarga?"
+              },
+              {
+                "word": "você",
+                "start": 30.69,
+                "end": 30.93,
+                "confidence": 0.99902344,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "sabe",
+                "start": 30.93,
+                "end": 31.25,
+                "confidence": 1.0,
+                "punctuated_word": "sabe"
+              },
+              {
+                "word": "manejar",
+                "start": 31.25,
+                "end": 31.65,
+                "confidence": 0.9975586,
+                "punctuated_word": "manejar"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 31.65,
+                "end": 32.15,
+                "confidence": 0.9980469,
+                "punctuated_word": "sobrecarga?"
+              },
+              {
+                "word": "você",
+                "start": 32.53,
+                "end": 32.61,
+                "confidence": 1.0,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "não",
+                "start": 32.61,
+                "end": 32.77,
+                "confidence": 1.0,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "sabe",
+                "start": 32.77,
+                "end": 33.09,
+                "confidence": 1.0,
+                "punctuated_word": "sabe"
+              },
+              {
+                "word": "manejar",
+                "start": 33.09,
+                "end": 33.41,
+                "confidence": 1.0,
+                "punctuated_word": "manejar"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 33.41,
+                "end": 33.91,
+                "confidence": 0.9941406,
+                "punctuated_word": "sobrecarga?"
+              },
+              {
+                "word": "presta",
+                "start": 34.53,
+                "end": 35.01,
+                "confidence": 0.7314453,
+                "punctuated_word": "Presta"
+              },
+              {
+                "word": "atenção",
+                "start": 35.01,
+                "end": 35.51,
+                "confidence": 0.9511719,
+                "punctuated_word": "atenção,"
+              },
+              {
+                "word": "1",
+                "start": 35.81,
+                "end": 35.97,
+                "confidence": 0.9941406,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "pessoa",
+                "start": 35.97,
+                "end": 36.29,
+                "confidence": 0.99902344,
+                "punctuated_word": "pessoa"
+              },
+              {
+                "word": "que",
+                "start": 36.29,
+                "end": 36.45,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "ainda",
+                "start": 36.45,
+                "end": 36.61,
+                "confidence": 0.99902344,
+                "punctuated_word": "ainda"
+              },
+              {
+                "word": "não",
+                "start": 36.61,
+                "end": 36.85,
+                "confidence": 1.0,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "sabe",
+                "start": 36.85,
+                "end": 37.35,
+                "confidence": 1.0,
+                "punctuated_word": "sabe"
+              },
+              {
+                "word": "manejar",
+                "start": 37.41,
+                "end": 37.91,
+                "confidence": 1.0,
+                "punctuated_word": "manejar"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 38.37,
+                "end": 38.87,
+                "confidence": 1.0,
+                "punctuated_word": "sobrecarga"
+              },
+              {
+                "word": "tá",
+                "start": 39.17,
+                "end": 39.33,
+                "confidence": 0.81518555,
+                "punctuated_word": "tá,"
+              },
+              {
+                "word": "e",
+                "start": 39.33,
+                "end": 39.41,
+                "confidence": 0.99609375,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "aí",
+                "start": 39.41,
+                "end": 39.65,
+                "confidence": 0.9921875,
+                "punctuated_word": "aí"
+              },
+              {
+                "word": "vamos",
+                "start": 39.65,
+                "end": 39.89,
+                "confidence": 0.99902344,
+                "punctuated_word": "vamos"
+              },
+              {
+                "word": "pensar",
+                "start": 39.89,
+                "end": 40.39,
+                "confidence": 1.0,
+                "punctuated_word": "pensar"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 40.53,
+                "end": 40.61,
+                "confidence": 0.9770508,
+                "punctuated_word": "sobrecarga"
+              },
+              {
+                "word": "de",
+                "start": 40.61,
+                "end": 40.77,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "trabalho",
+                "start": 40.77,
+                "end": 41.27,
+                "confidence": 0.9980469,
+                "punctuated_word": "trabalho,"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 41.535,
+                "end": 42.035,
+                "confidence": 0.9980469,
+                "punctuated_word": "sobrecarga"
+              },
+              {
+                "word": "emocional",
+                "start": 42.095,
+                "end": 42.595,
+                "confidence": 0.9975586,
+                "punctuated_word": "emocional,"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 44.575,
+                "end": 44.735,
+                "confidence": 1.0,
+                "punctuated_word": "sobrecarga"
+              },
+              {
+                "word": "de",
+                "start": 44.735,
+                "end": 44.975,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "problema",
+                "start": 44.975,
+                "end": 45.215,
+                "confidence": 0.97998047,
+                "punctuated_word": "problema"
+              },
+              {
+                "word": "em",
+                "start": 45.215,
+                "end": 45.454998,
+                "confidence": 0.99902344,
+                "punctuated_word": "em"
+              },
+              {
+                "word": "casa",
+                "start": 45.454998,
+                "end": 45.954998,
+                "confidence": 0.9875488,
+                "punctuated_word": "casa,"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 46.335,
+                "end": 46.495,
+                "confidence": 1.0,
+                "punctuated_word": "sobrecarga"
+              },
+              {
+                "word": "de",
+                "start": 46.495,
+                "end": 46.735,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "problema",
+                "start": 46.735,
+                "end": 47.235,
+                "confidence": 0.9819336,
+                "punctuated_word": "problema"
+              },
+              {
+                "word": "consigo",
+                "start": 47.775,
+                "end": 48.175,
+                "confidence": 0.98095703,
+                "punctuated_word": "consigo"
+              },
+              {
+                "word": "mesmo",
+                "start": 48.175,
+                "end": 48.675,
+                "confidence": 0.8054199,
+                "punctuated_word": "mesmo."
+              },
+              {
+                "word": "1",
+                "start": 48.815,
+                "end": 49.055,
+                "confidence": 1.0,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "pessoa",
+                "start": 49.055,
+                "end": 49.375,
+                "confidence": 0.99902344,
+                "punctuated_word": "pessoa"
+              },
+              {
+                "word": "que",
+                "start": 49.375,
+                "end": 49.535,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "não",
+                "start": 49.535,
+                "end": 49.775,
+                "confidence": 1.0,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "consegue",
+                "start": 49.775,
+                "end": 50.255,
+                "confidence": 1.0,
+                "punctuated_word": "consegue"
+              },
+              {
+                "word": "manejar",
+                "start": 50.255,
+                "end": 50.735,
+                "confidence": 0.99902344,
+                "punctuated_word": "manejar"
+              },
+              {
+                "word": "esse",
+                "start": 50.735,
+                "end": 50.975,
+                "confidence": 0.8935547,
+                "punctuated_word": "esse"
+              },
+              {
+                "word": "tipo",
+                "start": 50.975,
+                "end": 51.215,
+                "confidence": 1.0,
+                "punctuated_word": "tipo"
+              },
+              {
+                "word": "de",
+                "start": 51.215,
+                "end": 51.695,
+                "confidence": 0.98828125,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "sobrecarga",
+                "start": 51.695,
+                "end": 52.195,
+                "confidence": 0.8000488,
+                "punctuated_word": "sobrecarga,"
+              },
+              {
+                "word": "é",
+                "start": 52.254997,
+                "end": 52.495,
+                "confidence": 0.9326172,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "1",
+                "start": 52.495,
+                "end": 52.575,
+                "confidence": 0.9980469,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "pessoa",
+                "start": 52.575,
+                "end": 52.815,
+                "confidence": 0.9980469,
+                "punctuated_word": "pessoa"
+              },
+              {
+                "word": "que",
+                "start": 52.815,
+                "end": 52.975,
+                "confidence": 0.8041992,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "precisa",
+                "start": 52.975,
+                "end": 53.295,
+                "confidence": 0.9970703,
+                "punctuated_word": "precisa"
+              },
+              {
+                "word": "aprender",
+                "start": 53.295,
+                "end": 53.535,
+                "confidence": 1.0,
+                "punctuated_word": "aprender"
+              },
+              {
+                "word": "a",
+                "start": 53.535,
+                "end": 53.614998,
+                "confidence": 0.92822266,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "fazer",
+                "start": 53.614998,
+                "end": 53.775,
+                "confidence": 1.0,
+                "punctuated_word": "fazer"
+              },
+              {
+                "word": "isso",
+                "start": 53.775,
+                "end": 54.015,
+                "confidence": 0.99902344,
+                "punctuated_word": "isso"
+              },
+              {
+                "word": "o",
+                "start": 54.015,
+                "end": 54.095,
+                "confidence": 0.77441406,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "quanto",
+                "start": 54.095,
+                "end": 54.254997,
+                "confidence": 1.0,
+                "punctuated_word": "quanto"
+              },
+              {
+                "word": "antes",
+                "start": 54.254997,
+                "end": 54.75,
+                "confidence": 0.7519531,
+                "punctuated_word": "antes,"
+              },
+              {
+                "word": "tanto",
+                "start": 55.55,
+                "end": 55.71,
+                "confidence": 1.0,
+                "punctuated_word": "tanto"
+              },
+              {
+                "word": "pra",
+                "start": 55.71,
+                "end": 55.95,
+                "confidence": 0.9135742,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "amadurecer",
+                "start": 55.95,
+                "end": 56.45,
+                "confidence": 1.0,
+                "punctuated_word": "amadurecer"
+              },
+              {
+                "word": "como",
+                "start": 56.59,
+                "end": 56.99,
+                "confidence": 0.9921875,
+                "punctuated_word": "como"
+              },
+              {
+                "word": "pessoa",
+                "start": 56.99,
+                "end": 57.31,
+                "confidence": 0.99902344,
+                "punctuated_word": "pessoa"
+              },
+              {
+                "word": "humana",
+                "start": 57.31,
+                "end": 57.81,
+                "confidence": 0.93237305,
+                "punctuated_word": "humana,"
+              },
+              {
+                "word": "tanto",
+                "start": 58.19,
+                "end": 58.59,
+                "confidence": 1.0,
+                "punctuated_word": "tanto"
+              },
+              {
+                "word": "pra",
+                "start": 58.59,
+                "end": 58.83,
+                "confidence": 0.94970703,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "não",
+                "start": 58.83,
+                "end": 58.989998,
+                "confidence": 1.0,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "cair",
+                "start": 58.989998,
+                "end": 59.23,
+                "confidence": 1.0,
+                "punctuated_word": "cair"
+              },
+              {
+                "word": "no",
+                "start": 59.23,
+                "end": 59.39,
+                "confidence": 0.9428711,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "problema",
+                "start": 59.39,
+                "end": 59.63,
+                "confidence": 0.9980469,
+                "punctuated_word": "problema"
+              },
+              {
+                "word": "da",
+                "start": 59.63,
+                "end": 59.87,
+                "confidence": 0.9921875,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "pornografia",
+                "start": 59.87,
+                "end": 60.35,
+                "confidence": 1.0,
+                "punctuated_word": "pornografia"
+              },
+              {
+                "word": "e",
+                "start": 60.35,
+                "end": 60.51,
+                "confidence": 0.68896484,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "é",
+                "start": 60.51,
+                "end": 60.67,
+                "confidence": 0.96972656,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "esse",
+                "start": 60.67,
+                "end": 60.91,
+                "confidence": 0.99902344,
+                "punctuated_word": "esse"
+              },
+              {
+                "word": "caminho",
+                "start": 60.91,
+                "end": 61.23,
+                "confidence": 0.9873047,
+                "punctuated_word": "caminho"
+              },
+              {
+                "word": "que",
+                "start": 61.23,
+                "end": 61.31,
+                "confidence": 0.9980469,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "a",
+                "start": 61.31,
+                "end": 61.39,
+                "confidence": 0.98828125,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 61.39,
+                "end": 61.63,
+                "confidence": 0.9970703,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "vai",
+                "start": 61.63,
+                "end": 61.95,
+                "confidence": 0.99609375,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "trilhar",
+                "start": 61.95,
+                "end": 62.27,
+                "confidence": 1.0,
+                "punctuated_word": "trilhar"
+              },
+              {
+                "word": "aqui",
+                "start": 62.27,
+                "end": 62.43,
+                "confidence": 0.9941406,
+                "punctuated_word": "aqui"
+              },
+              {
+                "word": "ao",
+                "start": 62.43,
+                "end": 62.59,
+                "confidence": 1.0,
+                "punctuated_word": "ao"
+              },
+              {
+                "word": "longo",
+                "start": 62.59,
+                "end": 62.75,
+                "confidence": 1.0,
+                "punctuated_word": "longo"
+              },
+              {
+                "word": "do",
+                "start": 62.75,
+                "end": 62.91,
+                "confidence": 0.97509766,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "nosso",
+                "start": 62.91,
+                "end": 63.15,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "curso",
+                "start": 63.15,
+                "end": 63.47,
+                "confidence": 1.0,
+                "punctuated_word": "curso"
+              },
+              {
+                "word": "está",
+                "start": 63.47,
+                "end": 63.63,
+                "confidence": 0.5961914,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "bom",
+                "start": 63.63,
+                "end": 64.03,
+                "confidence": 0.9885254,
+                "punctuated_word": "bom?"
+              },
+              {
+                "word": "na",
+                "start": 64.03,
+                "end": 64.11,
+                "confidence": 1.0,
+                "punctuated_word": "Na"
+              },
+              {
+                "word": "aula",
+                "start": 64.11,
+                "end": 64.35,
+                "confidence": 0.9863281,
+                "punctuated_word": "aula"
+              },
+              {
+                "word": "de",
+                "start": 64.35,
+                "end": 64.43,
+                "confidence": 0.9970703,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "hoje",
+                "start": 64.43,
+                "end": 64.59,
+                "confidence": 1.0,
+                "punctuated_word": "hoje"
+              },
+              {
+                "word": "eu",
+                "start": 64.59,
+                "end": 64.67,
+                "confidence": 0.99316406,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "quero",
+                "start": 64.67,
+                "end": 64.91,
+                "confidence": 1.0,
+                "punctuated_word": "quero"
+              },
+              {
+                "word": "falar",
+                "start": 64.91,
+                "end": 65.07,
+                "confidence": 1.0,
+                "punctuated_word": "falar"
+              },
+              {
+                "word": "com",
+                "start": 65.07,
+                "end": 65.229996,
+                "confidence": 1.0,
+                "punctuated_word": "com"
+              },
+              {
+                "word": "você",
+                "start": 65.229996,
+                "end": 65.55,
+                "confidence": 0.9506836,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "sobre",
+                "start": 65.55,
+                "end": 65.95,
+                "confidence": 1.0,
+                "punctuated_word": "sobre"
+              },
+              {
+                "word": "o",
+                "start": 65.95,
+                "end": 66.19,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "problema",
+                "start": 66.19,
+                "end": 66.51,
+                "confidence": 0.99902344,
+                "punctuated_word": "problema"
+              },
+              {
+                "word": "do",
+                "start": 66.51,
+                "end": 67.01,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "desencadeante",
+                "start": 67.15,
+                "end": 67.55,
+                "confidence": 0.93847656,
+                "punctuated_word": "desencadeante,"
+              },
+              {
+                "word": "então",
+                "start": 67.55,
+                "end": 67.79,
+                "confidence": 1.0,
+                "punctuated_word": "então"
+              },
+              {
+                "word": "a",
+                "start": 67.79,
+                "end": 67.95,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 67.95,
+                "end": 68.11,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "vai",
+                "start": 68.11,
+                "end": 68.35,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "pensar",
+                "start": 68.35,
+                "end": 68.75,
+                "confidence": 1.0,
+                "punctuated_word": "pensar"
+              },
+              {
+                "word": "né",
+                "start": 68.75,
+                "end": 69.07,
+                "confidence": 0.7531738,
+                "punctuated_word": "né,"
+              },
+              {
+                "word": "quando",
+                "start": 69.07,
+                "end": 69.31,
+                "confidence": 0.83984375,
+                "punctuated_word": "quando"
+              },
+              {
+                "word": "a",
+                "start": 69.31,
+                "end": 69.4925,
+                "confidence": 0.9970703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 69.4925,
+                "end": 69.675,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "vai",
+                "start": 69.755005,
+                "end": 69.915,
+                "confidence": 1.0,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "lá",
+                "start": 69.915,
+                "end": 70.075005,
+                "confidence": 0.9951172,
+                "punctuated_word": "lá"
+              },
+              {
+                "word": "no",
+                "start": 70.075005,
+                "end": 70.15501,
+                "confidence": 0.9838867,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "nosso",
+                "start": 70.15501,
+                "end": 70.555,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "ciclo",
+                "start": 70.555,
+                "end": 71.055,
+                "confidence": 0.93530273,
+                "punctuated_word": "ciclo,"
+              },
+              {
+                "word": "no",
+                "start": 71.595,
+                "end": 71.83501,
+                "confidence": 0.984375,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "ciclo",
+                "start": 71.83501,
+                "end": 72.075005,
+                "confidence": 0.9770508,
+                "punctuated_word": "ciclo"
+              },
+              {
+                "word": "do",
+                "start": 72.075005,
+                "end": 72.235,
+                "confidence": 0.9941406,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "vício",
+                "start": 72.235,
+                "end": 72.715004,
+                "confidence": 0.93481445,
+                "punctuated_word": "vício,"
+              },
+              {
+                "word": "o",
+                "start": 72.715004,
+                "end": 72.875,
+                "confidence": 0.9970703,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "desencadeante",
+                "start": 72.875,
+                "end": 73.375,
+                "confidence": 1.0,
+                "punctuated_word": "desencadeante"
+              },
+              {
+                "word": "ele",
+                "start": 73.435005,
+                "end": 73.595,
+                "confidence": 0.8154297,
+                "punctuated_word": "ele"
+              },
+              {
+                "word": "é",
+                "start": 73.595,
+                "end": 73.675,
+                "confidence": 0.99902344,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 73.675,
+                "end": 73.83501,
+                "confidence": 0.9921875,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "1º",
+                "start": 73.83501,
+                "end": 74.33501,
+                "confidence": 0.9970703,
+                "punctuated_word": "1º"
+              },
+              {
+                "word": "movimento",
+                "start": 74.555,
+                "end": 74.875,
+                "confidence": 0.9951172,
+                "punctuated_word": "movimento"
+              },
+              {
+                "word": "né",
+                "start": 74.875,
+                "end": 75.035,
+                "confidence": 0.8010254,
+                "punctuated_word": "né,"
+              },
+              {
+                "word": "a",
+                "start": 75.035,
+                "end": 75.115005,
+                "confidence": 0.9633789,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "1º",
+                "start": 75.115005,
+                "end": 75.355,
+                "confidence": 1.0,
+                "punctuated_word": "1º"
+              },
+              {
+                "word": "coisa",
+                "start": 75.355,
+                "end": 75.515,
+                "confidence": 0.9970703,
+                "punctuated_word": "coisa"
+              },
+              {
+                "word": "que",
+                "start": 75.515,
+                "end": 75.675,
+                "confidence": 0.99316406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "acontece",
+                "start": 75.675,
+                "end": 76.075005,
+                "confidence": 0.99902344,
+                "punctuated_word": "acontece"
+              },
+              {
+                "word": "lá",
+                "start": 76.075005,
+                "end": 76.235,
+                "confidence": 0.9729004,
+                "punctuated_word": "lá."
+              },
+              {
+                "word": "o",
+                "start": 76.235,
+                "end": 76.315,
+                "confidence": 0.99316406,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "que",
+                "start": 76.315,
+                "end": 76.475006,
+                "confidence": 0.97265625,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "que",
+                "start": 76.475006,
+                "end": 76.555,
+                "confidence": 0.83935547,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "é",
+                "start": 76.555,
+                "end": 76.635,
+                "confidence": 0.99316406,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 76.635,
+                "end": 76.795006,
+                "confidence": 0.9819336,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "desencadeante",
+                "start": 76.795006,
+                "end": 77.295006,
+                "confidence": 0.9980469,
+                "punctuated_word": "desencadeante?"
+              },
+              {
+                "word": "o",
+                "start": 77.515,
+                "end": 77.675,
+                "confidence": 0.98095703,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "desencadeante",
+                "start": 77.675,
+                "end": 78.175,
+                "confidence": 1.0,
+                "punctuated_word": "desencadeante"
+              },
+              {
+                "word": "ele",
+                "start": 78.395004,
+                "end": 78.635,
+                "confidence": 0.99121094,
+                "punctuated_word": "ele"
+              },
+              {
+                "word": "é",
+                "start": 78.635,
+                "end": 78.955,
+                "confidence": 0.97265625,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "1",
+                "start": 78.955,
+                "end": 79.455,
+                "confidence": 0.96875,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "momento",
+                "start": 79.515,
+                "end": 79.83501,
+                "confidence": 0.9350586,
+                "punctuated_word": "momento"
+              },
+              {
+                "word": "em",
+                "start": 79.83501,
+                "end": 80.075005,
+                "confidence": 0.9892578,
+                "punctuated_word": "em"
+              },
+              {
+                "word": "que",
+                "start": 80.075005,
+                "end": 80.395004,
+                "confidence": 0.9873047,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "o",
+                "start": 80.395004,
+                "end": 80.715004,
+                "confidence": 0.92822266,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "ciclo",
+                "start": 80.715004,
+                "end": 80.73278,
+                "confidence": 0.9633789,
+                "punctuated_word": "ciclo"
+              },
+              {
+                "word": "todo",
+                "start": 80.73278,
+                "end": 80.75056,
+                "confidence": 0.8925781,
+                "punctuated_word": "todo"
+              },
+              {
+                "word": "começa",
+                "start": 80.75056,
+                "end": 80.76833,
+                "confidence": 0.7919922,
+                "punctuated_word": "começa,"
+              },
+              {
+                "word": "ou",
+                "start": 80.76833,
+                "end": 80.78611,
+                "confidence": 0.5361328,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "seja",
+                "start": 80.78611,
+                "end": 80.803894,
+                "confidence": 0.87719727,
+                "punctuated_word": "seja,"
+              },
+              {
+                "word": "você",
+                "start": 80.803894,
+                "end": 80.82167,
+                "confidence": 0.75634766,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "viu",
+                "start": 80.82167,
+                "end": 80.83945,
+                "confidence": 0.7104492,
+                "punctuated_word": "viu"
+              },
+              {
+                "word": "1",
+                "start": 80.83945,
+                "end": 80.85722,
+                "confidence": 0.89501953,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "imagem",
+                "start": 80.85722,
+                "end": 80.875,
+                "confidence": 0.96435547,
+                "punctuated_word": "imagem"
+              },
+              {
+                "word": "pornográfica",
+                "start": 80.875,
+                "end": 81.195,
+                "confidence": 0.9514974,
+                "punctuated_word": "pornográfica"
+              },
+              {
+                "word": "ou",
+                "start": 81.195,
+                "end": 81.69,
+                "confidence": 0.49194336,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "ou",
+                "start": 81.770004,
+                "end": 82.090004,
+                "confidence": 0.9980469,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "seja",
+                "start": 82.090004,
+                "end": 82.590004,
+                "confidence": 0.9914551,
+                "punctuated_word": "seja,"
+              },
+              {
+                "word": "você",
+                "start": 83.05,
+                "end": 83.450005,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "viu",
+                "start": 83.450005,
+                "end": 83.950005,
+                "confidence": 0.99902344,
+                "punctuated_word": "viu"
+              },
+              {
+                "word": "1",
+                "start": 84.01,
+                "end": 84.490005,
+                "confidence": 1.0,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "imagem",
+                "start": 84.490005,
+                "end": 84.73,
+                "confidence": 1.0,
+                "punctuated_word": "imagem"
+              },
+              {
+                "word": "pornográfica",
+                "start": 84.73,
+                "end": 85.23,
+                "confidence": 0.9900716,
+                "punctuated_word": "pornográfica"
+              },
+              {
+                "word": "ou",
+                "start": 85.61,
+                "end": 85.93,
+                "confidence": 0.7939453,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "você",
+                "start": 85.93,
+                "end": 86.43,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "experimentou",
+                "start": 87.93,
+                "end": 88.43,
+                "confidence": 0.9921875,
+                "punctuated_word": "experimentou"
+              },
+              {
+                "word": "1",
+                "start": 88.810005,
+                "end": 88.93001,
+                "confidence": 0.984375,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "sentimento",
+                "start": 88.93001,
+                "end": 89.05,
+                "confidence": 0.99609375,
+                "punctuated_word": "sentimento"
+              },
+              {
+                "word": "naquele",
+                "start": 89.05,
+                "end": 89.55,
+                "confidence": 0.88134766,
+                "punctuated_word": "naquele"
+              },
+              {
+                "word": "momento",
+                "start": 89.850006,
+                "end": 90.33,
+                "confidence": 0.89941406,
+                "punctuated_word": "momento,"
+              },
+              {
+                "word": "então",
+                "start": 90.33,
+                "end": 90.83,
+                "confidence": 1.0,
+                "punctuated_word": "então"
+              },
+              {
+                "word": "o",
+                "start": 90.97,
+                "end": 91.29,
+                "confidence": 0.9135742,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "desencadeante",
+                "start": 91.29,
+                "end": 91.770004,
+                "confidence": 0.9916992,
+                "punctuated_word": "desencadeante"
+              },
+              {
+                "word": "é",
+                "start": 91.770004,
+                "end": 92.01,
+                "confidence": 0.9350586,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "onde",
+                "start": 92.01,
+                "end": 92.490005,
+                "confidence": 0.93408203,
+                "punctuated_word": "onde"
+              },
+              {
+                "word": "tudo",
+                "start": 92.490005,
+                "end": 92.810005,
+                "confidence": 0.99316406,
+                "punctuated_word": "tudo"
+              },
+              {
+                "word": "de",
+                "start": 92.810005,
+                "end": 92.97,
+                "confidence": 0.9980469,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "fato",
+                "start": 92.97,
+                "end": 93.450005,
+                "confidence": 1.0,
+                "punctuated_word": "fato"
+              },
+              {
+                "word": "começa",
+                "start": 93.450005,
+                "end": 93.69,
+                "confidence": 0.9526367,
+                "punctuated_word": "começa,"
+              },
+              {
+                "word": "é",
+                "start": 93.69,
+                "end": 93.850006,
+                "confidence": 0.81152344,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "quando",
+                "start": 93.850006,
+                "end": 94.01,
+                "confidence": 0.9980469,
+                "punctuated_word": "quando"
+              },
+              {
+                "word": "você",
+                "start": 94.01,
+                "end": 94.17,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "começa",
+                "start": 94.17,
+                "end": 94.67,
+                "confidence": 0.9291992,
+                "punctuated_word": "começa"
+              },
+              {
+                "word": "a",
+                "start": 94.69,
+                "end": 95.19,
+                "confidence": 0.5786133,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "flertar",
+                "start": 95.21,
+                "end": 95.69,
+                "confidence": 1.0,
+                "punctuated_word": "flertar"
+              },
+              {
+                "word": "com",
+                "start": 95.69,
+                "end": 95.93,
+                "confidence": 0.9902344,
+                "punctuated_word": "com"
+              },
+              {
+                "word": "a",
+                "start": 95.93,
+                "end": 96.090004,
+                "confidence": 0.9790039,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "imagem",
+                "start": 96.090004,
+                "end": 96.33,
+                "confidence": 0.9951172,
+                "punctuated_word": "imagem"
+              },
+              {
+                "word": "pornográfica",
+                "start": 96.33,
+                "end": 96.83,
+                "confidence": 0.88500977,
+                "punctuated_word": "pornográfica,"
+              },
+              {
+                "word": "está",
+                "start": 96.915,
+                "end": 97.075005,
+                "confidence": 0.6855469,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "bom",
+                "start": 97.075005,
+                "end": 97.575005,
+                "confidence": 0.9338379,
+                "punctuated_word": "bom?"
+              },
+              {
+                "word": "eu",
+                "start": 98.035,
+                "end": 98.195,
+                "confidence": 0.9921875,
+                "punctuated_word": "Eu"
+              },
+              {
+                "word": "quero",
+                "start": 98.195,
+                "end": 98.435,
+                "confidence": 1.0,
+                "punctuated_word": "quero"
+              },
+              {
+                "word": "que",
+                "start": 98.435,
+                "end": 98.595,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 98.595,
+                "end": 98.755,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "comece",
+                "start": 98.755,
+                "end": 99.075,
+                "confidence": 0.99902344,
+                "punctuated_word": "comece"
+              },
+              {
+                "word": "a",
+                "start": 99.075,
+                "end": 99.475,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "perceber",
+                "start": 99.475,
+                "end": 99.875,
+                "confidence": 1.0,
+                "punctuated_word": "perceber"
+              },
+              {
+                "word": "quais",
+                "start": 99.875,
+                "end": 100.115,
+                "confidence": 0.99902344,
+                "punctuated_word": "quais"
+              },
+              {
+                "word": "são",
+                "start": 100.115,
+                "end": 100.355,
+                "confidence": 1.0,
+                "punctuated_word": "são"
+              },
+              {
+                "word": "esses",
+                "start": 100.355,
+                "end": 100.855,
+                "confidence": 0.99902344,
+                "punctuated_word": "esses"
+              },
+              {
+                "word": "desencadeantes",
+                "start": 100.915,
+                "end": 101.315,
+                "confidence": 0.99365234,
+                "punctuated_word": "desencadeantes"
+              },
+              {
+                "word": "quais",
+                "start": 101.315,
+                "end": 101.555,
+                "confidence": 0.6640625,
+                "punctuated_word": "quais"
+              },
+              {
+                "word": "são",
+                "start": 101.555,
+                "end": 101.875,
+                "confidence": 0.91186523,
+                "punctuated_word": "são,"
+              },
+              {
+                "word": "presta",
+                "start": 101.875,
+                "end": 102.115,
+                "confidence": 0.9580078,
+                "punctuated_word": "presta"
+              },
+              {
+                "word": "atenção",
+                "start": 102.115,
+                "end": 102.615,
+                "confidence": 0.94018555,
+                "punctuated_word": "atenção,"
+              },
+              {
+                "word": "quais",
+                "start": 104.035,
+                "end": 104.275,
+                "confidence": 0.9970703,
+                "punctuated_word": "quais"
+              },
+              {
+                "word": "são",
+                "start": 104.275,
+                "end": 104.595,
+                "confidence": 0.9980469,
+                "punctuated_word": "são"
+              },
+              {
+                "word": "os",
+                "start": 104.595,
+                "end": 104.835,
+                "confidence": 1.0,
+                "punctuated_word": "os"
+              },
+              {
+                "word": "desencadeantes",
+                "start": 104.835,
+                "end": 105.335,
+                "confidence": 0.9995117,
+                "punctuated_word": "desencadeantes"
+              },
+              {
+                "word": "mais",
+                "start": 106.195,
+                "end": 106.695,
+                "confidence": 1.0,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "comuns",
+                "start": 107.075,
+                "end": 107.575,
+                "confidence": 0.9980469,
+                "punctuated_word": "comuns"
+              },
+              {
+                "word": "em",
+                "start": 108.035,
+                "end": 108.195,
+                "confidence": 1.0,
+                "punctuated_word": "em"
+              },
+              {
+                "word": "você",
+                "start": 108.195,
+                "end": 108.695,
+                "confidence": 0.86743164,
+                "punctuated_word": "você,"
+              },
+              {
+                "word": "você",
+                "start": 110.189995,
+                "end": 110.509995,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "precisa",
+                "start": 110.509995,
+                "end": 110.829994,
+                "confidence": 1.0,
+                "punctuated_word": "precisa"
+              },
+              {
+                "word": "saber",
+                "start": 110.829994,
+                "end": 111.31,
+                "confidence": 1.0,
+                "punctuated_word": "saber"
+              },
+              {
+                "word": "disso",
+                "start": 111.31,
+                "end": 111.81,
+                "confidence": 0.78027344,
+                "punctuated_word": "disso."
+              },
+              {
+                "word": "sabe",
+                "start": 112.509995,
+                "end": 112.67,
+                "confidence": 1.0,
+                "punctuated_word": "Sabe"
+              },
+              {
+                "word": "por",
+                "start": 112.67,
+                "end": 112.75,
+                "confidence": 0.8276367,
+                "punctuated_word": "por"
+              },
+              {
+                "word": "quê",
+                "start": 112.75,
+                "end": 113.229996,
+                "confidence": 0.99658203,
+                "punctuated_word": "quê?"
+              },
+              {
+                "word": "porque",
+                "start": 113.229996,
+                "end": 113.549995,
+                "confidence": 0.99902344,
+                "punctuated_word": "Porque"
+              },
+              {
+                "word": "eles",
+                "start": 113.549995,
+                "end": 113.78999,
+                "confidence": 0.99902344,
+                "punctuated_word": "eles"
+              },
+              {
+                "word": "nunca",
+                "start": 113.78999,
+                "end": 114.189995,
+                "confidence": 1.0,
+                "punctuated_word": "nunca"
+              },
+              {
+                "word": "vão",
+                "start": 114.189995,
+                "end": 114.27,
+                "confidence": 1.0,
+                "punctuated_word": "vão"
+              },
+              {
+                "word": "mudar",
+                "start": 114.27,
+                "end": 114.77,
+                "confidence": 0.96850586,
+                "punctuated_word": "mudar,"
+              },
+              {
+                "word": "eles",
+                "start": 114.95,
+                "end": 115.45,
+                "confidence": 0.99902344,
+                "punctuated_word": "eles"
+              },
+              {
+                "word": "vão",
+                "start": 115.63,
+                "end": 115.95,
+                "confidence": 1.0,
+                "punctuated_word": "vão"
+              },
+              {
+                "word": "ser",
+                "start": 115.95,
+                "end": 116.11,
+                "confidence": 0.9980469,
+                "punctuated_word": "ser"
+              },
+              {
+                "word": "exatamente",
+                "start": 116.11,
+                "end": 116.59,
+                "confidence": 1.0,
+                "punctuated_word": "exatamente"
+              },
+              {
+                "word": "o",
+                "start": 116.59,
+                "end": 117.09,
+                "confidence": 0.9980469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "mesmo",
+                "start": 117.149994,
+                "end": 117.649994,
+                "confidence": 0.8835449,
+                "punctuated_word": "mesmo."
+              },
+              {
+                "word": "eu",
+                "start": 118.189995,
+                "end": 118.35,
+                "confidence": 0.9892578,
+                "punctuated_word": "Eu"
+              },
+              {
+                "word": "preciso",
+                "start": 118.35,
+                "end": 118.59,
+                "confidence": 1.0,
+                "punctuated_word": "preciso"
+              },
+              {
+                "word": "que",
+                "start": 118.59,
+                "end": 118.75,
+                "confidence": 0.9970703,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 118.75,
+                "end": 119.25,
+                "confidence": 0.91748047,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "preste",
+                "start": 119.46999,
+                "end": 119.96999,
+                "confidence": 0.9350586,
+                "punctuated_word": "preste"
+              },
+              {
+                "word": "muita",
+                "start": 120.03,
+                "end": 120.35,
+                "confidence": 0.99902344,
+                "punctuated_word": "muita"
+              },
+              {
+                "word": "atenção",
+                "start": 120.35,
+                "end": 120.67,
+                "confidence": 0.99902344,
+                "punctuated_word": "atenção"
+              },
+              {
+                "word": "nisso",
+                "start": 120.67,
+                "end": 120.909996,
+                "confidence": 0.99902344,
+                "punctuated_word": "nisso"
+              },
+              {
+                "word": "aqui",
+                "start": 120.909996,
+                "end": 121.409996,
+                "confidence": 0.75341797,
+                "punctuated_word": "aqui,"
+              },
+              {
+                "word": "você",
+                "start": 122.605,
+                "end": 122.845,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "olhar",
+                "start": 122.845,
+                "end": 123.085,
+                "confidence": 0.99609375,
+                "punctuated_word": "olhar"
+              },
+              {
+                "word": "pra",
+                "start": 123.085,
+                "end": 123.245,
+                "confidence": 0.92089844,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "dentro",
+                "start": 123.245,
+                "end": 123.485,
+                "confidence": 0.99902344,
+                "punctuated_word": "dentro"
+              },
+              {
+                "word": "de",
+                "start": 123.485,
+                "end": 123.645,
+                "confidence": 0.9951172,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "si",
+                "start": 123.645,
+                "end": 123.965,
+                "confidence": 0.75805664,
+                "punctuated_word": "si,"
+              },
+              {
+                "word": "você",
+                "start": 123.965,
+                "end": 124.125,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 124.125,
+                "end": 124.365,
+                "confidence": 0.9980469,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "perceber",
+                "start": 124.365,
+                "end": 124.865,
+                "confidence": 1.0,
+                "punctuated_word": "perceber"
+              },
+              {
+                "word": "que",
+                "start": 125.565,
+                "end": 125.965,
+                "confidence": 0.5541992,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "todas",
+                "start": 125.965,
+                "end": 126.284996,
+                "confidence": 0.9941406,
+                "punctuated_word": "todas"
+              },
+              {
+                "word": "as",
+                "start": 126.284996,
+                "end": 126.445,
+                "confidence": 0.98828125,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "vezes",
+                "start": 126.445,
+                "end": 126.685,
+                "confidence": 0.9951172,
+                "punctuated_word": "vezes"
+              },
+              {
+                "word": "que",
+                "start": 126.685,
+                "end": 126.845,
+                "confidence": 0.9980469,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 126.845,
+                "end": 127.085,
+                "confidence": 0.984375,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "cai",
+                "start": 127.085,
+                "end": 127.325,
+                "confidence": 1.0,
+                "punctuated_word": "cai"
+              },
+              {
+                "word": "na",
+                "start": 127.325,
+                "end": 127.565,
+                "confidence": 0.99609375,
+                "punctuated_word": "na"
+              },
+              {
+                "word": "pornografia",
+                "start": 127.565,
+                "end": 128.065,
+                "confidence": 0.9030762,
+                "punctuated_word": "pornografia,"
+              },
+              {
+                "word": "olha",
+                "start": 128.205,
+                "end": 128.705,
+                "confidence": 0.99609375,
+                "punctuated_word": "olha"
+              },
+              {
+                "word": "só",
+                "start": 129.565,
+                "end": 129.805,
+                "confidence": 0.99902344,
+                "punctuated_word": "só"
+              },
+              {
+                "word": "o",
+                "start": 129.805,
+                "end": 130.285,
+                "confidence": 0.5991211,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "desencadeante",
+                "start": 130.285,
+                "end": 130.765,
+                "confidence": 0.9975586,
+                "punctuated_word": "desencadeante"
+              },
+              {
+                "word": "aquilo",
+                "start": 130.765,
+                "end": 131.08499,
+                "confidence": 0.76171875,
+                "punctuated_word": "aquilo"
+              },
+              {
+                "word": "que",
+                "start": 131.08499,
+                "end": 131.58499,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "começou",
+                "start": 131.645,
+                "end": 131.885,
+                "confidence": 1.0,
+                "punctuated_word": "começou"
+              },
+              {
+                "word": "essa",
+                "start": 131.885,
+                "end": 132.125,
+                "confidence": 0.9951172,
+                "punctuated_word": "essa"
+              },
+              {
+                "word": "queda",
+                "start": 132.125,
+                "end": 132.625,
+                "confidence": 0.8022461,
+                "punctuated_word": "queda,"
+              },
+              {
+                "word": "assim",
+                "start": 132.925,
+                "end": 133.245,
+                "confidence": 0.6489258,
+                "punctuated_word": "assim"
+              },
+              {
+                "word": "olha",
+                "start": 133.245,
+                "end": 133.565,
+                "confidence": 0.47070312,
+                "punctuated_word": "olha"
+              },
+              {
+                "word": "geralmente",
+                "start": 133.565,
+                "end": 133.805,
+                "confidence": 0.97314453,
+                "punctuated_word": "geralmente"
+              },
+              {
+                "word": "é",
+                "start": 133.805,
+                "end": 133.965,
+                "confidence": 0.99609375,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "a",
+                "start": 133.965,
+                "end": 134.205,
+                "confidence": 0.68652344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "mesma",
+                "start": 134.205,
+                "end": 134.365,
+                "confidence": 0.9790039,
+                "punctuated_word": "mesma"
+              },
+              {
+                "word": "coisa",
+                "start": 134.365,
+                "end": 134.865,
+                "confidence": 0.86621094,
+                "punctuated_word": "coisa,"
+              },
+              {
+                "word": "1",
+                "start": 135.805,
+                "end": 135.965,
+                "confidence": 0.9951172,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "2",
+                "start": 135.965,
+                "end": 136.045,
+                "confidence": 0.8457031,
+                "punctuated_word": "2"
+              },
+              {
+                "word": "3",
+                "start": 136.045,
+                "end": 136.285,
+                "confidence": 0.99902344,
+                "punctuated_word": "3"
+              },
+              {
+                "word": "no",
+                "start": 136.285,
+                "end": 136.445,
+                "confidence": 0.89453125,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "máximo",
+                "start": 136.445,
+                "end": 136.945,
+                "confidence": 1.0,
+                "punctuated_word": "máximo"
+              },
+              {
+                "word": "4",
+                "start": 137.26001,
+                "end": 137.66,
+                "confidence": 1.0,
+                "punctuated_word": "4"
+              },
+              {
+                "word": "ali",
+                "start": 137.66,
+                "end": 138.06001,
+                "confidence": 0.9873047,
+                "punctuated_word": "ali"
+              },
+              {
+                "word": "diferentes",
+                "start": 138.06001,
+                "end": 138.56001,
+                "confidence": 0.99365234,
+                "punctuated_word": "diferentes."
+              },
+              {
+                "word": "qual",
+                "start": 141.1,
+                "end": 141.26001,
+                "confidence": 0.99902344,
+                "punctuated_word": "Qual"
+              },
+              {
+                "word": "é",
+                "start": 141.26001,
+                "end": 141.42001,
+                "confidence": 0.99121094,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 141.42001,
+                "end": 141.5,
+                "confidence": 0.9863281,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "nosso",
+                "start": 141.5,
+                "end": 141.66,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "trabalho",
+                "start": 141.66,
+                "end": 142.06001,
+                "confidence": 0.9802246,
+                "punctuated_word": "trabalho?"
+              },
+              {
+                "word": "o",
+                "start": 142.06001,
+                "end": 142.14,
+                "confidence": 0.9199219,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "nosso",
+                "start": 142.14,
+                "end": 142.3,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "trabalho",
+                "start": 142.3,
+                "end": 142.54001,
+                "confidence": 1.0,
+                "punctuated_word": "trabalho"
+              },
+              {
+                "word": "é",
+                "start": 142.54001,
+                "end": 142.70001,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "muito",
+                "start": 142.70001,
+                "end": 143.02,
+                "confidence": 1.0,
+                "punctuated_word": "muito"
+              },
+              {
+                "word": "simples",
+                "start": 143.02,
+                "end": 143.52,
+                "confidence": 0.9165039,
+                "punctuated_word": "simples,"
+              },
+              {
+                "word": "parece",
+                "start": 143.58,
+                "end": 143.74,
+                "confidence": 1.0,
+                "punctuated_word": "parece"
+              },
+              {
+                "word": "que",
+                "start": 143.74,
+                "end": 143.98001,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "é",
+                "start": 143.98001,
+                "end": 144.14,
+                "confidence": 0.99902344,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "complexo",
+                "start": 144.14,
+                "end": 144.62001,
+                "confidence": 1.0,
+                "punctuated_word": "complexo"
+              },
+              {
+                "word": "sair",
+                "start": 144.62001,
+                "end": 144.78,
+                "confidence": 0.9980469,
+                "punctuated_word": "sair"
+              },
+              {
+                "word": "da",
+                "start": 144.78,
+                "end": 144.94,
+                "confidence": 0.99316406,
+                "punctuated_word": "da"
+              },
+              {
+                "word": "pornografia",
+                "start": 144.94,
+                "end": 145.34001,
+                "confidence": 1.0,
+                "punctuated_word": "pornografia"
+              },
+              {
+                "word": "porque",
+                "start": 145.34001,
+                "end": 145.66,
+                "confidence": 0.9980469,
+                "punctuated_word": "porque"
+              },
+              {
+                "word": "ninguém",
+                "start": 145.66,
+                "end": 146.16,
+                "confidence": 1.0,
+                "punctuated_word": "ninguém"
+              },
+              {
+                "word": "ensina",
+                "start": 146.3,
+                "end": 146.78,
+                "confidence": 1.0,
+                "punctuated_word": "ensina"
+              },
+              {
+                "word": "como",
+                "start": 146.78,
+                "end": 147.1,
+                "confidence": 0.9638672,
+                "punctuated_word": "como,"
+              },
+              {
+                "word": "mas",
+                "start": 147.1,
+                "end": 147.34001,
+                "confidence": 1.0,
+                "punctuated_word": "mas"
+              },
+              {
+                "word": "quando",
+                "start": 147.34001,
+                "end": 147.5,
+                "confidence": 1.0,
+                "punctuated_word": "quando"
+              },
+              {
+                "word": "você",
+                "start": 147.5,
+                "end": 147.74,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "cai",
+                "start": 147.74,
+                "end": 147.98001,
+                "confidence": 1.0,
+                "punctuated_word": "cai"
+              },
+              {
+                "word": "aqui",
+                "start": 147.98001,
+                "end": 148.14,
+                "confidence": 0.97265625,
+                "punctuated_word": "aqui"
+              },
+              {
+                "word": "no",
+                "start": 148.14,
+                "end": 148.38,
+                "confidence": 0.99609375,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "recomeço",
+                "start": 148.38,
+                "end": 148.62001,
+                "confidence": 0.93847656,
+                "punctuated_word": "recomeço"
+              },
+              {
+                "word": "casal",
+                "start": 148.62001,
+                "end": 148.78,
+                "confidence": 0.5996094,
+                "punctuated_word": "casal"
+              },
+              {
+                "word": "que",
+                "start": 148.78,
+                "end": 148.94,
+                "confidence": 0.9941406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "a",
+                "start": 148.94,
+                "end": 149.02,
+                "confidence": 0.99609375,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 149.02,
+                "end": 149.18001,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "está",
+                "start": 149.18001,
+                "end": 149.34001,
+                "confidence": 0.9838867,
+                "punctuated_word": "está"
+              },
+              {
+                "word": "dando",
+                "start": 149.34001,
+                "end": 149.42001,
+                "confidence": 0.8432617,
+                "punctuated_word": "dando"
+              },
+              {
+                "word": "aqui",
+                "start": 149.42001,
+                "end": 149.58,
+                "confidence": 0.9951172,
+                "punctuated_word": "aqui"
+              },
+              {
+                "word": "você",
+                "start": 149.58,
+                "end": 149.82,
+                "confidence": 0.78466797,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "percebe",
+                "start": 149.82,
+                "end": 150.06001,
+                "confidence": 0.9941406,
+                "punctuated_word": "percebe"
+              },
+              {
+                "word": "que",
+                "start": 150.06001,
+                "end": 150.14,
+                "confidence": 0.92822266,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "é",
+                "start": 150.14,
+                "end": 150.22,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "muito",
+                "start": 150.22,
+                "end": 150.38,
+                "confidence": 1.0,
+                "punctuated_word": "muito"
+              },
+              {
+                "word": "simples",
+                "start": 150.38,
+                "end": 150.88,
+                "confidence": 0.9328613,
+                "punctuated_word": "simples."
+              },
+              {
+                "word": "e",
+                "start": 152.015,
+                "end": 152.255,
+                "confidence": 0.99902344,
+                "punctuated_word": "E"
+              },
+              {
+                "word": "como",
+                "start": 152.255,
+                "end": 152.41501,
+                "confidence": 0.99902344,
+                "punctuated_word": "como"
+              },
+              {
+                "word": "assim",
+                "start": 152.41501,
+                "end": 152.655,
+                "confidence": 0.9980469,
+                "punctuated_word": "assim"
+              },
+              {
+                "word": "muito",
+                "start": 152.655,
+                "end": 152.735,
+                "confidence": 0.9038086,
+                "punctuated_word": "muito"
+              },
+              {
+                "word": "simples",
+                "start": 152.735,
+                "end": 152.975,
+                "confidence": 0.99316406,
+                "punctuated_word": "simples?"
+              },
+              {
+                "word": "é",
+                "start": 152.975,
+                "end": 153.13501,
+                "confidence": 0.99609375,
+                "punctuated_word": "É"
+              },
+              {
+                "word": "muito",
+                "start": 153.13501,
+                "end": 153.29501,
+                "confidence": 1.0,
+                "punctuated_word": "muito"
+              },
+              {
+                "word": "simples",
+                "start": 153.29501,
+                "end": 153.455,
+                "confidence": 1.0,
+                "punctuated_word": "simples"
+              },
+              {
+                "word": "você",
+                "start": 153.455,
+                "end": 153.535,
+                "confidence": 0.67529297,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "precisa",
+                "start": 153.535,
+                "end": 153.85501,
+                "confidence": 0.98828125,
+                "punctuated_word": "precisa"
+              },
+              {
+                "word": "entender",
+                "start": 153.85501,
+                "end": 154.095,
+                "confidence": 0.9980469,
+                "punctuated_word": "entender"
+              },
+              {
+                "word": "1",
+                "start": 154.095,
+                "end": 154.595,
+                "confidence": 0.9980469,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "coisa",
+                "start": 154.655,
+                "end": 154.815,
+                "confidence": 0.7819824,
+                "punctuated_word": "coisa,"
+              },
+              {
+                "word": "eu",
+                "start": 154.815,
+                "end": 155.05501,
+                "confidence": 0.9980469,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "preciso",
+                "start": 155.05501,
+                "end": 155.455,
+                "confidence": 1.0,
+                "punctuated_word": "preciso"
+              },
+              {
+                "word": "saber",
+                "start": 155.455,
+                "end": 155.955,
+                "confidence": 1.0,
+                "punctuated_word": "saber"
+              },
+              {
+                "word": "quais",
+                "start": 156.175,
+                "end": 156.41501,
+                "confidence": 0.98535156,
+                "punctuated_word": "quais"
+              },
+              {
+                "word": "são",
+                "start": 156.41501,
+                "end": 156.655,
+                "confidence": 1.0,
+                "punctuated_word": "são"
+              },
+              {
+                "word": "esses",
+                "start": 156.655,
+                "end": 156.975,
+                "confidence": 0.99316406,
+                "punctuated_word": "esses"
+              },
+              {
+                "word": "meu",
+                "start": 156.975,
+                "end": 157.21501,
+                "confidence": 0.6821289,
+                "punctuated_word": "meu"
+              },
+              {
+                "word": "esses",
+                "start": 157.21501,
+                "end": 157.71501,
+                "confidence": 0.640625,
+                "punctuated_word": "esses"
+              },
+              {
+                "word": "meus",
+                "start": 157.85501,
+                "end": 158.015,
+                "confidence": 0.9633789,
+                "punctuated_word": "meus"
+              },
+              {
+                "word": "quatros",
+                "start": 158.015,
+                "end": 158.49501,
+                "confidence": 0.9440918,
+                "punctuated_word": "quatros"
+              },
+              {
+                "word": "ou",
+                "start": 158.49501,
+                "end": 158.655,
+                "confidence": 0.99902344,
+                "punctuated_word": "ou"
+              },
+              {
+                "word": "5",
+                "start": 158.655,
+                "end": 159.05501,
+                "confidence": 0.8017578,
+                "punctuated_word": "5"
+              },
+              {
+                "word": "desencadeantes",
+                "start": 159.05501,
+                "end": 159.55501,
+                "confidence": 0.7783203,
+                "punctuated_word": "desencadeantes"
+              },
+              {
+                "word": "aqui",
+                "start": 159.77501,
+                "end": 160.27501,
+                "confidence": 0.9296875,
+                "punctuated_word": "aqui."
+              },
+              {
+                "word": "porque",
+                "start": 161.29501,
+                "end": 161.535,
+                "confidence": 0.9980469,
+                "punctuated_word": "Porque"
+              },
+              {
+                "word": "eles",
+                "start": 161.535,
+                "end": 161.77501,
+                "confidence": 0.99902344,
+                "punctuated_word": "eles"
+              },
+              {
+                "word": "vão",
+                "start": 161.77501,
+                "end": 161.93501,
+                "confidence": 0.99902344,
+                "punctuated_word": "vão"
+              },
+              {
+                "word": "se",
+                "start": 161.93501,
+                "end": 162.255,
+                "confidence": 0.99902344,
+                "punctuated_word": "se"
+              },
+              {
+                "word": "repetir",
+                "start": 162.255,
+                "end": 162.755,
+                "confidence": 0.88671875,
+                "punctuated_word": "repetir."
+              },
+              {
+                "word": "talvez",
+                "start": 163.66,
+                "end": 163.9,
+                "confidence": 0.99902344,
+                "punctuated_word": "Talvez"
+              },
+              {
+                "word": "você",
+                "start": 163.9,
+                "end": 163.98,
+                "confidence": 0.9970703,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "não",
+                "start": 163.98,
+                "end": 164.22,
+                "confidence": 1.0,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "consiga",
+                "start": 164.22,
+                "end": 164.7,
+                "confidence": 1.0,
+                "punctuated_word": "consiga"
+              },
+              {
+                "word": "exorcizar",
+                "start": 164.7,
+                "end": 165.18,
+                "confidence": 0.9983724,
+                "punctuated_word": "exorcizar"
+              },
+              {
+                "word": "eles",
+                "start": 165.18,
+                "end": 165.42,
+                "confidence": 0.99121094,
+                "punctuated_word": "eles"
+              },
+              {
+                "word": "de",
+                "start": 165.42,
+                "end": 165.58,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "você",
+                "start": 165.58,
+                "end": 165.98,
+                "confidence": 0.9375,
+                "punctuated_word": "você,"
+              },
+              {
+                "word": "talvez",
+                "start": 165.98,
+                "end": 166.3,
+                "confidence": 1.0,
+                "punctuated_word": "talvez"
+              },
+              {
+                "word": "eles",
+                "start": 166.3,
+                "end": 166.54,
+                "confidence": 0.99902344,
+                "punctuated_word": "eles"
+              },
+              {
+                "word": "continuem",
+                "start": 166.54,
+                "end": 166.94,
+                "confidence": 0.99609375,
+                "punctuated_word": "continuem"
+              },
+              {
+                "word": "dentro",
+                "start": 166.94,
+                "end": 167.18,
+                "confidence": 1.0,
+                "punctuated_word": "dentro"
+              },
+              {
+                "word": "de",
+                "start": 167.18,
+                "end": 167.34,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "você",
+                "start": 167.34,
+                "end": 167.5,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "por",
+                "start": 167.5,
+                "end": 167.66,
+                "confidence": 1.0,
+                "punctuated_word": "por"
+              },
+              {
+                "word": "1",
+                "start": 167.66,
+                "end": 167.74,
+                "confidence": 0.99902344,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "bom",
+                "start": 167.74,
+                "end": 167.98,
+                "confidence": 0.9970703,
+                "punctuated_word": "bom"
+              },
+              {
+                "word": "tempo",
+                "start": 167.98,
+                "end": 168.48,
+                "confidence": 0.93530273,
+                "punctuated_word": "tempo,"
+              },
+              {
+                "word": "mas",
+                "start": 168.54,
+                "end": 168.78,
+                "confidence": 0.9980469,
+                "punctuated_word": "mas"
+              },
+              {
+                "word": "o",
+                "start": 168.78,
+                "end": 168.86,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "fato",
+                "start": 168.86,
+                "end": 169.18,
+                "confidence": 0.9970703,
+                "punctuated_word": "fato"
+              },
+              {
+                "word": "de",
+                "start": 169.18,
+                "end": 169.42,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "já",
+                "start": 169.42,
+                "end": 169.66,
+                "confidence": 1.0,
+                "punctuated_word": "já"
+              },
+              {
+                "word": "saber",
+                "start": 169.66,
+                "end": 170.16,
+                "confidence": 1.0,
+                "punctuated_word": "saber"
+              },
+              {
+                "word": "quais",
+                "start": 171.02,
+                "end": 171.42,
+                "confidence": 0.96240234,
+                "punctuated_word": "quais"
+              },
+              {
+                "word": "são",
+                "start": 171.42,
+                "end": 171.66,
+                "confidence": 1.0,
+                "punctuated_word": "são"
+              },
+              {
+                "word": "eles",
+                "start": 171.66,
+                "end": 172.16,
+                "confidence": 1.0,
+                "punctuated_word": "eles"
+              },
+              {
+                "word": "já",
+                "start": 172.22,
+                "end": 172.38,
+                "confidence": 0.70458984,
+                "punctuated_word": "já"
+              },
+              {
+                "word": "te",
+                "start": 172.38,
+                "end": 172.54,
+                "confidence": 0.9980469,
+                "punctuated_word": "te"
+              },
+              {
+                "word": "ajuda",
+                "start": 172.54,
+                "end": 172.78,
+                "confidence": 0.9980469,
+                "punctuated_word": "ajuda"
+              },
+              {
+                "word": "muito",
+                "start": 172.78,
+                "end": 172.94,
+                "confidence": 0.99902344,
+                "punctuated_word": "muito"
+              },
+              {
+                "word": "nesse",
+                "start": 172.94,
+                "end": 173.26,
+                "confidence": 0.99902344,
+                "punctuated_word": "nesse"
+              },
+              {
+                "word": "processo",
+                "start": 173.26,
+                "end": 173.76,
+                "confidence": 0.9206543,
+                "punctuated_word": "processo."
+              },
+              {
+                "word": "como",
+                "start": 173.82,
+                "end": 173.9,
+                "confidence": 0.99902344,
+                "punctuated_word": "Como"
+              },
+              {
+                "word": "é",
+                "start": 173.9,
+                "end": 174.06,
+                "confidence": 0.99902344,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 174.06,
+                "end": 174.22,
+                "confidence": 1.0,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "vai",
+                "start": 174.22,
+                "end": 174.54,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "funcionar",
+                "start": 174.54,
+                "end": 174.78,
+                "confidence": 1.0,
+                "punctuated_word": "funcionar"
+              },
+              {
+                "word": "o",
+                "start": 174.78,
+                "end": 175.02,
+                "confidence": 0.9980469,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "nosso",
+                "start": 175.02,
+                "end": 175.18,
+                "confidence": 1.0,
+                "punctuated_word": "nosso"
+              },
+              {
+                "word": "exercício",
+                "start": 175.18,
+                "end": 175.68,
+                "confidence": 0.9980469,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "né",
+                "start": 175.9,
+                "end": 176.3,
+                "confidence": 0.7927246,
+                "punctuated_word": "né?"
+              },
+              {
+                "word": "está",
+                "start": 176.3,
+                "end": 176.46,
+                "confidence": 0.95410156,
+                "punctuated_word": "Está"
+              },
+              {
+                "word": "logo",
+                "start": 176.46,
+                "end": 176.78,
+                "confidence": 1.0,
+                "punctuated_word": "logo"
+              },
+              {
+                "word": "aqui",
+                "start": 176.78,
+                "end": 177.18,
+                "confidence": 0.814209,
+                "punctuated_word": "aqui,"
+              },
+              {
+                "word": "você",
+                "start": 177.18,
+                "end": 177.26,
+                "confidence": 0.9970703,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 177.26,
+                "end": 177.42,
+                "confidence": 0.9941406,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "fazer",
+                "start": 177.42,
+                "end": 177.5,
+                "confidence": 0.9980469,
+                "punctuated_word": "fazer"
+              },
+              {
+                "word": "a",
+                "start": 177.5,
+                "end": 177.66,
+                "confidence": 0.97314453,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "mesma",
+                "start": 177.66,
+                "end": 177.9,
+                "confidence": 0.99902344,
+                "punctuated_word": "mesma"
+              },
+              {
+                "word": "coisa",
+                "start": 177.9,
+                "end": 178.38,
+                "confidence": 0.8845215,
+                "punctuated_word": "coisa,"
+              },
+              {
+                "word": "você",
+                "start": 178.38,
+                "end": 178.54,
+                "confidence": 0.99902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 178.54,
+                "end": 179.04,
+                "confidence": 1.0,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "terminar",
+                "start": 179.49501,
+                "end": 179.77501,
+                "confidence": 1.0,
+                "punctuated_word": "terminar"
+              },
+              {
+                "word": "de",
+                "start": 179.77501,
+                "end": 180.05501,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "assistir",
+                "start": 180.05501,
+                "end": 180.215,
+                "confidence": 1.0,
+                "punctuated_word": "assistir"
+              },
+              {
+                "word": "essa",
+                "start": 180.215,
+                "end": 180.535,
+                "confidence": 0.9536133,
+                "punctuated_word": "essa"
+              },
+              {
+                "word": "aula",
+                "start": 180.535,
+                "end": 180.695,
+                "confidence": 0.9807129,
+                "punctuated_word": "aula,"
+              },
+              {
+                "word": "terminar",
+                "start": 180.695,
+                "end": 181.015,
+                "confidence": 0.9980469,
+                "punctuated_word": "terminar"
+              },
+              {
+                "word": "de",
+                "start": 181.015,
+                "end": 181.175,
+                "confidence": 0.9970703,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "assistir",
+                "start": 181.175,
+                "end": 181.41501,
+                "confidence": 0.9980469,
+                "punctuated_word": "assistir"
+              },
+              {
+                "word": "essa",
+                "start": 181.41501,
+                "end": 181.575,
+                "confidence": 0.84765625,
+                "punctuated_word": "essa"
+              },
+              {
+                "word": "explicação",
+                "start": 181.575,
+                "end": 182.075,
+                "confidence": 0.95458984,
+                "punctuated_word": "explicação,"
+              },
+              {
+                "word": "você",
+                "start": 182.535,
+                "end": 182.695,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 182.695,
+                "end": 183.175,
+                "confidence": 1.0,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "praticar",
+                "start": 183.175,
+                "end": 183.655,
+                "confidence": 1.0,
+                "punctuated_word": "praticar"
+              },
+              {
+                "word": "o",
+                "start": 183.655,
+                "end": 183.735,
+                "confidence": 0.99902344,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "exercício",
+                "start": 183.735,
+                "end": 184.235,
+                "confidence": 1.0,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "e",
+                "start": 184.615,
+                "end": 184.695,
+                "confidence": 0.5917969,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "depois",
+                "start": 184.695,
+                "end": 185.015,
+                "confidence": 1.0,
+                "punctuated_word": "depois"
+              },
+              {
+                "word": "você",
+                "start": 185.015,
+                "end": 185.175,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 185.175,
+                "end": 185.335,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "continuar",
+                "start": 185.335,
+                "end": 185.655,
+                "confidence": 1.0,
+                "punctuated_word": "continuar"
+              },
+              {
+                "word": "aqui",
+                "start": 185.655,
+                "end": 185.895,
+                "confidence": 0.9980469,
+                "punctuated_word": "aqui"
+              },
+              {
+                "word": "no",
+                "start": 185.895,
+                "end": 186.05501,
+                "confidence": 0.9970703,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "recomeço",
+                "start": 186.05501,
+                "end": 186.535,
+                "confidence": 0.72216797,
+                "punctuated_word": "recomeço"
+              },
+              {
+                "word": "tá",
+                "start": 186.535,
+                "end": 187.035,
+                "confidence": 0.69799805,
+                "punctuated_word": "tá,"
+              },
+              {
+                "word": "como",
+                "start": 187.495,
+                "end": 187.655,
+                "confidence": 0.99316406,
+                "punctuated_word": "como"
+              },
+              {
+                "word": "é",
+                "start": 187.655,
+                "end": 187.735,
+                "confidence": 0.9970703,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "que",
+                "start": 187.735,
+                "end": 187.975,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "funciona",
+                "start": 187.975,
+                "end": 188.475,
+                "confidence": 0.8190918,
+                "punctuated_word": "funciona,"
+              },
+              {
+                "word": "eu",
+                "start": 189.095,
+                "end": 189.255,
+                "confidence": 0.9448242,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "dou",
+                "start": 189.255,
+                "end": 189.495,
+                "confidence": 1.0,
+                "punctuated_word": "dou"
+              },
+              {
+                "word": "pra",
+                "start": 189.495,
+                "end": 189.655,
+                "confidence": 0.90527344,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 189.655,
+                "end": 190.13501,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "aqui",
+                "start": 190.13501,
+                "end": 190.63501,
+                "confidence": 0.99316406,
+                "punctuated_word": "aqui"
+              },
+              {
+                "word": "alguns",
+                "start": 190.935,
+                "end": 191.41501,
+                "confidence": 0.99316406,
+                "punctuated_word": "alguns"
+              },
+              {
+                "word": "desencadeantes",
+                "start": 191.41501,
+                "end": 191.91501,
+                "confidence": 0.9926758,
+                "punctuated_word": "desencadeantes"
+              },
+              {
+                "word": "mais",
+                "start": 192.13501,
+                "end": 192.535,
+                "confidence": 1.0,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "comuns",
+                "start": 192.535,
+                "end": 192.96,
+                "confidence": 0.9807129,
+                "punctuated_word": "comuns,"
+              },
+              {
+                "word": "no",
+                "start": 193.12001,
+                "end": 193.28001,
+                "confidence": 0.99902344,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "final",
+                "start": 193.28001,
+                "end": 193.36002,
+                "confidence": 1.0,
+                "punctuated_word": "final"
+              },
+              {
+                "word": "eu",
+                "start": 193.36002,
+                "end": 193.44,
+                "confidence": 0.80566406,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "deixo",
+                "start": 193.44,
+                "end": 193.92001,
+                "confidence": 0.9980469,
+                "punctuated_word": "deixo"
+              },
+              {
+                "word": "1",
+                "start": 193.92001,
+                "end": 194.08,
+                "confidence": 0.9941406,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "espaço",
+                "start": 194.08,
+                "end": 194.48001,
+                "confidence": 1.0,
+                "punctuated_word": "espaço"
+              },
+              {
+                "word": "pra",
+                "start": 194.48001,
+                "end": 194.64,
+                "confidence": 0.8676758,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 194.64,
+                "end": 194.96,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "né",
+                "start": 194.96,
+                "end": 195.20001,
+                "confidence": 0.7541504,
+                "punctuated_word": "né,"
+              },
+              {
+                "word": "1",
+                "start": 195.20001,
+                "end": 195.36,
+                "confidence": 0.9980469,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "espaço",
+                "start": 195.36,
+                "end": 195.6,
+                "confidence": 1.0,
+                "punctuated_word": "espaço"
+              },
+              {
+                "word": "de",
+                "start": 195.6,
+                "end": 195.84001,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "outros",
+                "start": 195.84001,
+                "end": 196.16,
+                "confidence": 1.0,
+                "punctuated_word": "outros"
+              },
+              {
+                "word": "aqui",
+                "start": 196.16,
+                "end": 196.48001,
+                "confidence": 0.7347412,
+                "punctuated_word": "aqui,"
+              },
+              {
+                "word": "pra",
+                "start": 196.48001,
+                "end": 196.64,
+                "confidence": 0.9248047,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 196.64,
+                "end": 197.14,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "talvez",
+                "start": 197.28,
+                "end": 197.68001,
+                "confidence": 0.81933594,
+                "punctuated_word": "talvez"
+              },
+              {
+                "word": "você",
+                "start": 197.68001,
+                "end": 197.92001,
+                "confidence": 0.9838867,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "né",
+                "start": 197.92001,
+                "end": 198.24,
+                "confidence": 0.88964844,
+                "punctuated_word": "né"
+              },
+              {
+                "word": "tenha",
+                "start": 198.24,
+                "end": 198.48001,
+                "confidence": 0.58496094,
+                "punctuated_word": "tenha"
+              },
+              {
+                "word": "lá",
+                "start": 198.48001,
+                "end": 198.64,
+                "confidence": 0.9980469,
+                "punctuated_word": "lá"
+              },
+              {
+                "word": "1",
+                "start": 198.64,
+                "end": 198.8,
+                "confidence": 0.99609375,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "outro",
+                "start": 198.8,
+                "end": 198.96,
+                "confidence": 0.9970703,
+                "punctuated_word": "outro"
+              },
+              {
+                "word": "desencadeante",
+                "start": 198.96,
+                "end": 199.44,
+                "confidence": 1.0,
+                "punctuated_word": "desencadeante"
+              },
+              {
+                "word": "que",
+                "start": 199.44,
+                "end": 199.6,
+                "confidence": 0.9941406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 199.6,
+                "end": 199.84001,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "perceba",
+                "start": 199.84001,
+                "end": 200.16,
+                "confidence": 1.0,
+                "punctuated_word": "perceba"
+              },
+              {
+                "word": "e",
+                "start": 200.16,
+                "end": 200.32,
+                "confidence": 0.95703125,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "que",
+                "start": 200.32,
+                "end": 200.40001,
+                "confidence": 0.9980469,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "eu",
+                "start": 200.40001,
+                "end": 200.48001,
+                "confidence": 0.9970703,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "não",
+                "start": 200.48001,
+                "end": 200.56001,
+                "confidence": 0.99902344,
+                "punctuated_word": "não"
+              },
+              {
+                "word": "tenha",
+                "start": 200.56001,
+                "end": 200.8,
+                "confidence": 0.95703125,
+                "punctuated_word": "tenha"
+              },
+              {
+                "word": "citado",
+                "start": 200.8,
+                "end": 201.3,
+                "confidence": 0.91064453,
+                "punctuated_word": "citado."
+              },
+              {
+                "word": "o",
+                "start": 201.84001,
+                "end": 202.0,
+                "confidence": 0.5961914,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "que",
+                "start": 202.0,
+                "end": 202.24,
+                "confidence": 0.99121094,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "que",
+                "start": 202.24,
+                "end": 202.32,
+                "confidence": 0.9716797,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "você",
+                "start": 202.32,
+                "end": 202.56001,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 202.56001,
+                "end": 202.64,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "fazer",
+                "start": 202.64,
+                "end": 203.12001,
+                "confidence": 0.90771484,
+                "punctuated_word": "fazer?"
+              },
+              {
+                "word": "você",
+                "start": 203.12001,
+                "end": 203.28,
+                "confidence": 1.0,
+                "punctuated_word": "Você"
+              },
+              {
+                "word": "vai",
+                "start": 203.28,
+                "end": 203.68001,
+                "confidence": 1.0,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "assinar",
+                "start": 203.68001,
+                "end": 204.16,
+                "confidence": 0.79003906,
+                "punctuated_word": "assinar"
+              },
+              {
+                "word": "lá",
+                "start": 204.16,
+                "end": 204.66,
+                "confidence": 0.91259766,
+                "punctuated_word": "lá"
+              },
+              {
+                "word": "quais",
+                "start": 204.72,
+                "end": 205.04001,
+                "confidence": 0.93847656,
+                "punctuated_word": "quais"
+              },
+              {
+                "word": "são",
+                "start": 205.04001,
+                "end": 205.44,
+                "confidence": 0.99902344,
+                "punctuated_word": "são"
+              },
+              {
+                "word": "os",
+                "start": 205.44,
+                "end": 205.76001,
+                "confidence": 1.0,
+                "punctuated_word": "os"
+              },
+              {
+                "word": "desencadeantes",
+                "start": 205.76001,
+                "end": 206.26001,
+                "confidence": 0.99853516,
+                "punctuated_word": "desencadeantes"
+              },
+              {
+                "word": "mais",
+                "start": 207.63501,
+                "end": 208.13501,
+                "confidence": 0.99902344,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "comuns",
+                "start": 209.235,
+                "end": 209.315,
+                "confidence": 0.99902344,
+                "punctuated_word": "comuns"
+              },
+              {
+                "word": "que",
+                "start": 209.315,
+                "end": 209.55501,
+                "confidence": 0.8911133,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "acontecem",
+                "start": 209.55501,
+                "end": 210.035,
+                "confidence": 1.0,
+                "punctuated_word": "acontecem"
+              },
+              {
+                "word": "contigo",
+                "start": 210.035,
+                "end": 210.515,
+                "confidence": 0.984375,
+                "punctuated_word": "contigo."
+              },
+              {
+                "word": "então",
+                "start": 210.515,
+                "end": 210.91501,
+                "confidence": 1.0,
+                "punctuated_word": "Então"
+              },
+              {
+                "word": "só",
+                "start": 210.91501,
+                "end": 211.235,
+                "confidence": 0.5107422,
+                "punctuated_word": "só"
+              },
+              {
+                "word": "pra",
+                "start": 211.235,
+                "end": 211.395,
+                "confidence": 0.72021484,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 211.395,
+                "end": 211.55501,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "ter",
+                "start": 211.55501,
+                "end": 211.715,
+                "confidence": 0.99902344,
+                "punctuated_word": "ter"
+              },
+              {
+                "word": "1",
+                "start": 211.715,
+                "end": 211.795,
+                "confidence": 0.99902344,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "ideia",
+                "start": 211.795,
+                "end": 212.195,
+                "confidence": 0.9313965,
+                "punctuated_word": "ideia,"
+              },
+              {
+                "word": "casa",
+                "start": 212.195,
+                "end": 212.595,
+                "confidence": 1.0,
+                "punctuated_word": "casa"
+              },
+              {
+                "word": "vazia",
+                "start": 212.595,
+                "end": 213.095,
+                "confidence": 0.9975586,
+                "punctuated_word": "vazia,"
+              },
+              {
+                "word": "tempo",
+                "start": 213.55501,
+                "end": 213.875,
+                "confidence": 1.0,
+                "punctuated_word": "tempo"
+              },
+              {
+                "word": "livre",
+                "start": 213.875,
+                "end": 214.375,
+                "confidence": 1.0,
+                "punctuated_word": "livre,"
+              },
+              {
+                "word": "ter",
+                "start": 214.995,
+                "end": 215.235,
+                "confidence": 1.0,
+                "punctuated_word": "ter"
+              },
+              {
+                "word": "dinheiro",
+                "start": 215.235,
+                "end": 215.735,
+                "confidence": 1.0,
+                "punctuated_word": "dinheiro"
+              },
+              {
+                "word": "disponível",
+                "start": 215.875,
+                "end": 216.375,
+                "confidence": 1.0,
+                "punctuated_word": "disponível,"
+              },
+              {
+                "word": "estar",
+                "start": 217.315,
+                "end": 217.55501,
+                "confidence": 1.0,
+                "punctuated_word": "estar"
+              },
+              {
+                "word": "viajando",
+                "start": 217.55501,
+                "end": 218.05501,
+                "confidence": 0.99853516,
+                "punctuated_word": "viajando,"
+              },
+              {
+                "word": "sentimento",
+                "start": 219.65001,
+                "end": 220.05,
+                "confidence": 0.9951172,
+                "punctuated_word": "sentimento"
+              },
+              {
+                "word": "de",
+                "start": 220.05,
+                "end": 220.37,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "tédio",
+                "start": 220.37,
+                "end": 220.87,
+                "confidence": 0.9890137,
+                "punctuated_word": "tédio,"
+              },
+              {
+                "word": "estresse",
+                "start": 221.25,
+                "end": 221.73,
+                "confidence": 0.9614258,
+                "punctuated_word": "estresse,"
+              },
+              {
+                "word": "raiva",
+                "start": 221.73,
+                "end": 222.23,
+                "confidence": 0.9995117,
+                "punctuated_word": "raiva,"
+              },
+              {
+                "word": "autopiedade",
+                "start": 222.77,
+                "end": 223.27,
+                "confidence": 0.98327637,
+                "punctuated_word": "autopiedade,"
+              },
+              {
+                "word": "cansaço",
+                "start": 224.21,
+                "end": 224.71,
+                "confidence": 1.0,
+                "punctuated_word": "cansaço"
+              },
+              {
+                "word": "e",
+                "start": 225.89,
+                "end": 225.97,
+                "confidence": 0.56103516,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "por",
+                "start": 225.97,
+                "end": 226.23,
+                "confidence": 0.99902344,
+                "punctuated_word": "por"
+              },
+              {
+                "word": "aí",
+                "start": 226.23,
+                "end": 226.49,
+                "confidence": 0.9902344,
+                "punctuated_word": "aí"
+              },
+              {
+                "word": "vai",
+                "start": 226.49,
+                "end": 226.75,
+                "confidence": 0.76049805,
+                "punctuated_word": "vai,"
+              },
+              {
+                "word": "tá",
+                "start": 226.75,
+                "end": 227.01,
+                "confidence": 0.95751953,
+                "punctuated_word": "tá?"
+              },
+              {
+                "word": "eles",
+                "start": 227.01,
+                "end": 227.27,
+                "confidence": 0.5810547,
+                "punctuated_word": "Eles"
+              },
+              {
+                "word": "têm",
+                "start": 227.27,
+                "end": 227.53,
+                "confidence": 0.7675781,
+                "punctuated_word": "têm"
+              },
+              {
+                "word": "que",
+                "start": 227.53,
+                "end": 227.79,
+                "confidence": 0.9892578,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "acho",
+                "start": 227.79,
+                "end": 228.05,
+                "confidence": 0.57958984,
+                "punctuated_word": "acho"
+              },
+              {
+                "word": "que",
+                "start": 228.05,
+                "end": 228.31,
+                "confidence": 0.99609375,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "deve",
+                "start": 228.31,
+                "end": 228.56999,
+                "confidence": 0.99316406,
+                "punctuated_word": "deve"
+              },
+              {
+                "word": "ter",
+                "start": 228.56999,
+                "end": 228.83,
+                "confidence": 0.98828125,
+                "punctuated_word": "ter"
+              },
+              {
+                "word": "uns",
+                "start": 228.83,
+                "end": 229.09,
+                "confidence": 0.99121094,
+                "punctuated_word": "uns"
+              },
+              {
+                "word": "1",
+                "start": 229.09,
+                "end": 229.25,
+                "confidence": 0.59521484,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "pouco",
+                "start": 229.25,
+                "end": 229.49,
+                "confidence": 1.0,
+                "punctuated_word": "pouco"
+              },
+              {
+                "word": "mais",
+                "start": 229.49,
+                "end": 229.65,
+                "confidence": 0.99902344,
+                "punctuated_word": "mais"
+              },
+              {
+                "word": "de",
+                "start": 229.65,
+                "end": 229.81,
+                "confidence": 1.0,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "20",
+                "start": 229.81,
+                "end": 230.31,
+                "confidence": 0.99902344,
+                "punctuated_word": "20"
+              },
+              {
+                "word": "desencadeantes",
+                "start": 230.85,
+                "end": 231.33,
+                "confidence": 0.98413086,
+                "punctuated_word": "desencadeantes"
+              },
+              {
+                "word": "que",
+                "start": 231.33,
+                "end": 231.49,
+                "confidence": 0.98291016,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "eu",
+                "start": 231.49,
+                "end": 231.65,
+                "confidence": 1.0,
+                "punctuated_word": "eu"
+              },
+              {
+                "word": "consegui",
+                "start": 231.65,
+                "end": 231.97,
+                "confidence": 0.88183594,
+                "punctuated_word": "consegui"
+              },
+              {
+                "word": "mapear",
+                "start": 231.97,
+                "end": 232.47,
+                "confidence": 1.0,
+                "punctuated_word": "mapear"
+              },
+              {
+                "word": "e",
+                "start": 232.85,
+                "end": 233.01,
+                "confidence": 0.8720703,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "e",
+                "start": 233.01,
+                "end": 233.175,
+                "confidence": 0.5019531,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "colocar",
+                "start": 233.335,
+                "end": 233.575,
+                "confidence": 0.99609375,
+                "punctuated_word": "colocar"
+              },
+              {
+                "word": "aqui",
+                "start": 233.575,
+                "end": 233.735,
+                "confidence": 0.9980469,
+                "punctuated_word": "aqui"
+              },
+              {
+                "word": "pra",
+                "start": 233.735,
+                "end": 233.895,
+                "confidence": 0.8691406,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 233.895,
+                "end": 234.13501,
+                "confidence": 0.9902344,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "e",
+                "start": 234.13501,
+                "end": 234.215,
+                "confidence": 0.7363281,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "tem",
+                "start": 234.215,
+                "end": 234.375,
+                "confidence": 0.9819336,
+                "punctuated_word": "tem"
+              },
+              {
+                "word": "1",
+                "start": 234.375,
+                "end": 234.535,
+                "confidence": 0.94970703,
+                "punctuated_word": "1"
+              },
+              {
+                "word": "espaço",
+                "start": 234.535,
+                "end": 234.855,
+                "confidence": 0.99902344,
+                "punctuated_word": "espaço"
+              },
+              {
+                "word": "ali",
+                "start": 234.855,
+                "end": 235.095,
+                "confidence": 0.8676758,
+                "punctuated_word": "ali"
+              },
+              {
+                "word": "pra",
+                "start": 235.095,
+                "end": 235.335,
+                "confidence": 0.9199219,
+                "punctuated_word": "pra"
+              },
+              {
+                "word": "você",
+                "start": 235.335,
+                "end": 235.49501,
+                "confidence": 0.99609375,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "colocar",
+                "start": 235.49501,
+                "end": 235.895,
+                "confidence": 1.0,
+                "punctuated_word": "colocar"
+              },
+              {
+                "word": "algum",
+                "start": 235.895,
+                "end": 236.215,
+                "confidence": 0.99609375,
+                "punctuated_word": "algum"
+              },
+              {
+                "word": "outro",
+                "start": 236.215,
+                "end": 236.615,
+                "confidence": 0.7188721,
+                "punctuated_word": "outro."
+              },
+              {
+                "word": "clareza",
+                "start": 236.615,
+                "end": 237.095,
+                "confidence": 0.9855957,
+                "punctuated_word": "Clareza"
+              },
+              {
+                "word": "no",
+                "start": 237.095,
+                "end": 237.335,
+                "confidence": 0.9482422,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "processo",
+                "start": 237.335,
+                "end": 237.735,
+                "confidence": 0.8400879,
+                "punctuated_word": "processo."
+              },
+              {
+                "word": "o",
+                "start": 237.735,
+                "end": 237.815,
+                "confidence": 0.9921875,
+                "punctuated_word": "O"
+              },
+              {
+                "word": "que",
+                "start": 237.815,
+                "end": 237.975,
+                "confidence": 0.9243164,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "que",
+                "start": 237.975,
+                "end": 238.13501,
+                "confidence": 0.88671875,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "é",
+                "start": 238.13501,
+                "end": 238.215,
+                "confidence": 0.96777344,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "clareza",
+                "start": 238.215,
+                "end": 238.535,
+                "confidence": 0.99902344,
+                "punctuated_word": "clareza"
+              },
+              {
+                "word": "no",
+                "start": 238.535,
+                "end": 238.695,
+                "confidence": 0.92822266,
+                "punctuated_word": "no"
+              },
+              {
+                "word": "processo",
+                "start": 238.695,
+                "end": 239.195,
+                "confidence": 0.9970703,
+                "punctuated_word": "processo?"
+              },
+              {
+                "word": "daqui",
+                "start": 239.255,
+                "end": 239.575,
+                "confidence": 0.99902344,
+                "punctuated_word": "Daqui"
+              },
+              {
+                "word": "a",
+                "start": 239.575,
+                "end": 239.735,
+                "confidence": 0.9589844,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "pouco",
+                "start": 239.735,
+                "end": 240.215,
+                "confidence": 0.77685547,
+                "punctuated_word": "pouco,"
+              },
+              {
+                "word": "em",
+                "start": 240.215,
+                "end": 240.455,
+                "confidence": 1.0,
+                "punctuated_word": "em"
+              },
+              {
+                "word": "algum",
+                "start": 240.455,
+                "end": 240.695,
+                "confidence": 1.0,
+                "punctuated_word": "algum"
+              },
+              {
+                "word": "momento",
+                "start": 240.695,
+                "end": 241.195,
+                "confidence": 0.9707031,
+                "punctuated_word": "momento,"
+              },
+              {
+                "word": "você",
+                "start": 241.895,
+                "end": 242.13501,
+                "confidence": 1.0,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 242.13501,
+                "end": 242.375,
+                "confidence": 0.99902344,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "sentir",
+                "start": 242.375,
+                "end": 242.615,
+                "confidence": 0.99902344,
+                "punctuated_word": "sentir"
+              },
+              {
+                "word": "vontade",
+                "start": 242.615,
+                "end": 242.855,
+                "confidence": 0.9980469,
+                "punctuated_word": "vontade"
+              },
+              {
+                "word": "de",
+                "start": 242.855,
+                "end": 243.015,
+                "confidence": 0.99902344,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "ver",
+                "start": 243.015,
+                "end": 243.095,
+                "confidence": 0.9892578,
+                "punctuated_word": "ver"
+              },
+              {
+                "word": "pornografia",
+                "start": 243.095,
+                "end": 243.595,
+                "confidence": 0.79345703,
+                "punctuated_word": "pornografia,"
+              },
+              {
+                "word": "você",
+                "start": 244.295,
+                "end": 244.455,
+                "confidence": 0.9980469,
+                "punctuated_word": "você"
+              },
+              {
+                "word": "vai",
+                "start": 244.455,
+                "end": 244.615,
+                "confidence": 1.0,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "sentir",
+                "start": 244.615,
+                "end": 244.855,
+                "confidence": 0.99902344,
+                "punctuated_word": "sentir"
+              },
+              {
+                "word": "vontade",
+                "start": 244.855,
+                "end": 245.175,
+                "confidence": 0.99902344,
+                "punctuated_word": "vontade"
+              },
+              {
+                "word": "de",
+                "start": 245.175,
+                "end": 245.335,
+                "confidence": 0.99316406,
+                "punctuated_word": "de"
+              },
+              {
+                "word": "ver",
+                "start": 245.335,
+                "end": 245.41501,
+                "confidence": 0.99609375,
+                "punctuated_word": "ver"
+              },
+              {
+                "word": "pornografia",
+                "start": 245.41501,
+                "end": 245.91501,
+                "confidence": 0.7714844,
+                "punctuated_word": "pornografia."
+              },
+              {
+                "word": "e",
+                "start": 246.51,
+                "end": 246.75,
+                "confidence": 1.0,
+                "punctuated_word": "E"
+              },
+              {
+                "word": "nesse",
+                "start": 246.75,
+                "end": 247.15,
+                "confidence": 0.99902344,
+                "punctuated_word": "nesse"
+              },
+              {
+                "word": "momento",
+                "start": 247.15,
+                "end": 247.39,
+                "confidence": 1.0,
+                "punctuated_word": "momento"
+              },
+              {
+                "word": "a",
+                "start": 247.39,
+                "end": 247.55,
+                "confidence": 0.99316406,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 247.55,
+                "end": 247.87,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "vai",
+                "start": 247.87,
+                "end": 248.03,
+                "confidence": 0.96972656,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "ver",
+                "start": 248.03,
+                "end": 248.11,
+                "confidence": 0.99121094,
+                "punctuated_word": "ver"
+              },
+              {
+                "word": "o",
+                "start": 248.11,
+                "end": 248.27,
+                "confidence": 0.99609375,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "que",
+                "start": 248.27,
+                "end": 248.35,
+                "confidence": 0.99316406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "que",
+                "start": 248.35,
+                "end": 248.43,
+                "confidence": 0.96875,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "a",
+                "start": 248.43,
+                "end": 248.51,
+                "confidence": 0.99609375,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 248.51,
+                "end": 248.67,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "precisa",
+                "start": 248.67,
+                "end": 248.83,
+                "confidence": 0.9980469,
+                "punctuated_word": "precisa"
+              },
+              {
+                "word": "fazer",
+                "start": 248.83,
+                "end": 249.06999,
+                "confidence": 1.0,
+                "punctuated_word": "fazer"
+              },
+              {
+                "word": "nesse",
+                "start": 249.06999,
+                "end": 249.31,
+                "confidence": 0.9980469,
+                "punctuated_word": "nesse"
+              },
+              {
+                "word": "momento",
+                "start": 249.31,
+                "end": 249.81,
+                "confidence": 0.7644043,
+                "punctuated_word": "momento."
+              },
+              {
+                "word": "nesse",
+                "start": 250.35,
+                "end": 250.67,
+                "confidence": 0.99902344,
+                "punctuated_word": "Nesse"
+              },
+              {
+                "word": "momento",
+                "start": 250.67,
+                "end": 250.83,
+                "confidence": 1.0,
+                "punctuated_word": "momento"
+              },
+              {
+                "word": "a",
+                "start": 250.83,
+                "end": 250.99,
+                "confidence": 0.95410156,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "1º",
+                "start": 250.99,
+                "end": 251.23,
+                "confidence": 1.0,
+                "punctuated_word": "1º"
+              },
+              {
+                "word": "coisa",
+                "start": 251.23,
+                "end": 251.39,
+                "confidence": 0.9970703,
+                "punctuated_word": "coisa"
+              },
+              {
+                "word": "que",
+                "start": 251.39,
+                "end": 251.47,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "a",
+                "start": 251.47,
+                "end": 251.55,
+                "confidence": 0.9980469,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 251.55,
+                "end": 251.70999,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "tem",
+                "start": 251.70999,
+                "end": 251.87,
+                "confidence": 0.99121094,
+                "punctuated_word": "tem"
+              },
+              {
+                "word": "que",
+                "start": 251.87,
+                "end": 252.03,
+                "confidence": 0.9941406,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "entender",
+                "start": 252.03,
+                "end": 252.35,
+                "confidence": 1.0,
+                "punctuated_word": "entender"
+              },
+              {
+                "word": "é",
+                "start": 252.35,
+                "end": 252.85,
+                "confidence": 0.8935547,
+                "punctuated_word": "é,"
+              },
+              {
+                "word": "qual",
+                "start": 253.39,
+                "end": 253.55,
+                "confidence": 0.99609375,
+                "punctuated_word": "qual"
+              },
+              {
+                "word": "que",
+                "start": 253.55,
+                "end": 253.70999,
+                "confidence": 0.9980469,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "é",
+                "start": 253.70999,
+                "end": 253.79,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 253.79,
+                "end": 253.95,
+                "confidence": 0.9863281,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "desencadeante",
+                "start": 253.95,
+                "end": 254.45,
+                "confidence": 0.9710286,
+                "punctuated_word": "desencadeante?"
+              },
+              {
+                "word": "isso",
+                "start": 255.23,
+                "end": 255.31,
+                "confidence": 0.8173828,
+                "punctuated_word": "Isso"
+              },
+              {
+                "word": "tem",
+                "start": 255.31,
+                "end": 255.55,
+                "confidence": 0.7583008,
+                "punctuated_word": "tem"
+              },
+              {
+                "word": "que",
+                "start": 255.55,
+                "end": 255.70999,
+                "confidence": 0.99902344,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "vim",
+                "start": 255.70999,
+                "end": 255.87,
+                "confidence": 0.9370117,
+                "punctuated_word": "vim"
+              },
+              {
+                "word": "assim",
+                "start": 255.87,
+                "end": 256.11,
+                "confidence": 1.0,
+                "punctuated_word": "assim"
+              },
+              {
+                "word": "olha",
+                "start": 256.11,
+                "end": 256.61,
+                "confidence": 0.9543457,
+                "punctuated_word": "olha,"
+              },
+              {
+                "word": "automático",
+                "start": 257.07,
+                "end": 257.57,
+                "confidence": 0.7548828,
+                "punctuated_word": "automático."
+              },
+              {
+                "word": "qual",
+                "start": 257.87698,
+                "end": 257.997,
+                "confidence": 1.0,
+                "punctuated_word": "Qual"
+              },
+              {
+                "word": "que",
+                "start": 257.997,
+                "end": 258.117,
+                "confidence": 0.9370117,
+                "punctuated_word": "que"
+              },
+              {
+                "word": "é",
+                "start": 258.117,
+                "end": 258.277,
+                "confidence": 1.0,
+                "punctuated_word": "é"
+              },
+              {
+                "word": "o",
+                "start": 258.277,
+                "end": 258.517,
+                "confidence": 0.984375,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "desencadeante",
+                "start": 258.517,
+                "end": 258.997,
+                "confidence": 0.8252767,
+                "punctuated_word": "desencadeante?"
+              },
+              {
+                "word": "está",
+                "start": 258.997,
+                "end": 259.477,
+                "confidence": 0.73291016,
+                "punctuated_word": "Está"
+              },
+              {
+                "word": "bom",
+                "start": 259.477,
+                "end": 259.637,
+                "confidence": 0.99658203,
+                "punctuated_word": "bom?"
+              },
+              {
+                "word": "pra",
+                "start": 259.637,
+                "end": 259.87698,
+                "confidence": 0.9267578,
+                "punctuated_word": "Pra"
+              },
+              {
+                "word": "gente",
+                "start": 259.87698,
+                "end": 260.117,
+                "confidence": 0.9716797,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "conseguir",
+                "start": 260.117,
+                "end": 260.357,
+                "confidence": 0.9980469,
+                "punctuated_word": "conseguir"
+              },
+              {
+                "word": "ordenar",
+                "start": 260.357,
+                "end": 260.857,
+                "confidence": 0.99609375,
+                "punctuated_word": "ordenar"
+              },
+              {
+                "word": "todas",
+                "start": 261.317,
+                "end": 261.637,
+                "confidence": 0.9277344,
+                "punctuated_word": "todas"
+              },
+              {
+                "word": "essas",
+                "start": 261.637,
+                "end": 262.137,
+                "confidence": 0.9941406,
+                "punctuated_word": "essas"
+              },
+              {
+                "word": "paixões",
+                "start": 262.597,
+                "end": 262.99698,
+                "confidence": 0.99658203,
+                "punctuated_word": "paixões."
+              },
+              {
+                "word": "na",
+                "start": 262.99698,
+                "end": 263.15698,
+                "confidence": 1.0,
+                "punctuated_word": "Na"
+              },
+              {
+                "word": "próxima",
+                "start": 263.15698,
+                "end": 263.637,
+                "confidence": 1.0,
+                "punctuated_word": "próxima"
+              },
+              {
+                "word": "aula",
+                "start": 263.637,
+                "end": 263.87698,
+                "confidence": 0.99902344,
+                "punctuated_word": "aula"
+              },
+              {
+                "word": "a",
+                "start": 263.87698,
+                "end": 264.037,
+                "confidence": 0.7114258,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "gente",
+                "start": 264.037,
+                "end": 264.197,
+                "confidence": 1.0,
+                "punctuated_word": "gente"
+              },
+              {
+                "word": "vai",
+                "start": 264.197,
+                "end": 264.677,
+                "confidence": 0.9970703,
+                "punctuated_word": "vai"
+              },
+              {
+                "word": "continuar",
+                "start": 264.677,
+                "end": 264.917,
+                "confidence": 1.0,
+                "punctuated_word": "continuar"
+              },
+              {
+                "word": "falando",
+                "start": 264.917,
+                "end": 265.397,
+                "confidence": 1.0,
+                "punctuated_word": "falando"
+              },
+              {
+                "word": "sobre",
+                "start": 265.397,
+                "end": 265.71698,
+                "confidence": 0.98095703,
+                "punctuated_word": "sobre"
+              },
+              {
+                "word": "esse",
+                "start": 265.71698,
+                "end": 265.87698,
+                "confidence": 0.99609375,
+                "punctuated_word": "esse"
+              },
+              {
+                "word": "processo",
+                "start": 265.87698,
+                "end": 266.357,
+                "confidence": 0.99902344,
+                "punctuated_word": "processo"
+              },
+              {
+                "word": "todo",
+                "start": 266.357,
+                "end": 266.597,
+                "confidence": 0.99902344,
+                "punctuated_word": "todo"
+              },
+              {
+                "word": "do",
+                "start": 266.597,
+                "end": 266.837,
+                "confidence": 0.78564453,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "círculo",
+                "start": 266.837,
+                "end": 267.15698,
+                "confidence": 0.79418945,
+                "punctuated_word": "círculo."
+              },
+              {
+                "word": "faça",
+                "start": 267.15698,
+                "end": 267.557,
+                "confidence": 0.9770508,
+                "punctuated_word": "Faça"
+              },
+              {
+                "word": "o",
+                "start": 267.557,
+                "end": 267.637,
+                "confidence": 0.92822266,
+                "punctuated_word": "o"
+              },
+              {
+                "word": "exercício",
+                "start": 267.637,
+                "end": 268.117,
+                "confidence": 1.0,
+                "punctuated_word": "exercício"
+              },
+              {
+                "word": "e",
+                "start": 268.117,
+                "end": 268.27698,
+                "confidence": 0.9970703,
+                "punctuated_word": "e"
+              },
+              {
+                "word": "volte",
+                "start": 268.27698,
+                "end": 268.43698,
+                "confidence": 0.9536133,
+                "punctuated_word": "volte"
+              },
+              {
+                "word": "aqui",
+                "start": 268.43698,
+                "end": 268.93698,
+                "confidence": 0.9797363,
+                "punctuated_word": "aqui."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nVocê viu ali no nosso exercício anterior, como é que você teve 1 né assim provavelmente se você fez o exercício no espírito correto, você ali agora conseguiu perceber como é que você geralmente maneja suas emoções, não é, como é que você maneja ansiedade, você tem manejado bem? Mal? Mais ou menos? Como é que você maneja a injustiça? Como é que você maneja frustração?\n\nComo é que você maneja sobrecarga? Você você maneja bem sobrecarga? Você sabe manejar sobrecarga? Você não sabe manejar sobrecarga? Presta atenção, 1 pessoa que ainda não sabe manejar sobrecarga tá, e aí vamos pensar sobrecarga de trabalho, sobrecarga emocional, sobrecarga de problema em casa, sobrecarga de problema consigo mesmo.\n\n1 pessoa que não consegue manejar esse tipo de sobrecarga, é 1 pessoa que precisa aprender a fazer isso o quanto antes, tanto pra amadurecer como pessoa humana, tanto pra não cair no problema da pornografia e é esse caminho que a gente vai trilhar aqui ao longo do nosso curso está bom? Na aula de hoje eu quero falar com você sobre o problema do desencadeante, então a gente vai pensar né, quando a gente vai lá no nosso ciclo, no ciclo do vício, o desencadeante ele é o 1º movimento né, a 1º coisa que acontece lá. O que que é o desencadeante? O desencadeante ele é 1 momento em que o ciclo todo começa, ou seja, você viu 1 imagem pornográfica ou ou seja, você viu 1 imagem pornográfica ou você experimentou 1 sentimento naquele momento, então o desencadeante é onde tudo de fato começa, é quando você começa a flertar com a imagem pornográfica, está bom? Eu quero que você comece a perceber quais são esses desencadeantes quais são, presta atenção, quais são os desencadeantes mais comuns em você, você precisa saber disso.\n\nSabe por quê? Porque eles nunca vão mudar, eles vão ser exatamente o mesmo. Eu preciso que você preste muita atenção nisso aqui, você olhar pra dentro de si, você vai perceber que todas as vezes que você cai na pornografia, olha só o desencadeante aquilo que começou essa queda, assim olha geralmente é a mesma coisa, 1 2 3 no máximo 4 ali diferentes. Qual é o nosso trabalho? O nosso trabalho é muito simples, parece que é complexo sair da pornografia porque ninguém ensina como, mas quando você cai aqui no recomeço casal que a gente está dando aqui você percebe que é muito simples.\n\nE como assim muito simples? É muito simples você precisa entender 1 coisa, eu preciso saber quais são esses meu esses meus quatros ou 5 desencadeantes aqui. Porque eles vão se repetir. Talvez você não consiga exorcizar eles de você, talvez eles continuem dentro de você por 1 bom tempo, mas o fato de já saber quais são eles já te ajuda muito nesse processo. Como é que vai funcionar o nosso exercício né?\n\nEstá logo aqui, você vai fazer a mesma coisa, você vai terminar de assistir essa aula, terminar de assistir essa explicação, você vai praticar o exercício e depois você vai continuar aqui no recomeço tá, como é que funciona, eu dou pra você aqui alguns desencadeantes mais comuns, no final eu deixo 1 espaço pra você né, 1 espaço de outros aqui, pra você talvez você né tenha lá 1 outro desencadeante que você perceba e que eu não tenha citado. O que que você vai fazer? Você vai assinar lá quais são os desencadeantes mais comuns que acontecem contigo. Então só pra você ter 1 ideia, casa vazia, tempo livre, ter dinheiro disponível, estar viajando, sentimento de tédio, estresse, raiva, autopiedade, cansaço e por aí vai, tá? Eles têm que acho que deve ter uns 1 pouco mais de 20 desencadeantes que eu consegui mapear e e colocar aqui pra você e tem 1 espaço ali pra você colocar algum outro.\n\nClareza no processo. O que que é clareza no processo? Daqui a pouco, em algum momento, você vai sentir vontade de ver pornografia, você vai sentir vontade de ver pornografia. E nesse momento a gente vai ver o que que a gente precisa fazer nesse momento. Nesse momento a 1º coisa que a gente tem que entender é, qual que é o desencadeante?\n\nIsso tem que vim assim olha, automático. Qual que é o desencadeante? Está bom? Pra gente conseguir ordenar todas essas paixões. Na próxima aula a gente vai continuar falando sobre esse processo todo do círculo.\n\nFaça o exercício e volte aqui.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Você viu ali no nosso exercício anterior, como é que você teve 1 né assim provavelmente se você fez o exercício no espírito correto, você ali agora conseguiu perceber como é que você geralmente maneja suas emoções, não é, como é que você maneja ansiedade, você tem manejado bem?",
+                      "start": 0.24,
+                      "end": 18.105
+                    },
+                    {
+                      "text": "Mal?",
+                      "start": 18.244999,
+                      "end": 18.744999
+                    },
+                    {
+                      "text": "Mais ou menos?",
+                      "start": 19.285,
+                      "end": 20.185
+                    },
+                    {
+                      "text": "Como é que você maneja a injustiça?",
+                      "start": 20.244999,
+                      "end": 22.744999
+                    },
+                    {
+                      "text": "Como é que você maneja frustração?",
+                      "start": 23.605,
+                      "end": 26.345
+                    }
+                  ],
+                  "num_words": 66,
+                  "start": 0.24,
+                  "end": 26.345
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Como é que você maneja sobrecarga?",
+                      "start": 26.564999,
+                      "end": 28.630001
+                    },
+                    {
+                      "text": "Você você maneja bem sobrecarga?",
+                      "start": 29.01,
+                      "end": 30.69
+                    },
+                    {
+                      "text": "Você sabe manejar sobrecarga?",
+                      "start": 30.69,
+                      "end": 32.15
+                    },
+                    {
+                      "text": "Você não sabe manejar sobrecarga?",
+                      "start": 32.53,
+                      "end": 33.91
+                    },
+                    {
+                      "text": "Presta atenção, 1 pessoa que ainda não sabe manejar sobrecarga tá, e aí vamos pensar sobrecarga de trabalho, sobrecarga emocional, sobrecarga de problema em casa, sobrecarga de problema consigo mesmo.",
+                      "start": 34.53,
+                      "end": 48.675
+                    }
+                  ],
+                  "num_words": 50,
+                  "start": 26.564999,
+                  "end": 48.675
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "1 pessoa que não consegue manejar esse tipo de sobrecarga, é 1 pessoa que precisa aprender a fazer isso o quanto antes, tanto pra amadurecer como pessoa humana, tanto pra não cair no problema da pornografia e é esse caminho que a gente vai trilhar aqui ao longo do nosso curso está bom?",
+                      "start": 48.815,
+                      "end": 64.03
+                    },
+                    {
+                      "text": "Na aula de hoje eu quero falar com você sobre o problema do desencadeante, então a gente vai pensar né, quando a gente vai lá no nosso ciclo, no ciclo do vício, o desencadeante ele é o 1º movimento né, a 1º coisa que acontece lá.",
+                      "start": 64.03,
+                      "end": 76.235
+                    },
+                    {
+                      "text": "O que que é o desencadeante?",
+                      "start": 76.235,
+                      "end": 77.295006
+                    },
+                    {
+                      "text": "O desencadeante ele é 1 momento em que o ciclo todo começa, ou seja, você viu 1 imagem pornográfica ou ou seja, você viu 1 imagem pornográfica ou você experimentou 1 sentimento naquele momento, então o desencadeante é onde tudo de fato começa, é quando você começa a flertar com a imagem pornográfica, está bom?",
+                      "start": 77.515,
+                      "end": 97.575005
+                    },
+                    {
+                      "text": "Eu quero que você comece a perceber quais são esses desencadeantes quais são, presta atenção, quais são os desencadeantes mais comuns em você, você precisa saber disso.",
+                      "start": 98.035,
+                      "end": 111.81
+                    }
+                  ],
+                  "num_words": 187,
+                  "start": 48.815,
+                  "end": 111.81
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Sabe por quê?",
+                      "start": 112.509995,
+                      "end": 113.229996
+                    },
+                    {
+                      "text": "Porque eles nunca vão mudar, eles vão ser exatamente o mesmo.",
+                      "start": 113.229996,
+                      "end": 117.649994
+                    },
+                    {
+                      "text": "Eu preciso que você preste muita atenção nisso aqui, você olhar pra dentro de si, você vai perceber que todas as vezes que você cai na pornografia, olha só o desencadeante aquilo que começou essa queda, assim olha geralmente é a mesma coisa, 1 2 3 no máximo 4 ali diferentes.",
+                      "start": 118.189995,
+                      "end": 138.56001
+                    },
+                    {
+                      "text": "Qual é o nosso trabalho?",
+                      "start": 141.1,
+                      "end": 142.06001
+                    },
+                    {
+                      "text": "O nosso trabalho é muito simples, parece que é complexo sair da pornografia porque ninguém ensina como, mas quando você cai aqui no recomeço casal que a gente está dando aqui você percebe que é muito simples.",
+                      "start": 142.06001,
+                      "end": 150.88
+                    }
+                  ],
+                  "num_words": 107,
+                  "start": 112.509995,
+                  "end": 150.88
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "E como assim muito simples?",
+                      "start": 152.015,
+                      "end": 152.975
+                    },
+                    {
+                      "text": "É muito simples você precisa entender 1 coisa, eu preciso saber quais são esses meu esses meus quatros ou 5 desencadeantes aqui.",
+                      "start": 152.975,
+                      "end": 160.27501
+                    },
+                    {
+                      "text": "Porque eles vão se repetir.",
+                      "start": 161.29501,
+                      "end": 162.755
+                    },
+                    {
+                      "text": "Talvez você não consiga exorcizar eles de você, talvez eles continuem dentro de você por 1 bom tempo, mas o fato de já saber quais são eles já te ajuda muito nesse processo.",
+                      "start": 163.66,
+                      "end": 173.76
+                    },
+                    {
+                      "text": "Como é que vai funcionar o nosso exercício né?",
+                      "start": 173.82,
+                      "end": 176.3
+                    }
+                  ],
+                  "num_words": 74,
+                  "start": 152.015,
+                  "end": 176.3
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Está logo aqui, você vai fazer a mesma coisa, você vai terminar de assistir essa aula, terminar de assistir essa explicação, você vai praticar o exercício e depois você vai continuar aqui no recomeço tá, como é que funciona, eu dou pra você aqui alguns desencadeantes mais comuns, no final eu deixo 1 espaço pra você né, 1 espaço de outros aqui, pra você talvez você né tenha lá 1 outro desencadeante que você perceba e que eu não tenha citado.",
+                      "start": 176.3,
+                      "end": 201.3
+                    },
+                    {
+                      "text": "O que que você vai fazer?",
+                      "start": 201.84001,
+                      "end": 203.12001
+                    },
+                    {
+                      "text": "Você vai assinar lá quais são os desencadeantes mais comuns que acontecem contigo.",
+                      "start": 203.12001,
+                      "end": 210.515
+                    },
+                    {
+                      "text": "Então só pra você ter 1 ideia, casa vazia, tempo livre, ter dinheiro disponível, estar viajando, sentimento de tédio, estresse, raiva, autopiedade, cansaço e por aí vai, tá?",
+                      "start": 210.515,
+                      "end": 227.01
+                    },
+                    {
+                      "text": "Eles têm que acho que deve ter uns 1 pouco mais de 20 desencadeantes que eu consegui mapear e e colocar aqui pra você e tem 1 espaço ali pra você colocar algum outro.",
+                      "start": 227.01,
+                      "end": 236.615
+                    }
+                  ],
+                  "num_words": 162,
+                  "start": 176.3,
+                  "end": 236.615
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Clareza no processo.",
+                      "start": 236.615,
+                      "end": 237.735
+                    },
+                    {
+                      "text": "O que que é clareza no processo?",
+                      "start": 237.735,
+                      "end": 239.195
+                    },
+                    {
+                      "text": "Daqui a pouco, em algum momento, você vai sentir vontade de ver pornografia, você vai sentir vontade de ver pornografia.",
+                      "start": 239.255,
+                      "end": 245.91501
+                    },
+                    {
+                      "text": "E nesse momento a gente vai ver o que que a gente precisa fazer nesse momento.",
+                      "start": 246.51,
+                      "end": 249.81
+                    },
+                    {
+                      "text": "Nesse momento a 1º coisa que a gente tem que entender é, qual que é o desencadeante?",
+                      "start": 250.35,
+                      "end": 254.45
+                    }
+                  ],
+                  "num_words": 63,
+                  "start": 236.615,
+                  "end": 254.45
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Isso tem que vim assim olha, automático.",
+                      "start": 255.23,
+                      "end": 257.57
+                    },
+                    {
+                      "text": "Qual que é o desencadeante?",
+                      "start": 257.87698,
+                      "end": 258.997
+                    },
+                    {
+                      "text": "Está bom?",
+                      "start": 258.997,
+                      "end": 259.637
+                    },
+                    {
+                      "text": "Pra gente conseguir ordenar todas essas paixões.",
+                      "start": 259.637,
+                      "end": 262.99698
+                    },
+                    {
+                      "text": "Na próxima aula a gente vai continuar falando sobre esse processo todo do círculo.",
+                      "start": 262.99698,
+                      "end": 267.15698
+                    }
+                  ],
+                  "num_words": 35,
+                  "start": 255.23,
+                  "end": 267.15698
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Faça o exercício e volte aqui.",
+                      "start": 267.15698,
+                      "end": 268.93698
+                    }
+                  ],
+                  "num_words": 6,
+                  "start": 267.15698,
+                  "end": 268.93698
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
