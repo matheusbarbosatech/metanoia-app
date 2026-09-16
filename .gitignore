@@ -11,6 +11,7 @@ ENV/
 
 # Caches de áudio e arquivos de mídia pesados
 data/temp_audio/
+output/
 *.mp3
 *.wav
 *.mp4
