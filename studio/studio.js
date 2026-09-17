@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
   carregarPilares();
   carregarFilaPosts();
   inicializarDataAgendamento();
+  carregarConfigWebhook();
 });
 
 function switchTab(tabId) {
@@ -344,3 +345,86 @@ async function publicarAgora(id) {
 function jsonPayload(obj) {
   return JSON.stringify(obj);
 }
+
+/* ==========================================================================
+   WEBHOOK & AUTOMAÇÃO CONTROLLER
+   ========================================================================== */
+
+async function carregarConfigWebhook() {
+  try {
+    const res = await fetch("/api/config/webhook");
+    if (res.ok) {
+      const data = await res.json();
+      const input = document.getElementById("webhook-url-input");
+      const toggle = document.getElementById("webhook-auto-toggle");
+      const badge = document.getElementById("webhook-badge");
+      const badgeText = document.getElementById("webhook-badge-text");
+
+      if (input) input.value = data.webhook_url || "";
+      if (toggle) toggle.checked = !!data.auto_disparo;
+
+      if (data.webhook_url) {
+        badge.classList.add("active");
+        badgeText.innerText = "Conectado";
+      } else {
+        badge.classList.remove("active");
+        badgeText.innerText = "Desconectado";
+      }
+    }
+  } catch (e) {
+    console.error("Erro ao carregar webhook:", e);
+  }
+}
+
+async function salvarConfigWebhook() {
+  const url = document.getElementById("webhook-url-input").value.trim();
+  const auto = document.getElementById("webhook-auto-toggle").checked;
+
+  try {
+    const res = await fetch("/api/config/webhook", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ webhook_url: url, auto_disparo: auto })
+    });
+    if (res.ok) {
+      alert("✅ Configurações de Webhook salvas com sucesso!");
+      carregarConfigWebhook();
+    }
+  } catch (e) {
+    alert("Erro ao salvar configurações do Webhook.");
+  }
+}
+
+async function testarConexaoWebhook() {
+  const url = document.getElementById("webhook-url-input").value.trim();
+  const resultBox = document.getElementById("webhook-test-result");
+
+  if (!url) {
+    alert("Informe a URL do Webhook antes de testar!");
+    return;
+  }
+
+  resultBox.style.display = "block";
+  resultBox.className = "webhook-result-box";
+  resultBox.innerText = "Enviando sinal de teste para o Webhook...";
+
+  try {
+    const res = await fetch("/api/config/webhook/testar", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ webhook_url: url })
+    });
+    const data = await res.json();
+    if (data.sucesso) {
+      resultBox.className = "webhook-result-box success";
+      resultBox.innerText = `✅ Sucesso! O Webhook respondeu com status HTTP ${data.status_code}. Conexão operacional!`;
+    } else {
+      resultBox.className = "webhook-result-box error";
+      resultBox.innerText = `❌ Falha: ${data.mensagem}`;
+    }
+  } catch (e) {
+    resultBox.className = "webhook-result-box error";
+    resultBox.innerText = `❌ Erro de requisição ao testar Webhook.`;
+  }
+}
+

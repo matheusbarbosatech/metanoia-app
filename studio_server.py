@@ -57,6 +57,12 @@ class StudioRequestHandler(SimpleHTTPRequestHandler):
             self._responder_json(posts)
             return
 
+        if path == "/api/config/webhook":
+            url = scheduler_service.obter_config("webhook_url", "")
+            auto_disparo = scheduler_service.obter_config("auto_webhook", "false") == "true"
+            self._responder_json({"webhook_url": url, "auto_disparo": auto_disparo})
+            return
+
         # Arquivos estáticos normais (HTML, CSS, JS, MP4, PNG)
         return super().do_GET()
 
@@ -107,7 +113,7 @@ class StudioRequestHandler(SimpleHTTPRequestHandler):
 
                 if sucesso:
                     # Adiciona automaticamente à fila do SQLite como Renderizado
-                    scheduler_service.adicionar_post(
+                    pid = scheduler_service.adicionar_post(
                         titulo=titulo,
                         pilar=pilar,
                         roteiro_texto=texto,
@@ -115,11 +121,21 @@ class StudioRequestHandler(SimpleHTTPRequestHandler):
                         status="Renderizado"
                     )
 
+                    # Disparo automático se configurado
+                    webhook_disparado = False
+                    auto_disparo = scheduler_service.obter_config("auto_webhook", "false") == "true"
+                    webhook_url = scheduler_service.obter_config("webhook_url", "")
+                    if auto_disparo and webhook_url:
+                        scheduler_service.disparar_webhook(pid)
+                        webhook_disparado = True
+
                     self._responder_json({
                         "sucesso": True,
                         "video_arquivo": video_final.name,
                         "duracao": duracao,
-                        "mensagem": "Vídeo renderizado com sucesso!"
+                        "post_id": pid,
+                        "webhook_disparado": webhook_disparado,
+                        "mensagem": "Vídeo renderizado com sucesso!" + (" (Disparado via Webhook)" if webhook_disparado else "")
                     })
                 else:
                     self._responder_json({"sucesso": False, "mensagem": "Falha no FFmpeg."}, status=500)
@@ -156,6 +172,22 @@ class StudioRequestHandler(SimpleHTTPRequestHandler):
                 return
 
             res = scheduler_service.publicar_agora(int(pid))
+            self._responder_json(res)
+            return
+
+        # 5. Salvar Configurações de Webhook
+        if path == "/api/config/webhook":
+            url = dados.get("webhook_url", "").strip()
+            auto_disparo = "true" if dados.get("auto_disparo") else "false"
+            scheduler_service.salvar_config("webhook_url", url)
+            scheduler_service.salvar_config("auto_webhook", auto_disparo)
+            self._responder_json({"sucesso": True, "mensagem": "Configurações de automação salvas com sucesso!"})
+            return
+
+        # 6. Testar Conexão do Webhook
+        if path == "/api/config/webhook/testar":
+            url = dados.get("webhook_url", "").strip() or scheduler_service.obter_config("webhook_url", "")
+            res = scheduler_service.testar_webhook(url)
             self._responder_json(res)
             return
 

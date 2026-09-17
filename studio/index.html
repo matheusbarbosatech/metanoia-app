@@ -225,6 +225,45 @@
           </button>
         </div>
 
+        <!-- Painel de Conexão de Webhook & Automação (n8n / Make / Buffer) -->
+        <div class="webhook-config-card mt-3">
+          <div class="webhook-header">
+            <div>
+              <h3><span class="title-icon">⚡</span> Conexão de Automação & Webhooks (n8n / Make / Buffer)</h3>
+              <p class="small-text">Conecte sua automação para despachar os vídeos renderizados diretamente para Instagram Reels, TikTok e YouTube Shorts sem você precisar fazer nada manualmente.</p>
+            </div>
+            <div class="webhook-status-badge" id="webhook-badge">
+              <span class="status-dot"></span> <span id="webhook-badge-text">Desconectado</span>
+            </div>
+          </div>
+
+          <div class="webhook-form-grid">
+            <div class="form-group">
+              <label>Endpoint do Webhook (URL do Webhook n8n, Make.com ou Buffer):</label>
+              <input type="url" id="webhook-url-input" class="custom-input" placeholder="https://seu-n8n.com/webhook/metanoia-postagens ou https://hook.eu1.make.com/...">
+            </div>
+            <div class="form-group">
+              <label class="checkbox-label">
+                <input type="checkbox" id="webhook-auto-toggle">
+                <span><strong>Disparo Automático:</strong> Enviar via Webhook imediatamente após cada renderização</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="webhook-actions mt-2">
+            <button class="btn btn-gold" onclick="salvarConfigWebhook()">
+              <span class="btn-icon">💾</span> Salvar Configurações
+            </button>
+            <button class="btn btn-secondary" onclick="testarConexaoWebhook()">
+              <span class="btn-icon">🔌</span> Testar Conexão Agora
+            </button>
+            <a href="/automations/COMO_CONFIGURAR_WEBHOOKS.md" target="_blank" class="btn btn-secondary" style="text-decoration:none;">
+              <span class="btn-icon">📖</span> Guia do Fluxo n8n / Make
+            </a>
+          </div>
+          <div id="webhook-test-result" class="webhook-result-box" style="display:none;"></div>
+        </div>
+
         <!-- Formulário de Agendamento Rápido -->
         <div class="quick-schedule-card mt-3">
           <h3>Agendar Novo Vídeo para as Redes Sociais</h3>

@@ -1,0 +1,102 @@
+{
+  "name": "METANOIA // Despachador de Postagens Automáticas (Reels, TikTok, Shorts)",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "metanoia-postagens",
+        "responseMode": "onReceived",
+        "responseData": "allEntries",
+        "options": {}
+      },
+      "id": "1",
+      "name": "Webhook Metanoia Studio",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1.1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.body.evento }}",
+              "operation": "equal",
+              "value2": "video_pronto_publicacao"
+            }
+          ]
+        }
+      },
+      "id": "2",
+      "name": "Verificar Evento",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        480,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "message": "=⚔️ NOVO VÍDEO METANOIA PRONTO!\n\n📌 Título: {{ $json.body.titulo }}\n🛡️ Pilar: {{ $json.body.pilar }}\n\n📝 Legenda:\n{{ $json.body.legenda }}\n\n{{ $json.body.hashtags }}\n\n🎬 Arquivo: {{ $json.body.video.arquivo_relativo }}"
+      },
+      "id": "3",
+      "name": "Notificação Telegram/Discord",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.1,
+      "position": [
+        720,
+        200
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "upload",
+        "title": "={{ $json.body.titulo }} #shorts",
+        "description": "={{ $json.body.legenda }}\n\n{{ $json.body.hashtags }}",
+        "categoryId": "22",
+        "privacyStatus": "public"
+      },
+      "id": "4",
+      "name": "Postar no YouTube Shorts",
+      "type": "n8n-nodes-base.youTube",
+      "typeVersion": 1,
+      "position": [
+        720,
+        400
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook Metanoia Studio": {
+      "main": [
+        [
+          {
+            "node": "Verificar Evento",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Verificar Evento": {
+      "main": [
+        [
+          {
+            "node": "Notificação Telegram/Discord",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Postar no YouTube Shorts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}
