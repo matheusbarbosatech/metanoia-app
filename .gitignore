@@ -34,4 +34,5 @@ desktop.ini
 .env
 .env.*
 assets/videos_fundo/
+studio_posts.db
 

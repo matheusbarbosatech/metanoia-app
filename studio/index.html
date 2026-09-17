@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>METANOIA // Content Studio & Automação de Vídeos Virais</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Inter:wght@400;500;600;700;800&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/studio/studio.css">
+</head>
+<body>
+  <!-- Top Navigation Header -->
+  <header class="studio-header">
+    <div class="header-brand">
+      <img src="/assets/logo_oficial_metanoia.png" alt="Metanoia Logo" class="brand-logo">
+      <div class="brand-titles">
+        <h1>METANOIA <span>CONTENT STUDIO</span></h1>
+        <p class="brand-tagline">A Forja dos 90 Dias // Automação de Vídeos & Redes Sociais</p>
+      </div>
+    </div>
+    <div class="header-badges">
+      <div class="status-badge live" title="API DevWorld Operacional">
+        <span class="dot"></span> DEVWORLD AI: <strong>CLAUDE / OPUS</strong>
+      </div>
+      <div class="status-badge live" title="Pexels Video Bank">
+        <span class="dot"></span> PEXELS: <strong>4K CDN ATIVO</strong>
+      </div>
+      <div class="status-badge social" title="YouTube Shorts Conectado">
+        <span class="dot"></span> YOUTUBE SHORTS: <strong>PRONTO</strong>
+      </div>
+    </div>
+  </header>
+
+  <!-- Studio Navigation Tabs -->
+  <nav class="studio-tabs">
+    <button class="tab-btn active" id="tab-roteiro-btn" onclick="switchTab('roteiro')">
+      <span class="tab-icon">⚡</span> 1. FÁBRICA DE ROTEIROS (IA)
+    </button>
+    <button class="tab-btn" id="tab-video-btn" onclick="switchTab('video')">
+      <span class="tab-icon">🎬</span> 2. ESTÚDIO DE RENDERIZAÇÃO 9:16
+    </button>
+    <button class="tab-btn" id="tab-agenda-btn" onclick="switchTab('agenda')">
+      <span class="tab-icon">🚀</span> 3. AGENDADOR & REDES SOCIAIS
+    </button>
+  </nav>
+
+  <!-- Main Container -->
+  <main class="studio-content">
+    
+    <!-- ABA 1: FÁBRICA DE ROTEIROS -->
+    <section id="view-roteiro" class="tab-view active">
+      <div class="view-grid">
+        <!-- Coluna Esquerda: Configuração e Pilares -->
+        <div class="panel-card config-panel">
+          <h2 class="panel-title"><span class="title-icon">⚔️</span> Escolha o Pilar do Vídeo</h2>
+          <p class="panel-desc">O METANOIA é um ecossistema completo. Selecione o foco da narrativa:</p>
+          
+          <div class="pillars-grid" id="pillars-container">
+            <!-- Renderizado dinamicamente via JS -->
+          </div>
+
+          <div class="form-group mt-4">
+            <label for="ai-model-select">Modo de Inteligência Artificial:</label>
+            <select id="ai-model-select" class="custom-select">
+              <option value="alta_velocidade">⚡ DevWorld Claude Sonnet (Resposta Instantânea 1s)</option>
+              <option value="ilimitado">♾️ DevWorld Claude Opus Ilimitado (-f Sem custo de cota)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="ai-tone-select">Tom de Voz da Narrativa:</label>
+            <select id="ai-tone-select" class="custom-select">
+              <option value="Confrontador e Sóbrio">Confrontador & Sóbrio (Homem para homem, bíblico)</option>
+              <option value="Urgente e Militar">Urgente & Militar (Alerta de combate contra o vício)</option>
+              <option value="Emocionante e Restaurador">Emocionante & Restaurador (Família, honra e esperança)</option>
+            </select>
+          </div>
+
+          <button class="btn btn-primary btn-block" id="btn-generate-script" onclick="gerarRoteiroComIA()">
+            <span class="btn-icon">⚡</span> GERAR ROTEIRO COM IA
+          </button>
+        </div>
+
+        <!-- Coluna Direita: Editor e Decupagem -->
+        <div class="panel-card script-display-panel">
+          <div class="panel-header-flex">
+            <h2 class="panel-title"><span class="title-icon">📜</span> Roteiro Decupado Cena a Cena</h2>
+            <span class="model-tag" id="script-source-tag">Aguardando geração...</span>
+          </div>
+
+          <div id="script-loading" class="loading-box" style="display: none;">
+            <div class="spinner"></div>
+            <p>O Claude da DevWorld está construindo o roteiro e os termos de B-roll...</p>
+          </div>
+
+          <div id="script-editor-container">
+            <div class="form-group">
+              <label>Título do Vídeo:</label>
+              <input type="text" id="script-title-input" class="custom-input" placeholder="Título impactante aparecerá aqui...">
+            </div>
+
+            <div class="form-group">
+              <label>Hook dos Primeiros 3 Segundos (Quebra de Padrão):</label>
+              <input type="text" id="script-hook-input" class="custom-input highlight-input" placeholder="Gancho verbal...">
+            </div>
+
+            <div class="form-group">
+              <label>Texto Completo da Locução:</label>
+              <textarea id="script-text-input" class="custom-textarea" rows="4" placeholder="Texto que será lido pela voz neural..."></textarea>
+            </div>
+
+            <label>Decupagem Visual de Cenas (B-rolls Pexels/Pixabay):</label>
+            <div class="scenes-table-wrap">
+              <table class="scenes-table">
+                <thead>
+                  <tr>
+                    <th>Tempo</th>
+                    <th>Fala</th>
+                    <th>Cena Visual</th>
+                    <th>Termo Pexels (EN)</th>
+                  </tr>
+                </thead>
+                <tbody id="scenes-table-body">
+                  <tr>
+                    <td colspan="4" class="text-muted text-center">Clique em "Gerar Roteiro com IA" para montar as cenas.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
+            <div class="form-group mt-3">
+              <label>Legenda Sugerida com Chamada para o Direct:</label>
+              <textarea id="script-caption-input" class="custom-textarea" rows="2"></textarea>
+            </div>
+
+            <div class="action-buttons-flex mt-4">
+              <button class="btn btn-gold btn-block" onclick="enviarParaEstudioVideo()">
+                <span class="btn-icon">🎬</span> ENVIAR PARA O ESTÚDIO DE VÍDEO 👉
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABA 2: ESTÚDIO DE RENDERIZAÇÃO DE VÍDEO -->
+    <section id="view-video" class="tab-view">
+      <div class="view-grid">
+        <!-- Controles de Renderização -->
+        <div class="panel-card">
+          <h2 class="panel-title"><span class="title-icon">⚙️</span> Configurações da Produção</h2>
+          
+          <div class="form-group">
+            <label for="voice-select">Voz da Narração (100% Grátis):</label>
+            <select id="voice-select" class="custom-select">
+              <option value="1">🎙️ Duarte Épico (Masculina Solene - Tom Bíblico)</option>
+              <option value="2">🎙️ Francisca Firme (Feminina Clara e Séria)</option>
+              <option value="3">🎙️ Brian Multilingual (Masculina Moderna 2025)</option>
+              <option value="4">🎙️ Thalita Multilingual (Feminina Fluida)</option>
+              <option value="5">🎙️ Antonio Clássico (Masculina Tradicional PT-BR)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="music-select">Trilha Sonora de Fundo:</label>
+            <select id="music-select" class="custom-select">
+              <option value="epic">🎵 Trailer Épico (Orquestra Hans Zimmer + Tambores a 18%)</option>
+              <option value="none">🔇 Sem Trilha (Apenas Locução)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Texto a Ser Falado:</label>
+            <textarea id="video-voice-text" class="custom-textarea" rows="5" placeholder="Texto da locução..."></textarea>
+          </div>
+
+          <div class="info-card-box">
+            <p><strong>⚡ Motor Cinemático com Cortes a cada 2.5s:</strong></p>
+            <p class="small-text">O script busca automaticamente 8 clipes em Full HD no Pexels e Pixabay, fatia em cenas de 2.5 segundos, queima as legendas amarelas com contorno preto e mixa a trilha sonora com fade-out gradual.</p>
+          </div>
+
+          <button class="btn btn-primary btn-block mt-4" id="btn-render-video" onclick="iniciarRenderizacao()">
+            <span class="btn-icon">🔥</span> RENDERIZAR VÍDEO 9:16 AGORA
+          </button>
+
+          <div id="render-progress" class="render-progress-box" style="display: none;">
+            <div class="spinner"></div>
+            <p id="render-status-text">Processando cortes dinâmicos e mixando áudio via FFmpeg...</p>
+          </div>
+        </div>
+
+        <!-- Player Vertical 9:16 -->
+        <div class="panel-card video-preview-panel">
+          <h2 class="panel-title"><span class="title-icon">📱</span> Pré-Visualização Vertical 9:16</h2>
+          
+          <div class="phone-mockup">
+            <video id="studio-video-player" controls poster="/output/preview_dynamic_ocean.png" src="/output/metanoia_roteiro_4_A_Alian_a_de_Honra_Ferro_.mp4">
+              Seu navegador não suporta a tag de vídeo.
+            </video>
+          </div>
+
+          <div class="preview-actions mt-3">
+            <a id="btn-download-video" class="btn btn-gold" href="/output/metanoia_roteiro_4_A_Alian_a_de_Honra_Ferro_.mp4" download="video_metanoia.mp4">
+              <span class="btn-icon">📥</span> Baixar Vídeo MP4
+            </a>
+            <button class="btn btn-secondary" onclick="enviarParaAgendador()">
+              <span class="btn-icon">🚀</span> Agendar Postagem
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABA 3: AGENDADOR & REDES SOCIAIS -->
+    <section id="view-agenda" class="tab-view">
+      <div class="panel-card">
+        <div class="panel-header-flex">
+          <div>
+            <h2 class="panel-title"><span class="title-icon">📅</span> Esteira de Postagens & Agendamento</h2>
+            <p class="panel-desc">Gerencie a fila de postagens para Instagram Reels, YouTube Shorts e TikTok.</p>
+          </div>
+          <button class="btn btn-primary" onclick="carregarFilaPosts()">
+            <span class="btn-icon">🔄</span> Atualizar Fila
+          </button>
+        </div>
+
+        <!-- Formulário de Agendamento Rápido -->
+        <div class="quick-schedule-card mt-3">
+          <h3>Agendar Novo Vídeo para as Redes Sociais</h3>
+          <div class="schedule-form-grid">
+            <div class="form-group">
+              <label>Vídeo Selecionado:</label>
+              <input type="text" id="sched-video-title" class="custom-input" placeholder="Título do vídeo...">
+            </div>
+
+            <div class="form-group">
+              <label>Horário de Postagem (Pico de Engajamento):</label>
+              <div class="time-presets">
+                <button type="button" class="preset-chip" onclick="setTimePreset('11:30')">11:30 (Almoço)</button>
+                <button type="button" class="preset-chip" onclick="setTimePreset('18:30')">18:30 (Saída)</button>
+                <button type="button" class="preset-chip" onclick="setTimePreset('21:45')">21:45 (Noite/Aliança)</button>
+              </div>
+              <input type="datetime-local" id="sched-datetime" class="custom-input mt-1">
+            </div>
+
+            <div class="form-group">
+              <label>Canais de Destino:</label>
+              <div class="channels-checkboxes">
+                <label class="checkbox-label">
+                  <input type="checkbox" id="chk-insta" checked> 📸 Instagram Reels
+                </label>
+                <label class="checkbox-label">
+                  <input type="checkbox" id="chk-yt" checked> ▶️ YouTube Shorts
+                </label>
+                <label class="checkbox-label">
+                  <input type="checkbox" id="chk-tiktok" checked> 🎵 TikTok
+                </label>
+              </div>
+            </div>
+
+            <div class="form-group actions-col">
+              <button class="btn btn-gold btn-block" onclick="salvarAgendamento()">
+                <span class="btn-icon">📅</span> Salvar na Fila
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tabela da Fila -->
+        <div class="queue-table-wrap mt-4">
+          <table class="queue-table">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Título</th>
+                <th>Pilar</th>
+                <th>Canais</th>
+                <th>Horário Programado</th>
+                <th>Status</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="queue-table-body">
+              <!-- Renderizado dinamicamente via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="/studio/studio.js"></script>
+</body>
+</html>
