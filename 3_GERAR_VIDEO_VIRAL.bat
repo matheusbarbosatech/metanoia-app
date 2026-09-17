@@ -11,11 +11,12 @@ echo  - TikTok
 echo  - Instagram Reels
 echo  - YouTube Shorts
 echo.
-echo Recursos integrados:
-echo  * Banco de Vídeos Cinemáticos: Pexels API + Pixabay API integrados (.env)
-echo  * Vozes Neurais Naturais: Antonio (PT-BR), Francisca (PT-BR), Duarte (PT-PT)
-echo  * Legendas dinâmicas amarelas sincronizadas com contorno preto
-echo  * Header oficial METANOIA // FORJA DE 90 DIAS
+echo Recursos integrados de alta retenção:
+echo  * Cortes Dinâmicos a cada 2.5s (Faíscas, Guerreiro, Bigorna, Tempestade, Chamas)
+echo  * Trilha Sonora Épica de Cinema (Orquestra + Tambores de Guerra)
+echo  * Vozes Neurais Gratuitas (Duarte Épico, Francisca Firme, Brian Multilingual, etc.)
+echo  * Suporte a Áudio Próprio (Grave no WhatsApp/celular e coloque na pasta 'input_audio')
+echo  * Legendas Dinâmicas Amarelas de Alto Impacto + Header Oficial
 echo.
 echo =====================================================================
 echo.
